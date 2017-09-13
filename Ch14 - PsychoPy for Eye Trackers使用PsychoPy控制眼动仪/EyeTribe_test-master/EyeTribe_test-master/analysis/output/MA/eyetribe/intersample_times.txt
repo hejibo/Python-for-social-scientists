@@ -1,2 +1,0 @@
-intersample time	0-15	16	19-35	35-50	higher	inttimes_total	samples_missing	samples_total
-	0	17276	70	3	1	17350	283	17462

@@ -1,2 +1,0 @@
-	0	1	2	3	higher	inttimes_total	samples_missing	samples_total
-M	0.0	1641356.0	0.0	0.0	0.0	1641356.0	23047.0	1641921.0

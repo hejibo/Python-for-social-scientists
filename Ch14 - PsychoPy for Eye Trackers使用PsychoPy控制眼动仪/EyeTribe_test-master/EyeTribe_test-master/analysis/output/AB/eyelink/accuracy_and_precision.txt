@@ -1,2 +1,0 @@
-precision_x	precision_y	accuracy_x	accuracy_y
-5.47491397004e-05	9.5454819775e-05	0.218878478172	-0.0429763207727

@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{PsychoPy入门 - 基本刺激材料的呈现}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{1. 呈现文本刺激材料}{section.1}% 2
+\BOOKMARK [3][-]{subsubsection.1.1.1}{1.1. 设置画布}{subsection.1.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.1.2}{1.2 定义文本刺激}{subsection.1.1}% 4
+\BOOKMARK [3][-]{subsubsection.1.1.3}{1.3 呈现多行富文本 \(Rich Text\)}{subsection.1.1}% 5
+\BOOKMARK [2][-]{subsection.1.2}{2. 呈现图片刺激材料}{section.1}% 6
+\BOOKMARK [2][-]{subsection.1.3}{3. 呈现常见形状：线条，矩形和圆形}{section.1}% 7
+\BOOKMARK [3][-]{subsubsection.1.3.1}{3.1 呈现线条刺激}{subsection.1.3}% 8
+\BOOKMARK [3][-]{subsubsection.1.3.2}{3.1 呈现矩形刺激}{subsection.1.3}% 9
+\BOOKMARK [3][-]{subsubsection.1.3.3}{3.3 呈现圆心刺激}{subsection.1.3}% 10
+\BOOKMARK [3][-]{subsubsection.1.3.4}{4. 呈现声音刺激}{subsection.1.3}% 11
+\BOOKMARK [3][-]{subsubsection.1.3.5}{5. 呈现视频刺激}{subsection.1.3}% 12

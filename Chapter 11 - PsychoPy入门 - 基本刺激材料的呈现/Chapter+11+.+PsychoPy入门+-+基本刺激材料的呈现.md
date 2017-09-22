@@ -51,8 +51,9 @@ Todo: 增加HEX code和RGB的知识
 #### 1.2.2 PsychoPy的坐标系
 我们要将文本，图片等刺激放到画布合适的位置， 我们就需要了解PsychoPy的坐标系系统。PsychoPy以pos=[0.3, 0.5]的形式指定视觉刺激呈现的位置。 第一个参数0.3为X轴，控制文本呈现的水平位置； 第二个参数0.5为Y轴，控制文本呈现的垂直位置。屏幕的右侧为X轴的正方向； 屏幕的上方为Y轴的正方向。 图11.1展示的是PsychoPy的坐标系。因此，屏幕的右上角的坐标为(1,1)，右下角为(1,-1), 左上角为(-1,1)，左下角为(-1,-1)，正中央为(0,0)。
 
+![Getting Started](ch11PsychoPy.jpg)
+![Getting Started](images\ch11PsychoPy.jpg)
 
-![alt text](ch11-PsychoPy的坐标系系统.png "ch11-PsychoPy的坐标系系统.png")
 <center>图11.XXX PsychoPy的坐标系系统</center>
 
 
@@ -86,7 +87,10 @@ core.wait(5.0)
 
 
 
-![alt text](ch11-VisualTextStim示例图片.PNG "ch11-VisualTextStim示例图片.PNG")
+
+
+<center><img src="ch11-VisualTextStim示例图片.PNG" width="600"></center>
+
 <center>图11.XXX 文本刺激材料</center>
 
 
@@ -154,7 +158,8 @@ core.wait(5.0)
 【小贴士2】凡是设计到需要使用其它材料，比如图片、声音、视频文件的代码，最常见的错误就是代码找不到刺激素材在
 电脑中的位置。下面的代码块要求代码和图片放置在同一个文件夹下面。如图您在执行本书提供的代码时遇到了类似下面的“	ERROR 	Couldn't find image face.jpg; check path?”的错误，多半的原因就是代码找不到图片刺激放置的位置。
 
-##### Running: C:\Users\Dr.He\Documents\Book-Python-for-Psychologist\Ch11 - PsychoPy入门 - 基本刺激材料的呈现\ch11-VisualImageStim.py #####
+```python
+ Running: C:\Users\Dr.He\Documents\Book-Python-for-Psychologist\Ch11 - PsychoPy入门 - 基本刺激材料的呈现\ch11-VisualImageStim.py #####
 pyo version 0.8.0 (uses single precision)
 2.9368 	WARNING 	Monitor specification not found. Creating a temporary one...
 4.1327 	ERROR 	Couldn't find image face.jpg; check path? (tried: C:\Users\Dr.He\Documents\Book-Python-for-Psychologist\Ch11 - PsychoPy入门 - 基本刺激材料的呈现\face.jpg)
@@ -174,6 +179,9 @@ Traceback (most recent call last):
   File "C:\Program Files (x86)\PsychoPy2\lib\site-packages\psychopy\visual\basevisual.py", line 794, in _createTexture
     raise IOError, msg % (tex, os.path.abspath(tex))
 IOError: Couldn't find image face.jpg; check path? (tried: C:\Users\Dr.He\Documents\Book-Python-for-Psychologist\Ch11 - PsychoPy入门 - 基本刺激材料的呈现\face.jpg)
+
+
+```
 
 
 
@@ -203,12 +211,14 @@ core.wait(5.0)
 
 
 
-![alt text](ch11-VisualImageStim示例图片.PNG "ch11-VisualImageStim示例图片.PNG")
+
+
+<center><img src="ch11-VisualImageStim示例图片.PNG" width="600"></center>
 
 
 <center>图11. XX. 由于长宽比不一致导致变形的PsychoPy中呈现的图片刺激材料</center>
 
-![alt text](face.jpg "face.jpg")
+<center><img src="face.jpg" width="300"></center>
 
 <center>图11. XX. 原始的图片刺激材料</center>
 
@@ -277,8 +287,7 @@ core.wait(5.0)
 
 ```
 
-
-![alt text](Ch11-VisualRectStimuli 示例图片.PNG "Ch11-VisualRectStimuli 示例图片.PNG")
+<center><img src="Ch11-VisualRectStimuli 示例图片.PNG" width="600"></center>
 
 <center>图11. XX. 矩形刺激材料</center>
 

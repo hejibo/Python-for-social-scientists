@@ -1,5 +1,5 @@
 
-# PsychoPy入门 - 基本刺激材料的呈现
+#第11章. PsychoPy入门 - 基本刺激材料的呈现
 
 作者： 何吉波博士，优视眼动科技公司创始人，hejibo@usee.tech, http://www.usee.tech
 

@@ -51,8 +51,10 @@ Todo: 增加HEX code和RGB的知识
 #### 1.2.2 PsychoPy的坐标系
 我们要将文本，图片等刺激放到画布合适的位置， 我们就需要了解PsychoPy的坐标系系统。PsychoPy以pos=[0.3, 0.5]的形式指定视觉刺激呈现的位置。 第一个参数0.3为X轴，控制文本呈现的水平位置； 第二个参数0.5为Y轴，控制文本呈现的垂直位置。屏幕的右侧为X轴的正方向； 屏幕的上方为Y轴的正方向。 图11.1展示的是PsychoPy的坐标系。因此，屏幕的右上角的坐标为(1,1)，右下角为(1,-1), 左上角为(-1,1)，左下角为(-1,-1)，正中央为(0,0)。
 
-![Getting Started](ch11PsychoPy.jpg)
-![Getting Started](images\ch11PsychoPy.jpg)
+<center><img src="ch11-PsychoPy的坐标系系统.png" width="400"></center>
+
+
+
 
 <center>图11.XXX PsychoPy的坐标系系统</center>
 

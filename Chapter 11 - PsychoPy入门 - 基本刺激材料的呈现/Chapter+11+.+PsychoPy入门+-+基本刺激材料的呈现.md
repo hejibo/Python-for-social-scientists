@@ -331,7 +331,6 @@ core.wait(5.0)
 
 <center>图11. XX. 矩形刺激材料</center>
 
-
 ### 3.3 呈现圆形刺激
 我们呈现圆形刺激材料的函数为visual.Circle。一如往常，myWin为画布的名字。radius参数指定圆形的半径，edges参数指定圆形的边界的粗细。 pos参数指定圆形在屏幕中的位置。下面的示例代码会在画布中呈现一个圆形。
 
@@ -410,6 +409,7 @@ Stroop, J. R. (1935). Studies of interference in serial verbal reactions. Journa
 Color Space. http://www.psychopy.org/general/colours.html
 
 http://www.psychopy.org/api/visual/moviestim.html
+
 
 
 

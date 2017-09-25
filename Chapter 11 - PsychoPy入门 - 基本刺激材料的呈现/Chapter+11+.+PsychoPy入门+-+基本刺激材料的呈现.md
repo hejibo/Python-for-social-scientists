@@ -34,20 +34,23 @@ psychopyTxt = visual.TextStim(myWin, color='#FFFFFF',
 上面的参数基本上都是可选着的。 如果读者觉得用不着，也可以省去不写。如果文本定义好后， 需要修改，也可以通过psychopyTxt.text=u"我爱你，中国！"，或者也可以通过psychopyTxt.alignHoriz='left'这样的方式去修改需要呈现的文本的内容和参数。
 
 #### 1.2.1 文本颜色的控制
-PsychoPy提供多种控制文本颜色的方法。 我们可以使用网页编程中常见的HEX 编码系统， 如color='#FFFFFF'来控制文本的颜色。 也可以通过RGB的方式来控制文本颜色。 
+PsychoPy提供多种控制文本颜色的方法：1.使用颜色的名字，如‘DarkSalmon’。 2.我们可以使用网页编程中常见的HEX 编码系统， 如color='#FFFFFF'来控制文本的颜色。 3. 我们也可以通过RGB, LMS, DKL的等多种颜色空间来控制文本颜色。 RGB是使用的最多的色彩空间，例如(255,0,0)表示<span style="color:red">红色</span>，(0,255,0)表示<span style="color:green">绿色</span>，(0,0,255)
+表示<span style="color:blue">蓝色</span> ,(0,0,0)表示<span style="color:black"> 白色</span>，(255,255,255)表示<span style="color:black">黑色</span>。
 
-
-color=(255,0,0)
-(0,255,0)
-(0,0,255)
-(0,0,0)
-(255,255,255)
-
-Todo: 增加HEX code和RGB的知识
-
+下面的代码片断分别演示了使用颜色名字，HEX编码系统，DKL, LMS和RGB等颜色空间来控制文本的颜色。
+```python
+stim = visual.GratingStim(win, color=[1,-1,-1], colorSpace='rgb') #will be red
+stim.setColor('Firebrick')#one of the web/X11 color names
+stim.setColor('#FFFAF0')#an off-white
+stim.setColor([0,90,1], colorSpace='dkl')#modulate along S-cone axis in isoluminant plane
+stim.setColor([1,0,0], colorSpace='lms')#modulate only on the L cone
+stim.setColor([1,1,1], colorSpace='rgb')#all guns to max
+stim.setColor([1,0,0])#this is ambiguous - you need to specify a color space
+```
 
 #### 1.2.2 PsychoPy的坐标系
 我们要将文本，图片等刺激放到画布合适的位置， 我们就需要了解PsychoPy的坐标系系统。PsychoPy以pos=[0.3, 0.5]的形式指定视觉刺激呈现的位置。 第一个参数0.3为X轴，控制文本呈现的水平位置； 第二个参数0.5为Y轴，控制文本呈现的垂直位置。屏幕的右侧为X轴的正方向； 屏幕的上方为Y轴的正方向。 图11.1展示的是PsychoPy的坐标系。因此，屏幕的右上角的坐标为(1,1)，右下角为(1,-1), 左上角为(-1,1)，左下角为(-1,-1)，正中央为(0,0)。
+
 ![ch11_PsychoPy的坐标系系统.png](ch11_PsychoPy的坐标系系统.png)
 
 
@@ -82,16 +85,56 @@ myWin.flip()
 core.wait(5.0)
 ```
 
-
-
-
-
 <center><img src="ch11_VisualTextStim示例图片.PNG" width="600"></center>
 
 <center>图11.XXX 文本刺激材料</center>
 
+### 1.3 呈现颜色丰富的文本
+发展心理学和教育心理学的知识告诉我们，正确的教育方式是给学生们他们刚刚可以垫脚努力得到的知识。切记拔苗助长，打击学生们的自信心。因为自信心的维护和培养对未来的成功非常重要。同样的，对于培养大家的编程兴趣和自我效能感，最重要的也是循序渐进地增加代码的复杂度，并将通过分段学习得到的知识整合到一个，也就是从part-task training到full-task training的过程。
 
-### 1.3 呈现多行富文本 (Rich Text)
+我们知道，心理学非常知名的一个实验是Stroop 效应（斯特鲁普效应）（Stroop, 1935; Peterson, et al., 2002）。这个任务要求被试说出字的颜色，而不是念字的读音。当字的颜色和读音一致时，被试的反应时短于字的颜色和读音不一致时。这个实验说明字的颜色时会受到字义的干扰。在您们的心理学课堂中，您们多半参与过这个实验。那么，我们应该怎么呈现Stroop任务呢？由于Python的易学性和易读性，其实，到现在，您已经基本具备技能完成Stroop 任务的刺激呈现了。这个代码示例，也可以很好地整合我们上面讲到的文本刺激材料的呈现和文本的色彩空间的知识。
+
+
+```python
+
+#!/usr/bin/env python2
+# -*- coding: utf-8 -*-
+from psychopy import visual, core, event
+
+myWin = visual.Window((800.0,800.0),
+            monitor='testMonitor', units ='deg', screen=0)
+myWin.setRecordFrameIntervals()
+
+red = visual.TextStim(myWin, color='red',
+                        text = u"red",
+                        units='norm', height=0.1,
+                        pos=[0, -0.1], alignHoriz='right',alignVert='top')
+                        
+green = visual.TextStim(myWin, color='green',
+                        text = u"green",
+                        units='norm', height=0.1,
+                        pos=[0, 0], alignHoriz='right',alignVert='top')
+                        
+blue = visual.TextStim(myWin, color='blue',
+                        text = u"black",
+                        units='norm', height=0.1,
+                        pos=[0, 0.1], alignHoriz='right',alignVert='top')                       
+
+red.draw()
+green.draw()
+blue.draw()
+    
+myWin.flip()
+
+core.wait(5.0)
+```
+
+
+<center><img src="ch11_Stroop_color_display.png" width="600"></center>
+<center>图11.XXX Stroop任务的样例刺激材料</center>
+
+
+### 1.4 呈现多行富文本 (Rich Text)
 上面的例子已经上我们可以很容易的呈现文字了。可是上面的文字只能单行显示。 我们的试验任务可能需要要求我们呈现多行富文本（Rich Text），例如，实验的指导语等。 当然，我们的确可以通过上面的示例，通过定义多个单行文本变量，并一行调节pos参数来实现多行文本。 可是这样的方案冗长，降低代码的可读性和增加编码的时间和难度。 有没有比较容易的办法来实现多行富文本的呈现呢？
 
 Python的丰富的字符串功能让我们呈现多行富文本信息非常容易。 根据Python基础知识章节的讲解， 我们知道可以使用单引号（'），双引号（""），和三引号（"""）来定义字符串。 三引号（"""）是支持换行的。 要呈现多行富文本，我们只需要使用三引号（"""）赋值给visual.TextStim的text参数即可。 下面的代码块，很好的展示了如何呈现多行的实验指导语。
@@ -347,11 +390,24 @@ core.quit()
 
 ```
 
+### 6. 呈现较为复杂刺激材料的综合案例
+
+
 <center><bold>参考文献</bold></center>
 
+Derrington, A.M., Krauskopf, J., & Lennie, P. (1984). Chromatic Mechanisms in Lateral Geniculate Nucleus of Macaque. Journal of Physiology, 357, 241-265.
+
+MacLeod, D. I. A. & Boynton, R. M. (1979). Chromaticity diagram showing cone excitation by stimuli of equal luminance. Journal of the Optical Society of America, 69(8), 1183-1186.
 
 He, J., & McCarley, J. S. (2010). Executive working memory load does not compromise perceptual processing during visual search: Evidence from additive factors analysis. Attention, Perception, & Psychophysics, 72(2), 308-316.
 
+Peterson, B. S., Kane, M. J., Alexander, G. M., Lacadie, C., Skudlarski, P., Leung, H. C., ... & Gore, J. C. (2002). An event-related functional MRI study comparing interference effects in the Simon and Stroop tasks. Cognitive Brain Research, 13(3), 427-440.
+
+Stroop, J. R. (1935). Studies of interference in serial verbal reactions. Journal of experimental psychology, 18(6), 643.
+
+
+
+Color Space. http://www.psychopy.org/general/colours.html
 
 http://www.psychopy.org/api/visual/moviestim.html
 

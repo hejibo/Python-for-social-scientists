@@ -1,7 +1,6 @@
+# 第11章. PsychoPy入门 - 基本刺激材料的呈现
 
-#第11章. PsychoPy入门 - 基本刺激材料的呈现
-
-作者： 何吉波博士，优视眼动科技公司创始人，hejibo@usee.tech, http://www.usee.tech
+作者： 何吉波博士，优视眼动科技公司创始人，hejibo@usee.tech, [http://www.usee.tech](http://www.usee.tech)  
 
 
 这一节讲述如何通过PsychoPy呈现心理学的常用刺激材料，包括文本、图片、声音、视频等。此外，我们还以经典的视觉搜索任务 (Visual Search Task)为例，讲述如何通过编程实现比较复杂的刺激，例如，在O中搜索Q字母。
@@ -43,17 +42,13 @@ color=(255,0,0)
 (0,0,255)
 (0,0,0)
 (255,255,255)
-![_auto_0](attachment:_auto_0)
 
 Todo: 增加HEX code和RGB的知识
 
 
 #### 1.2.2 PsychoPy的坐标系
 我们要将文本，图片等刺激放到画布合适的位置， 我们就需要了解PsychoPy的坐标系系统。PsychoPy以pos=[0.3, 0.5]的形式指定视觉刺激呈现的位置。 第一个参数0.3为X轴，控制文本呈现的水平位置； 第二个参数0.5为Y轴，控制文本呈现的垂直位置。屏幕的右侧为X轴的正方向； 屏幕的上方为Y轴的正方向。 图11.1展示的是PsychoPy的坐标系。因此，屏幕的右上角的坐标为(1,1)，右下角为(1,-1), 左上角为(-1,1)，左下角为(-1,-1)，正中央为(0,0)。
-
-<center><img src="ch11-PsychoPy的坐标系系统.png" width="400"></center>
-
-
+![ch11_PsychoPy的坐标系系统.png](ch11_PsychoPy的坐标系系统.png)
 
 
 <center>图11.XXX PsychoPy的坐标系系统</center>
@@ -91,7 +86,7 @@ core.wait(5.0)
 
 
 
-<center><img src="ch11-VisualTextStim示例图片.PNG" width="600"></center>
+<center><img src="ch11_VisualTextStim示例图片.PNG" width="600"></center>
 
 <center>图11.XXX 文本刺激材料</center>
 
@@ -215,7 +210,7 @@ core.wait(5.0)
 
 
 
-<center><img src="ch11-VisualImageStim示例图片.PNG" width="600"></center>
+<center><img src="ch11_VisualImageStim示例图片.PNG" width="600"></center>
 
 
 <center>图11. XX. 由于长宽比不一致导致变形的PsychoPy中呈现的图片刺激材料</center>
@@ -289,24 +284,77 @@ core.wait(5.0)
 
 ```
 
-<center><img src="Ch11-VisualRectStimuli 示例图片.PNG" width="600"></center>
+<center><img src="Ch11_VisualRectStimuli 示例图片.PNG" width="600"></center>
 
 <center>图11. XX. 矩形刺激材料</center>
 
 
-### 3.3 呈现圆心刺激
-我们呈现线条的函数为visual.Line。例如，绘制一条水平线条的命令为THoriLine = visual.Line(myWin, start=(0, 0), end=(2.8, 0))。一如往常，myWin为画布的名字。start和end分别设置线条的起点和终点。 start和end的具体值，决定了线条不水平的，还是垂直的。 如果我们仅仅修改X轴的参数(start=(0, 0), end=(2.8, 0))，则线条为水平的。 如果我们仅仅修改Y轴的参数start=(0, 0), end=(0, 1.1)，则线条为垂直的。
+### 3.3 呈现圆形刺激
+我们呈现圆形刺激材料的函数为visual.Circle。一如往常，myWin为画布的名字。radius参数指定圆形的半径，edges参数指定圆形的边界的粗细。 pos参数指定圆形在屏幕中的位置。下面的示例代码会在画布中呈现一个圆形。
 
+```python
+#!/usr/bin/env python2
+from psychopy import visual, core, event
+
+myWin = visual.Window((800.0,800.0),allowGUI=False,winType='pyglet',
+            monitor='testMonitor', units ='deg', screen=0)
+myWin.setRecordFrameIntervals()
+
+circle = visual.Circle(myWin, radius=2, edges=32)
+circle.pos=(0,0)
+circle.draw()
+
+myWin.flip()
+core.wait(5.0)
+
+```
 ### 4. 呈现声音刺激
-我们呈现线条的函数为visual.Line。例如，绘制一条水平线条的命令为THoriLine = visual.Line(myWin, start=(0, 0), end=(2.8, 0))。一如往常，myWin为画布的名字。start和end分别设置线条的起点和终点。 start和end的具体值，决定了线条不水平的，还是垂直的。 如果我们仅仅修改X轴的参数(start=(0, 0), end=(2.8, 0))，则线条为水平的。 如果我们仅仅修改Y轴的参数start=(0, 0), end=(0, 1.1)，则线条为垂直的。
+本章节以前的部分都是演示的视觉刺激（文本和图片），使用的是psychopy的Visual模块。下面我们要演示的是如何呈现声音刺激，需要使用sound模块。因此，我们首先要使用from psychopy import sound导入声音播放模块。然后我们使用tada = sound.Sound('tada.wav')定义一个声音播放素材，指定要播放的声音文件为tada.wav，因此，我们需要把tada.wav和下面的代码放在同一个目录下面。最后，我们使用tada.play()来播放声音文件。
+
+```python
+# -*- coding: utf-8 -*-
+#!/usr/bin/env python2
+'''
+by 何吉波@优视眼动科技.
+代码用于播放声音刺激。这个代码版可能只适用于Windows操作系统
+'''
+from psychopy import sound,core
+tada = sound.Sound('tada.wav')
+tada.play()
+core.wait(2)
+core.quit()
+
+```
 
 ### 5. 呈现视频刺激
-我们呈现线条的函数为visual.Line。例如，绘制一条水平线条的命令为THoriLine = visual.Line(myWin, start=(0, 0), end=(2.8, 0))。一如往常，myWin为画布的名字。start和end分别设置线条的起点和终点。 start和end的具体值，决定了线条不水平的，还是垂直的。 如果我们仅仅修改X轴的参数(start=(0, 0), end=(2.8, 0))，则线条为水平的。 如果我们仅仅修改Y轴的参数start=(0, 0), end=(0, 1.1)，则线条为垂直的。
+呈现视频刺激，我们使用的是visual,MovieStim函数。我们使用mov = visual.MovieStim(win, 'jwpIntro.mov', size=[320,240])这一行代码指定要播放的视频文件为jwpIntro.mov，播放的视频窗口的大小
+为320 * 240像素。播放视频的本质是逐帧读取视频，然后播放出来。所以我们使用mov.status != visual.FINISHED判断是否读取到了视频的结尾，如果没有，我们通过mov.draw()呈现新的一帧图像，直到视频的结尾。
+
+
+播放视频刺激时，有两点需要注意，一是要呈现的视频刺激文件需要和代码在同一个目录，或者在代码中指定视频所在的具体目录；二是，如果视频不能播放，请检查您的电脑里是否正确地安装了该视频所需要的解码驱动。PsychoPy支持AVbin 可以读取的任何视频格式 (例如 mpeg, DivX, mov等)
+
+```python
+# -*- coding: utf-8 -*-
+#!/usr/bin/env python2
+from psychopy import visual, core, event
+
+win = visual.Window([800,600])
+mov = visual.MovieStim(win, 'jwpIntro.mov', size=[320,240])
+while mov.status != visual.FINISHED:
+    mov.draw()
+    win.flip()
+core.quit()
+
+```
 
 <center><bold>参考文献</bold></center>
 
 
 He, J., & McCarley, J. S. (2010). Executive working memory load does not compromise perceptual processing during visual search: Evidence from additive factors analysis. Attention, Perception, & Psychophysics, 72(2), 308-316.
+
+
+http://www.psychopy.org/api/visual/moviestim.html
+
 
 
 

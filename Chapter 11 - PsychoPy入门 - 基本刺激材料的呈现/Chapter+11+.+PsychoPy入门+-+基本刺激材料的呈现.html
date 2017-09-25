@@ -1,4 +1,4 @@
-<h1 id="psychopy入门---基本刺激材料的呈现">PsychoPy入门 - 基本刺激材料的呈现</h1>
+<h1 id="第11章.-psychopy入门---基本刺激材料的呈现">第11章. PsychoPy入门 - 基本刺激材料的呈现</h1>
 <p>作者： 何吉波博士，优视眼动科技公司创始人，hejibo@usee.tech, http://www.usee.tech</p>
 <p>这一节讲述如何通过PsychoPy呈现心理学的常用刺激材料，包括文本、图片、声音、视频等。此外，我们还以经典的视觉搜索任务 (Visual Search Task)为例，讲述如何通过编程实现比较复杂的刺激，例如，在O中搜索Q字母。</p>
 <h2 id="呈现文本刺激材料">1. 呈现文本刺激材料</h2>
@@ -12,39 +12,28 @@
 <p>上面的参数基本上都是可选着的。 如果读者觉得用不着，也可以省去不写。如果文本定义好后， 需要修改，也可以通过psychopyTxt.text=u&quot;我爱你，中国！&quot;，或者也可以通过psychopyTxt.alignHoriz='left'这样的方式去修改需要呈现的文本的内容和参数。</p>
 <h4 id="文本颜色的控制">1.2.1 文本颜色的控制</h4>
 <p>PsychoPy提供多种控制文本颜色的方法。 我们可以使用网页编程中常见的HEX 编码系统， 如color='#FFFFFF'来控制文本的颜色。 也可以通过RGB的方式来控制文本颜色。</p>
-<p>color=(255,0,0) (0,255,0) (0,0,255) (0,0,0) (255,255,255) <img src="attachment:_auto_0" alt="auto0" /></p>
+<p>color=(255,0,0) (0,255,0) (0,0,255) (0,0,0) (255,255,255)</p>
 <p>Todo: 增加HEX code和RGB的知识</p>
 <h4 id="psychopy的坐标系">1.2.2 PsychoPy的坐标系</h4>
-<p>我们要将文本，图片等刺激放到画布合适的位置， 我们就需要了解PsychoPy的坐标系系统。PsychoPy以pos=[0.3, 0.5]的形式指定视觉刺激呈现的位置。 第一个参数0.3为X轴，控制文本呈现的水平位置； 第二个参数0.5为Y轴，控制文本呈现的垂直位置。屏幕的右侧为X轴的正方向； 屏幕的上方为Y轴的正方向。 图11.1展示的是PsychoPy的坐标系。因此，屏幕的右上角的坐标为(1,1)，右下角为(1,-1), 左上角为(-1,1)，左下角为(-1,-1)，正中央为(0,0)。</p>
-<center>
-<img src="ch11-PsychoPy的坐标系系统.png" width="400">
-</center>
-
-
-
-
+<p>我们要将文本，图片等刺激放到画布合适的位置， 我们就需要了解PsychoPy的坐标系系统。PsychoPy以pos=[0.3, 0.5]的形式指定视觉刺激呈现的位置。 第一个参数0.3为X轴，控制文本呈现的水平位置； 第二个参数0.5为Y轴，控制文本呈现的垂直位置。屏幕的右侧为X轴的正方向； 屏幕的上方为Y轴的正方向。 图11.1展示的是PsychoPy的坐标系。因此，屏幕的右上角的坐标为(1,1)，右下角为(1,-1), 左上角为(-1,1)，左下角为(-1,-1)，正中央为(0,0)。 <img src="ch11_PsychoPy的坐标系系统.png" alt="ch11_PsychoPy的坐标系系统.png" /></p>
 <center>
 图11.XXX PsychoPy的坐标系系统
 </center>
-
-
-
-
-<pre class="sourceCode python"><code class="sourceCode python"><span class="co">#!/usr/bin/env python2</span>
+<div class="sourceCode"><pre class="sourceCode python"><code class="sourceCode python"><span class="co">#!/usr/bin/env python2</span>
 <span class="co"># -*- coding: utf-8 -*-</span>
 <span class="co">#使用from psychopy import visual导入visual这个视觉库</span>
-<span class="ch">from</span> psychopy <span class="ch">import</span> visual, core, event
+<span class="im">from</span> psychopy <span class="im">import</span> visual, core, event
 
 <span class="co">#定义一个取名为myWin的画布</span>
-myWin = visual.Window((<span class="fl">800.0</span>,<span class="fl">800.0</span>),
-            monitor=<span class="st">&#39;testMonitor&#39;</span>, units =<span class="st">&#39;deg&#39;</span>, screen=<span class="dv">0</span>)
+myWin <span class="op">=</span> visual.Window((<span class="fl">800.0</span>,<span class="fl">800.0</span>),
+            monitor<span class="op">=</span><span class="st">&#39;testMonitor&#39;</span>, units <span class="op">=</span><span class="st">&#39;deg&#39;</span>, screen<span class="op">=</span><span class="dv">0</span>)
 myWin.setRecordFrameIntervals()
 
 <span class="co">#使用visual.TextStim函数定义要呈现的文本信息</span>
-psychopyTxt = visual.TextStim(myWin, color=<span class="st">&#39;#FFFFFF&#39;</span>,
-                        text = <span class="st">u&quot;PsychoPy is a GREAT tool&quot;</span>,
-                        units=<span class="st">&#39;norm&#39;</span>, height=<span class="fl">0.1</span>,
-                        pos=[<span class="fl">0.3</span>, <span class="fl">0.5</span>], alignHoriz=<span class="st">&#39;right&#39;</span>,alignVert=<span class="st">&#39;top&#39;</span>)
+psychopyTxt <span class="op">=</span> visual.TextStim(myWin, color<span class="op">=</span><span class="st">&#39;#FFFFFF&#39;</span>,
+                        text <span class="op">=</span> <span class="st">u&quot;PsychoPy is a GREAT tool&quot;</span>,
+                        units<span class="op">=</span><span class="st">&#39;norm&#39;</span>, height<span class="op">=</span><span class="fl">0.1</span>,
+                        pos<span class="op">=</span>[<span class="fl">0.3</span>, <span class="fl">0.5</span>], alignHoriz<span class="op">=</span><span class="st">&#39;right&#39;</span>,alignVert<span class="op">=</span><span class="st">&#39;top&#39;</span>)
 
 <span class="co">#通过psychopyTxt.draw()这个绘制函数讲文本信息绘制到myWin画布</span>
 psychopyTxt.draw()
@@ -52,44 +41,41 @@ psychopyTxt.draw()
 myWin.flip()
 
 <span class="co">#让文本信息停留五秒钟，否则呈现内容就会一闪而过</span>
-core.wait(<span class="fl">5.0</span>)</code></pre>
+core.wait(<span class="fl">5.0</span>)</code></pre></div>
 <center>
-<img src="ch11-VisualTextStim示例图片.PNG" width="600">
+<img src="ch11_VisualTextStim示例图片.PNG" width="600">
 </center>
-
 <center>
 图11.XXX 文本刺激材料
 </center>
-
-
 <h3 id="呈现多行富文本-rich-text">1.3 呈现多行富文本 (Rich Text)</h3>
 <p>上面的例子已经上我们可以很容易的呈现文字了。可是上面的文字只能单行显示。 我们的试验任务可能需要要求我们呈现多行富文本（Rich Text），例如，实验的指导语等。 当然，我们的确可以通过上面的示例，通过定义多个单行文本变量，并一行调节pos参数来实现多行文本。 可是这样的方案冗长，降低代码的可读性和增加编码的时间和难度。 有没有比较容易的办法来实现多行富文本的呈现呢？</p>
 <p>Python的丰富的字符串功能让我们呈现多行富文本信息非常容易。 根据Python基础知识章节的讲解， 我们知道可以使用单引号（'），双引号（&quot;&quot;），和三引号（&quot;&quot;&quot;）来定义字符串。 三引号（&quot;&quot;&quot;）是支持换行的。 要呈现多行富文本，我们只需要使用三引号（&quot;&quot;&quot;）赋值给visual.TextStim的text参数即可。 下面的代码块，很好的展示了如何呈现多行的实验指导语。</p>
-<pre class="sourceCode python"><code class="sourceCode python"><span class="co">#!/usr/bin/env python2</span>
-<span class="ch">from</span> psychopy <span class="ch">import</span> visual, core, event
+<div class="sourceCode"><pre class="sourceCode python"><code class="sourceCode python"><span class="co">#!/usr/bin/env python2</span>
+<span class="im">from</span> psychopy <span class="im">import</span> visual, core, event
 
 <span class="co">#create a window to draw in</span>
-myWin = visual.Window((<span class="fl">800.0</span>,<span class="fl">800.0</span>))
+myWin <span class="op">=</span> visual.Window((<span class="fl">800.0</span>,<span class="fl">800.0</span>))
 myWin.setRecordFrameIntervals()
 
 
 <span class="co">#INITIALISE SOME STIMULI</span>
-instruction = visual.TextStim(myWin, color=<span class="st">&#39;#FFFFFF&#39;</span>,
-                        text = <span class="st">u&#39;&#39;&#39;         Instruction</span>
+instruction <span class="op">=</span> visual.TextStim(myWin, color<span class="op">=</span><span class="st">&#39;#FFFFFF&#39;</span>,
+                        text <span class="op">=</span> <span class="st">u&#39;&#39;&#39;         Instruction</span>
 <span class="st">                        </span>
 <span class="st">This is an experiment instruction. You need to do the following stuff.</span>
 <span class="st">1. Fixate at the dot.</span>
 <span class="st">2. press the &#39;Y&#39; or &#39;N&#39; key </span>
 <span class="st">Press any key to continue&#39;&#39;&#39;</span>,
-                        units=<span class="st">&#39;norm&#39;</span>, height=<span class="fl">0.1</span>,
-                        pos=[<span class="dv">0</span>, <span class="fl">0.6</span>], alignHoriz=<span class="st">&#39;center&#39;</span>,alignVert=<span class="st">&#39;top&#39;</span>
+                        units<span class="op">=</span><span class="st">&#39;norm&#39;</span>, height<span class="op">=</span><span class="fl">0.1</span>,
+                        pos<span class="op">=</span>[<span class="dv">0</span>, <span class="fl">0.6</span>], alignHoriz<span class="op">=</span><span class="st">&#39;center&#39;</span>,alignVert<span class="op">=</span><span class="st">&#39;top&#39;</span>
                        )
 instruction.draw()
     
 myWin.flip()
 
 <span class="co">#pause, so you get a chance to see it!</span>
-core.wait(<span class="fl">5.0</span>)</code></pre>
+core.wait(<span class="fl">5.0</span>)</code></pre></div>
 <h2 id="呈现图片刺激材料">2. 呈现图片刺激材料</h2>
 <p>在我们已经掌握如何呈现文本刺激后，呈现图片刺激就没有那么困难了。 因为呈现图片刺激的何以复用呈现文本刺激的绝大多数代码，包括导入关键工具库， 设置画布，绘制刺激和控制刺激呈现时间。 我们只需要新增加定义图片刺激材料的命令就可以了。</p>
 <p>呈现图片信息通常要经过下面的步骤： 1. 先使用from psychopy import visual导入visual这个视觉库， 2. 接着定义一个取名为myWin的画布， 3. 然后使用visual.ImageStim函数定义要呈现的文本信息， 4. 随后我们就可以通过faceRGB.draw()这个绘制函数讲文本信息绘制到myWin画布上， 5. 最后一步是，使用core.wait(5.0)这个函数来让文本信息停留五秒钟，否则呈现内容就会一闪而过。</p>
@@ -98,9 +84,9 @@ core.wait(<span class="fl">5.0</span>)</code></pre>
 <p>其中，myWin是我们定义的画布的名字。image='face.jpg'设置要呈现的图片的文件名。 pos=(0.0,0.0)设置图片呈现的位置为屏幕中央。 size=(1.0,1.0)表示图片呈现的长宽尺寸，即以长宽都为1度的长度等大小呈现。图11.3展示了下面的图片呈现代码块的显示效果图。</p>
 <p>我们在呈现图片刺激时，正确地设置size=(1.0,1.0)的参数是非常关键的。原则上来说， 我们应该以原图片的长宽比(Aspect Ratio)来呈现图片，以避免图片被拉升和变形。例如，我们的示例图片face.jpg是199*300的相素比，当我们以size=(1.0,1.0)的参数呈现时，图片就被横向拉胖了很多。 如图11.4所示，原图中的帅哥是比较苗条的，而当使用不一致的size=(1.0,1.0)参数时，图中的人物就变胖了许多。当然，修改图片的长宽比是一种很快的美颜的办法。 我只需要改变size=(1.0,1.0)的参数，就可以让我的照片一瞬间显得苗条。但是，梦想通常是丰满的，现实是很骨干的。执行一件事情需要很大的意志力。在现实生活中， 我从4月到8月天天不间断地跑步和举重，才从胖子变成了拥有六块腹肌的瘦子。 为了梦想，我们一起加油。</p>
 <p>【小贴士2】凡是设计到需要使用其它材料，比如图片、声音、视频文件的代码，最常见的错误就是代码找不到刺激素材在 电脑中的位置。下面的代码块要求代码和图片放置在同一个文件夹下面。如图您在执行本书提供的代码时遇到了类似下面的“ ERROR Couldn't find image face.jpg; check path?”的错误，多半的原因就是代码找不到图片刺激放置的位置。</p>
-<pre class="sourceCode python"><code class="sourceCode python"> Running: C:\Users\Dr.He\Documents\Book-Python-<span class="kw">for</span>-Psychologist\Ch11 - PsychoPy入门 - 基本刺激材料的呈现\ch11-VisualImageStim.py <span class="co">#####</span>
-pyo version <span class="fl">0.8.0</span> (uses single precision)
-<span class="fl">2.9368</span>  WARNING     Monitor specification not found. Creating a temporary one...
+<div class="sourceCode"><pre class="sourceCode python"><code class="sourceCode python"> Running: C:<span class="op">\</span>Users<span class="op">\</span>Dr.He<span class="op">\</span>Documents<span class="op">\</span>Book<span class="op">-</span>Python<span class="op">-</span><span class="cf">for</span><span class="op">-</span>Psychologist<span class="op">\</span>Ch11 <span class="op">-</span> PsychoPy入门 <span class="op">-</span> 基本刺激材料的呈现<span class="op">\</span>ch11<span class="op">-</span>VisualImageStim.py <span class="co">#####</span>
+pyo version <span class="fl">0.8</span>.<span class="dv">0</span> (uses single precision)
+<span class="fl">2.9368</span>  WARNING     Monitor specification <span class="kw">not</span> found. Creating a temporary one...
 <span class="fl">4.1327</span>  ERROR   Couldn<span class="st">&#39;t find image face.jpg; check path? (tried: C:\Users\Dr.He\Documents\Book-Python-for-Psychologist\Ch11 - PsychoPy入门 - 基本刺激材料的呈现</span><span class="ch">\f</span><span class="st">ace.jpg)</span>
 <span class="st">Traceback (most recent call last):</span>
 <span class="st">  File &quot;C:\Users\Dr.He\Documents\Book-Python-for-Psychologist\Ch11 - PsychoPy入门 - 基本刺激材料的呈现\ch11-VisualImageStim.py&quot;, line 10, in &lt;module&gt;</span>
@@ -117,102 +103,93 @@ pyo version <span class="fl">0.8.0</span> (uses single precision)
 <span class="st">    forcePOW2=False)</span>
 <span class="st">  File &quot;C:\Program Files (x86)\PsychoPy2\lib\site-packages\psychopy</span><span class="ch">\v</span><span class="st">isual</span><span class="ch">\b</span><span class="st">asevisual.py&quot;, line 794, in _createTexture</span>
 <span class="st">    raise IOError, msg % (tex, os.path.abspath(tex))</span>
-<span class="st">IOError: Couldn&#39;</span>t find image face.jpg; check path? (tried: C:\Users\Dr.He\Documents\Book-Python-<span class="kw">for</span>-Psychologist\Ch11 - PsychoPy入门 - 基本刺激材料的呈现\face.jpg)
-</code></pre>
+<span class="st">IOError: Couldn&#39;</span>t find image face.jpg<span class="op">;</span> check path? (tried: C:<span class="op">\</span>Users<span class="op">\</span>Dr.He<span class="op">\</span>Documents<span class="op">\</span>Book<span class="op">-</span>Python<span class="op">-</span><span class="cf">for</span><span class="op">-</span>Psychologist<span class="op">\</span>Ch11 <span class="op">-</span> PsychoPy入门 <span class="op">-</span> 基本刺激材料的呈现<span class="op">\</span>face.jpg)
+</code></pre></div>
 <p>【小贴士3】呈现依赖于其它素材文件，如图片，声音或者视频时，另外一个常见的错误就是文件名不对，或者扩展名不对。在Windows操作系统下面， 系统可能默认隐藏了文件的扩展名。 比如一个可见的文件名可能是face.jpg，但是它实际的文件名可能是face.jpg.jpg或者face.jpg.png。这也会导致如上所示的“ ERROR Couldn't find image face.jpg; check path?”的错误。所以，当您检查代码多次，而且也确保代码和素材文件在同一个目录下时，却非常焦躁的困惑于为什么不能正常执行代码。这时，请检查一下您的电脑是否设置了默认隐藏了文件的扩展名。</p>
-<pre class="sourceCode python"><code class="sourceCode python"><span class="co">#!/usr/bin/env python2</span>
-<span class="ch">from</span> psychopy <span class="ch">import</span> core, visual, event
-<span class="ch">import</span> psychopy.sound
+<div class="sourceCode"><pre class="sourceCode python"><code class="sourceCode python"><span class="co">#!/usr/bin/env python2</span>
+<span class="im">from</span> psychopy <span class="im">import</span> core, visual, event
+<span class="im">import</span> psychopy.sound
 <span class="co">#create a window to draw in</span>
-myWin = visual.Window((<span class="dv">600</span>,<span class="dv">600</span>))
+myWin <span class="op">=</span> visual.Window((<span class="dv">600</span>,<span class="dv">600</span>))
 myWin.setRecordFrameIntervals()
 <span class="co">#INITIALISE SOME STIMULI</span>
-faceRGB = visual.ImageStim(myWin,image=<span class="st">&#39;face.jpg&#39;</span>,
-    pos=(<span class="fl">0.0</span>,<span class="fl">0.0</span>),
-    size=(<span class="fl">1.0</span>,<span class="fl">1.0</span>))
+faceRGB <span class="op">=</span> visual.ImageStim(myWin,image<span class="op">=</span><span class="st">&#39;face.jpg&#39;</span>,
+    pos<span class="op">=</span>(<span class="fl">0.0</span>,<span class="fl">0.0</span>),
+    size<span class="op">=</span>(<span class="fl">1.0</span>,<span class="fl">1.0</span>))
 
 faceRGB.draw()
 myWin.flip()
 
 <span class="co">#pause, so you get a chance to see it!</span>
 core.wait(<span class="fl">5.0</span>)
-</code></pre>
+</code></pre></div>
 <center>
-<img src="ch11-VisualImageStim示例图片.PNG" width="600">
+<img src="ch11_VisualImageStim示例图片.PNG" width="600">
 </center>
-
-
 <center>
 图11. XX. 由于长宽比不一致导致变形的PsychoPy中呈现的图片刺激材料
 </center>
-
 <center>
 <img src="face.jpg" width="300">
 </center>
-
 <center>
 图11. XX. 原始的图片刺激材料
 </center>
-
-
 <h2 id="呈现常见形状线条矩形和圆形">3. 呈现常见形状：线条，矩形和圆形</h2>
 <p>在我们已经掌握了如何呈现文本和图片的情况下，呈现常见的几何形状，如线条，矩形和圆形，也就不太困难了，因为我们基本上只需要更新我们绘制刺激这一小部分的仅仅只有几行的代码。</p>
 <h3 id="呈现线条刺激">3.1 呈现线条刺激</h3>
 <p>我们呈现线条的函数为visual.Line。例如，绘制一条水平线条的命令为THoriLine = visual.Line(myWin, start=(0, 0), end=(2.8, 0))。一如往常，myWin为画布的名字。start和end分别设置线条的起点和终点。 start和end的具体值，决定了线条不水平的，还是垂直的。 如果我们仅仅修改X轴的参数(start=(0, 0), end=(2.8, 0))，则线条为水平的。 如果我们仅仅修改Y轴的参数start=(0, 0), end=(0, 1.1)，则线条为垂直的。</p>
-<pre class="sourceCode python"><code class="sourceCode python"><span class="co">#!/usr/bin/env python2</span>
+<div class="sourceCode"><pre class="sourceCode python"><code class="sourceCode python"><span class="co">#!/usr/bin/env python2</span>
 <span class="co"># -*- coding: utf-8 -*-</span>
-<span class="ch">from</span> psychopy <span class="ch">import</span> visual, core, event
+<span class="im">from</span> psychopy <span class="im">import</span> visual, core, event
 
 <span class="co">#create a window to draw in</span>
-myWin = visual.Window((<span class="fl">800.0</span>,<span class="fl">800.0</span>))
+myWin <span class="op">=</span> visual.Window((<span class="fl">800.0</span>,<span class="fl">800.0</span>))
 myWin.setRecordFrameIntervals()
 
 <span class="co">#绘制水平线</span>
-THoriLine = visual.Line(myWin, start=(<span class="dv">0</span>, <span class="dv">0</span>), end=(<span class="fl">2.8</span>, <span class="dv">0</span>))
+THoriLine <span class="op">=</span> visual.Line(myWin, start<span class="op">=</span>(<span class="dv">0</span>, <span class="dv">0</span>), end<span class="op">=</span>(<span class="fl">2.8</span>, <span class="dv">0</span>))
 THoriLine.draw()
 
 <span class="co">#绘制垂直线</span>
-TVertiLine = visual.Line(myWin, start=(<span class="dv">0</span>, <span class="dv">0</span>), end=(<span class="dv">0</span>, <span class="fl">1.1</span>))
+TVertiLine <span class="op">=</span> visual.Line(myWin, start<span class="op">=</span>(<span class="dv">0</span>, <span class="dv">0</span>), end<span class="op">=</span>(<span class="dv">0</span>, <span class="fl">1.1</span>))
 TVertiLine.draw()
     
 myWin.flip()
 
 <span class="co">#pause, so you get a chance to see it!</span>
-core.wait(<span class="fl">5.0</span>)</code></pre>
+core.wait(<span class="fl">5.0</span>)</code></pre></div>
 <h3 id="呈现矩形刺激">3.1 呈现矩形刺激</h3>
 <p>我们呈现矩形的函数为visual.Rect。使用square = visual.Rect(myWin,width=1,height=1)命令，我们就可以在名为myWin胡画布，绘制一个宽和高为1的正方形了。此外，我们可以通过square.pos=(0,0)来设置刺激的位置。我们也可以通过square.ori = 45来旋转刺激。 (注：pos为英文position的缩写; ori为orientation的缩写。)</p>
-<pre class="sourceCode python"><code class="sourceCode python"><span class="co">&#39;&#39;&#39;</span>
+<div class="sourceCode"><pre class="sourceCode python"><code class="sourceCode python"><span class="co">&#39;&#39;&#39;</span>
 <span class="co">By DR. Jibo He @ uSEE Eye Tracking Inc. </span>
 <span class="co">Written for my student at Chinese Academy of Science.</span>
 <span class="co">September 12, 2017</span>
 <span class="co">&#39;&#39;&#39;</span>
 <span class="co">#!/usr/bin/env python2</span>
-<span class="ch">from</span> psychopy <span class="ch">import</span> visual, core, event
+<span class="im">from</span> psychopy <span class="im">import</span> visual, core, event
 
 <span class="co">#create a window to draw in</span>
-myWin = visual.Window((<span class="fl">200.0</span>,<span class="fl">200.0</span>),allowGUI=<span class="ot">False</span>,winType=<span class="st">&#39;pyglet&#39;</span>,
-            monitor=<span class="st">&#39;testMonitor&#39;</span>, units =<span class="st">&#39;deg&#39;</span>, screen=<span class="dv">0</span>)
+myWin <span class="op">=</span> visual.Window((<span class="fl">200.0</span>,<span class="fl">200.0</span>),allowGUI<span class="op">=</span><span class="va">False</span>,winType<span class="op">=</span><span class="st">&#39;pyglet&#39;</span>,
+            monitor<span class="op">=</span><span class="st">&#39;testMonitor&#39;</span>, units <span class="op">=</span><span class="st">&#39;deg&#39;</span>, screen<span class="op">=</span><span class="dv">0</span>)
 myWin.setRecordFrameIntervals()
 
 <span class="co">#INITIALISE SOME STIMULI</span>
-square = visual.Rect(myWin,width=<span class="dv">1</span>,height=<span class="dv">1</span>)
-square.pos= (<span class="dv">0</span>,<span class="dv">0</span>)
-square.ori = <span class="dv">45</span>
+square <span class="op">=</span> visual.Rect(myWin,width<span class="op">=</span><span class="dv">1</span>,height<span class="op">=</span><span class="dv">1</span>)
+square.pos<span class="op">=</span> (<span class="dv">0</span>,<span class="dv">0</span>)
+square.ori <span class="op">=</span> <span class="dv">45</span>
 square.draw()
     
 
 myWin.flip()
 <span class="co">#pause, so you get a chance to see it!</span>
-core.wait(<span class="fl">5.0</span>)</code></pre>
+core.wait(<span class="fl">5.0</span>)</code></pre></div>
 <center>
-<img src="Ch11-VisualRectStimuli 示例图片.PNG" width="600">
+<img src="Ch11_VisualRectStimuli 示例图片.PNG" width="600">
 </center>
-
 <center>
 图11. XX. 矩形刺激材料
 </center>
-
-
 <h3 id="呈现圆心刺激">3.3 呈现圆心刺激</h3>
 <p>我们呈现线条的函数为visual.Line。例如，绘制一条水平线条的命令为THoriLine = visual.Line(myWin, start=(0, 0), end=(2.8, 0))。一如往常，myWin为画布的名字。start和end分别设置线条的起点和终点。 start和end的具体值，决定了线条不水平的，还是垂直的。 如果我们仅仅修改X轴的参数(start=(0, 0), end=(2.8, 0))，则线条为水平的。 如果我们仅仅修改Y轴的参数start=(0, 0), end=(0, 1.1)，则线条为垂直的。</p>
 <h3 id="呈现声音刺激">4. 呈现声音刺激</h3>
@@ -222,6 +199,4 @@ core.wait(<span class="fl">5.0</span>)</code></pre>
 <center>
 <bold>参考文献</bold>
 </center>
-
-
 <p>He, J., &amp; McCarley, J. S. (2010). Executive working memory load does not compromise perceptual processing during visual search: Evidence from additive factors analysis. Attention, Perception, &amp; Psychophysics, 72(2), 308-316.</p>

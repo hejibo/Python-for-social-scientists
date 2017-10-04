@@ -390,7 +390,7 @@ core.quit()
 ```
 
 ### 6. 呈现较为复杂刺激材料的综合案例
-
+我们
 
 <center><bold>参考文献</bold></center>
 
@@ -399,6 +399,8 @@ Derrington, A.M., Krauskopf, J., & Lennie, P. (1984). Chromatic Mechanisms in La
 MacLeod, D. I. A. & Boynton, R. M. (1979). Chromaticity diagram showing cone excitation by stimuli of equal luminance. Journal of the Optical Society of America, 69(8), 1183-1186.
 
 He, J., & McCarley, J. S. (2010). Executive working memory load does not compromise perceptual processing during visual search: Evidence from additive factors analysis. Attention, Perception, & Psychophysics, 72(2), 308-316.
+
+Takeda, Y., & Yagi, A. (2000). Inhibitory tagging in visual search can be found if search stimuli remain visible. Attention, Perception, & Psychophysics, 62(5), 927-934.
 
 Peterson, B. S., Kane, M. J., Alexander, G. M., Lacadie, C., Skudlarski, P., Leung, H. C., ... & Gore, J. C. (2002). An event-related functional MRI study comparing interference effects in the Simon and Stroop tasks. Cognitive Brain Research, 13(3), 427-440.
 

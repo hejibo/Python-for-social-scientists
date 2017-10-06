@@ -403,7 +403,19 @@ hejibo@usee.tech
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python2
 
+from psychopy import visual,core, event
 
+myWin = visual.Window((200.0,200.0))
+myWin.setRecordFrameIntervals()
+
+THoriLine = visual.Line(myWin,start=(-0.5,0), end=(0.5,0))
+THoriLine.draw()
+
+TVertiLine = visual.Line(myWin,start=(0,-0.5), end=(0,0.5))
+TVertiLine.draw()
+myWin.flip()
+
+core.wait(5.0)
 
 ```
 我们已经完成了注视十字，要重新做T或者L，仅仅需要的是修改横竖两条线的坐标位置就可以了。 下面的代码显示如何画T和L。
@@ -416,7 +428,19 @@ hejibo@usee.tech
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python2
 
+from psychopy import visual,core, event
 
+myWin = visual.Window((200.0,200.0))
+myWin.setRecordFrameIntervals()
+
+THoriLine = visual.Line(myWin,start=(-0.25,0), end=(0.25,0))
+THoriLine.draw()
+
+TVertiLine = visual.Line(myWin,start=(0,-0.5), end=(0,0))
+TVertiLine.draw()
+myWin.flip()
+
+core.wait(5.0)
 
 ```
 
@@ -431,9 +455,23 @@ hejibo@usee.tech
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python2
 
+from psychopy import visual,core, event
 
+myWin = visual.Window((200.0,200.0))
+myWin.setRecordFrameIntervals()
+
+THoriLine = visual.Line(myWin,start=(0,0), end=(0.5,0))
+THoriLine.draw()
+
+TVertiLine = visual.Line(myWin,start=(0,0), end=(0,0.5))
+TVertiLine.draw()
+myWin.flip()
+
+core.wait(5.0)
 
 ```
+
+思考题：  上面已经演示了如果显示L和T。我们做研究时，经常需要不同朝向的L和T，请读者思考，如何绘制不同朝向的L和T？纸上得来终觉浅，绝知此事要躬行。
 
 #### 6.2. 画C字 （半圆月）
 

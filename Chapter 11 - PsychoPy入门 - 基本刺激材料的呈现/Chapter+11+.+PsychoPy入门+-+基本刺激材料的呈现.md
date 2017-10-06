@@ -390,8 +390,82 @@ core.quit()
 ```
 
 ### 6. 呈现较为复杂刺激材料的综合案例
-我们做视觉搜索等认知心理学的研究者和学生可能一定听说过，或者熟悉，我们经常需要设计实验，让被试进行搜索任务，比如，从O中寻找C（He & McCarley, 2010; Takeda & Yagi, 2000），或者从O中寻找Q。设计这些刺激是我们研究者的一项基础工作。下面一小节，我们就讲解如何通过上面的基本素材和知识来设计稍微复杂的刺激，比如C，Q和注视十字(fixation cross)。
+我们做视觉搜索等认知心理学的研究者和学生可能一定听说过，或者熟悉，我们经常需要设计实验，让被试进行搜索任务，比如，从O中寻找C（He & McCarley, 2010; Takeda & Yagi, 2000），或者从O中寻找Q。设计这些刺激是我们研究者的一项基础工作。下面一小节，我们就讲解如何通过上面的基本素材和知识来设计稍微复杂的刺激，比如C，Q, T, L和注视十字(fixation cross)。
+#### 6.1. 注视十字(fixation cross), T和L
+注视十字可能是认知心理学实验中用得最多的实验材料了。 我们需要使用十字让被试的其实注视点是在固定的位置。 其实， 一个十字是由两条线段组成的。 我们利用 visual.Line()来完成注视十字， T和L。 
 
+```python
+'''
+注视十字 fixation cross示例
+By Jibo He @ uSEE Technology 
+hejibo@usee.tech
+'''
+# -*- coding: utf-8 -*-
+#!/usr/bin/env python2
+
+
+
+```
+我们已经完成了注视十字，要重新做T或者L，仅仅需要的是修改横竖两条线的坐标位置就可以了。 下面的代码显示如何画T和L。
+```python
+'''
+Draw Letter "T" demo
+By Jibo He @ uSEE Technology 
+hejibo@usee.tech
+'''
+# -*- coding: utf-8 -*-
+#!/usr/bin/env python2
+
+
+
+```
+
+
+
+```python
+'''
+Draw Letter "L" demo
+By Jibo He @ uSEE Technology 
+hejibo@usee.tech
+'''
+# -*- coding: utf-8 -*-
+#!/usr/bin/env python2
+
+
+
+```
+
+#### 6.2. 画C字 （半圆月）
+
+
+```python
+'''
+Draw Letter "C" demo
+By Jibo He @ uSEE Technology 
+hejibo@usee.tech
+'''
+# -*- coding: utf-8 -*-
+#!/usr/bin/env python2
+
+
+
+```
+
+#### 6.3. 画Q字
+
+
+```python
+'''
+Draw Letter "Q" demo
+By Jibo He @ uSEE Technology 
+hejibo@usee.tech
+'''
+# -*- coding: utf-8 -*-
+#!/usr/bin/env python2
+
+
+
+```
 
 <center><bold>参考文献</bold></center>
 

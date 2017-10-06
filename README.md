@@ -1,2 +1,4 @@
-# Book-Python-for-Experimental-Psychologists
-Book: Python for Experimental Psychologists
+# Python for Social Scientists Edit
+
+Book: Python for Social Scientists Edit
+

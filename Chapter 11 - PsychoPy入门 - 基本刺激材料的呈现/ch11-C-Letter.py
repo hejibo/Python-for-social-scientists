@@ -18,6 +18,10 @@ circle.pos=(0,0)
 circle.draw()
 
 THoriLine = visual.Line(myWin,start=(1.9,0), end=(2.1,0))
+THoriLine.lineColor = 'grey'
+THoriLine.lineWidth = 30
+
+
 THoriLine.draw()
 
 myWin.flip()

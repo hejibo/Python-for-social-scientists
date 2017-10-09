@@ -1,4 +1,9 @@
 #!/usr/bin/env python2
+
+import sys
+reload(sys)
+sys.setdefaultencoding("utf-8")
+
 from psychopy import visual, core, event
 
 #create a window to draw in

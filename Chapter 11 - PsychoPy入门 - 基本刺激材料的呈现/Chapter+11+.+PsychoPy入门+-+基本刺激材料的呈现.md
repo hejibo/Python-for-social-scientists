@@ -250,9 +250,6 @@ core.wait(5.0)
 ```
 
 
-
-
-
 <center><img src="ch11_VisualImageStim示例图片.PNG" width="600"></center>
 
 
@@ -473,24 +470,9 @@ core.wait(5.0)
 
 思考题：  上面已经演示了如果显示L和T。我们做研究时，经常需要不同朝向的L和T，请读者思考，如何绘制不同朝向的L和T？纸上得来终觉浅，绝知此事要躬行。
 
-#### 6.2. 画C字 （半圆月）
+#### 6.2. 画Q字
 
-
-```python
-'''
-Draw Letter "C" demo
-By Jibo He @ uSEE Technology 
-hejibo@usee.tech
-'''
-# -*- coding: utf-8 -*-
-#!/usr/bin/env python2
-
-
-
-```
-
-#### 6.3. 画Q字
-
+Q字可以当成是一个圆形(visual.Circle())加上一个线条(visual.Line())，我们只需要将线条放在正确合适的位置就可以了。下面是通过圆形和线条叠加绘制Q字的示例代码。
 
 ```python
 '''
@@ -498,11 +480,93 @@ Draw Letter "Q" demo
 By Jibo He @ uSEE Technology 
 hejibo@usee.tech
 '''
-# -*- coding: utf-8 -*-
 #!/usr/bin/env python2
+# -*- coding: utf-8 -*-
+from psychopy import visual, core, event
+
+#create a window to draw in
+myWin = visual.Window((800.0,800.0),allowGUI=False,winType='pyglet',
+            monitor='testMonitor', units ='deg', screen=0)
+myWin.setRecordFrameIntervals()
 
 
+#INITIALISE SOME STIMULI
+circle = visual.Circle(myWin, radius=2, edges=32)
+circle.pos=(0,0)
+circle.draw()
 
+THoriLine = visual.Line(myWin,start=(1.5,-0.7), end=(2.2,-1.35))
+THoriLine.draw()
+
+myWin.flip()
+#pause, so you get a chance to see it!
+core.wait(5.0)
+
+
+```
+#### 6.3. 画C字 （半圆月）
+C字 （半圆月）可以当成是一个圆圈(visual.Circle())多了一个缺口。这个缺口，可以用一条粗的线条（visual.Line()）实现，也可以用一个填充满颜色的矩形刺激(visual.Rect())来实现。而为了让缺口不被当成线条或者矩形，我们需要线条或者矩形的颜色和画布的背景颜色完全相同。下面的代码演示的是通过圆圈和线条实现的C字。我们通过XXX可以设定线条的颜色与背景色相同，通过XXX改变线条的粗细，从而控制C字的缺口的大小。
+
+请读者们尝试如何通过圆圈和实心的矩形刺激实现相同的效果。
+
+```python
+'''
+Draw Letter "C" demo
+By Jibo He @ uSEE Technology 
+hejibo@usee.tech
+'''
+#!/usr/bin/env python2
+# -*- coding: utf-8 -*-
+from psychopy import visual, core, event
+
+#create a window to draw in
+myWin = visual.Window((800.0,800.0),allowGUI=False,winType='pyglet',
+            monitor='testMonitor', units ='deg', screen=0)
+myWin.setRecordFrameIntervals()
+
+
+#INITIALISE SOME STIMULI
+circle = visual.Circle(myWin, radius=2, edges=32)
+circle.pos=(0,0)
+circle.draw()
+
+THoriLine = visual.Line(myWin,start=(1.9,0), end=(2.1,0))
+THoriLine.draw()
+
+myWin.flip()
+#pause, so you get a chance to see it!
+core.wait(5.0)
+
+```
+
+ 请读者朋友们思考：研究者可能需要通过控制C的缺口的大小来调整在C中视觉搜索O的难度？ 如论文He & McCarley, 2010。那么，我们怎么来实现不同缺口大小的C呢？或者，如果我们有实现有线索的视觉搜索任务（Cued visual search task） (He & McCarley, 2010)，让C的缺口朝向O所在的位置，应该怎么用PsychoPy来实现呢？这两个任务都可以通过上面"6.3. 画C字 （半圆月）"节的代码略做修改实现。
+
+
+#### 附注： 小技巧
+由于本书的很多读者多半是以中文为母语的读者。读者朋友们很有可能在中文路径下运行上面的代码。 上面的代码已经在Windows和mac下面完全测试通过了。 如果您遇到了类似下面的错误。这很有可能是由于您的路径名或者文件名中存在非英文字符。 
+
+```python
+Welcome to PsychoPy2!
+v1.85.2
+
+##### Running: /Users/b392t356/Desktop/Python-for-social-scientists/Chapter 11 - PsychoPy入门 - 基本刺激材料的呈现/ch11-Q-Letter.py #####
+2017-10-08 12:15:02.697 python[5872:64909] ApplePersistenceIgnoreState: Existing state will not be touched. New state will be written to /var/folders/gy/762tjlrd1wz6x1823dvqkw4jzrwrb_/T/org.psychopy.PsychoPy2.savedState
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/Applications/PsychoPy2.app/Contents/Resources/lib/python2.7/psychopy/app/coder/coder.py", line 1926, in onIdle
+    self.outputWindow.write(text)
+  File "/Applications/PsychoPy2.app/Contents/Resources/lib/python2.7/psychopy/app/stdOutRich.py", line 47, in write
+    self.BeginURL(thisLine)
+  File "/Applications/PsychoPy2.app/Contents/Resources/lib/python2.7/wx/richtext.py", line 3615, in BeginURL
+    return _richtext.RichTextCtrl_BeginURL(*args, **kwargs)
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe5 in position 82: ordinal not in range(128)
+
+```
+解决上面的错误，或者中文路径名问题，您只需要在上面提及的示例代码的最开头处加上下面的三行代码片段就可以了。
+```python
+import sys
+reload(sys)
+sys.setdefaultencoding("utf-8")
 ```
 
 <center><bold>参考文献</bold></center>

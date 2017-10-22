@@ -18,9 +18,6 @@
 ### 1.1. 设置画布
 对于每一个刺激PsychoPy程序， 我们基本上都需要设置画布。这是导入相关工具库后做的第一步工作。 我们可以使用visual.Window设置一个画布。其中，第一个参数(800.0,800.0)是设置画布的大小为800*800个像素。monitor='testMonitor'为显示器的名字。 units ='deg'是指定计量单位为度。screen=0是设置当前画布在哪个屏幕中呈现，主要用于具有多屏幕显示的研究。当然monitor='testMonitor', units ='deg', screen=0 这些参数都是可选的，可以删除的。我们列举出来，是出于教学的目的，向读者展现visual.Window可选的参数，也许有的读者感兴趣，或者用得着。 我们直接通过myWin = visual.Window((300.0,300.0))这样简介的方式，也是可以成功设置一个画布的。
 
-
-
-
 【小贴士1】Python和PsychoPy都是大小写敏感的。window和Window是不同的函数或者变量。 我在多个大学授课时发现，同学们经常忘记注意大小写的区分了。另外一个常见错误是拼写错误。比如讲visual.Window写作visual.Widow。而大小写错误和拼写错误在编码和测试时是非常难发现的。 
 
 ### 1.2 定义文本刺激
@@ -53,10 +50,7 @@ stim.setColor([1,0,0])#this is ambiguous - you need to specify a color space
 
 ![ch11_PsychoPy的坐标系系统.png](ch11_PsychoPy的坐标系系统.png)
 
-
-<center>图11.XXX PsychoPy的坐标系系统</center>
-
-
+<center>图11.1 PsychoPy的坐标系系统</center>
 
 
 ```python
@@ -87,7 +81,7 @@ core.wait(5.0)
 
 <center><img src="ch11_VisualTextStim示例图片.PNG" width="600"></center>
 
-<center>图11.XXX 文本刺激材料</center>
+<center>图11.2 文本刺激材料</center>
 
 ### 1.3 呈现颜色丰富的文本
 发展心理学和教育心理学的知识告诉我们，正确的教育方式是给学生们他们刚刚可以垫脚努力得到的知识。切记拔苗助长，打击学生们的自信心。因为自信心的维护和培养对未来的成功非常重要。同样的，对于培养大家的编程兴趣和自我效能感，最重要的也是循序渐进地增加代码的复杂度，并将通过分段学习得到的知识整合到一个，也就是从part-task training到full-task training的过程。
@@ -131,7 +125,7 @@ core.wait(5.0)
 
 
 <center><img src="ch11_Stroop_color_display.png" width="600"></center>
-<center>图11.XXX Stroop任务的样例刺激材料</center>
+<center>图11.3 Stroop任务的样例刺激材料</center>
 
 
 ### 1.4 呈现多行富文本 (Rich Text)
@@ -250,14 +244,12 @@ core.wait(5.0)
 ```
 
 
-<center><img src="ch11_VisualImageStim示例图片.PNG" width="600"></center>
+<center><img src="ch11_VisualImageStim示例图片.PNG" width="525" height="548"></center>
+<center>图11.4. 由于长宽比不一致导致变形的PsychoPy中呈现的图片刺激材料</center>
 
+<center><img src="face.jpg" width="199" height="300"></center>
 
-<center>图11. XX. 由于长宽比不一致导致变形的PsychoPy中呈现的图片刺激材料</center>
-
-<center><img src="face.jpg" width="300"></center>
-
-<center>图11. XX. 原始的图片刺激材料</center>
+<center>图11.5. 原始的图片刺激材料</center>
 
 
 ## 3. 呈现常见形状：线条，矩形和圆形
@@ -324,9 +316,9 @@ core.wait(5.0)
 
 ```
 
-<center><img src="Ch11_VisualRectStimuli 示例图片.PNG" width="600"></center>
+<center><img src="Ch11_VisualRectStimuli 示例图片.PNG" width="348" height="350"></center>
 
-<center>图11. XX. 矩形刺激材料</center>
+<center>图11.6. 矩形刺激材料</center>
 
 ### 3.3 呈现圆形刺激
 我们呈现圆形刺激材料的函数为visual.Circle。一如往常，myWin为画布的名字。radius参数指定圆形的半径，edges参数指定圆形的边界的粗细。 pos参数指定圆形在屏幕中的位置。下面的示例代码会在画布中呈现一个圆形。

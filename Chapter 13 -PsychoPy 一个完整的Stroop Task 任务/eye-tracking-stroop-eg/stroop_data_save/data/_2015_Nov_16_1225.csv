@@ -1,0 +1,7 @@
+stimColor,stimText,congruent,corrAns,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,resp.keys,resp.corr,resp.rt,Eye Tracker,date,expName,Participant,frameRate,
+green,red,0,down,0,0,0,1,down,1,0.688724372304,tobii_std.yaml,2015_Nov_16_1225,stroop,,59.8697921371,
+red,red,1,left,0,1,1,0,left,1,0.434507410641,tobii_std.yaml,2015_Nov_16_1225,stroop,,59.8697921371,
+red,red,1,left,1,0,2,0,right,0,0.315438482211,tobii_std.yaml,2015_Nov_16_1225,stroop,,59.8697921371,
+green,red,0,down,1,1,3,1,down,1,0.265273534647,tobii_std.yaml,2015_Nov_16_1225,stroop,,59.8697921371,
+red,red,1,left,2,0,4,0,left,1,8.96051279992,tobii_std.yaml,2015_Nov_16_1225,stroop,,59.8697921371,
+green,red,0,down,2,1,5,1,down,1,0.721063693697,tobii_std.yaml,2015_Nov_16_1225,stroop,,59.8697921371,

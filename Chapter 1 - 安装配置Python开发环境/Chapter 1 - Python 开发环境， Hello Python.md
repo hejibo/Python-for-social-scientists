@@ -35,7 +35,14 @@ Python语言的官方网址是www.python.org。您可以在www.python.org下载�
 ## 检测Python是否安装成功
 检验Python是否安装成功，我们只需要运行Python自带的解释器(Interpreter)就可以了。 解释器是一个可以交互式快速运行简短Python代码的工具。
 
-在Windows操作系统下面， 如果您在安装时不有修改安装目录，Python的解释器应该在C:\python27\python.exe。您只需要双击python.exe就可以运行Windows下的Python解释器了。
+在Windows操作系统下面， 如果您在安装时不有修改安装目录，Python的解释器应该在C:\python27\python.exe。您只需要双击python.exe就可以运行Windows下的Python解释器了。如图1.X显示的是Python解释器所在的路径，然后点击python.exe运行。图1.X显示的是在Windows下运行Python解释器，并输出Hello World的界面。
+
+<center><img src="图1.x.在Windows下运行Python解释器.png" width="300"></center>
+<center>图1.x.在Windows下运行Python解释器</center>
+
+
+<center><img src="图1.X Windows下运行Python解释器，输出Hello World.png" width="300"></center>
+<center>图1.X Windows下运行Python解释器，输出Hello World</center>
 
 在mac操作系统下面，点击右上角的搜索按钮，输入terminal（终端），然后回车，就可以运行terminal了，如图1.1所示。如果您的mac的系统语言是中文，您可能需要输入终端来运行terminal。在terminal中，输入"python"并回车，就可以启动Python的编辑器了。图1.2是mac下运行Python后的界面。
 

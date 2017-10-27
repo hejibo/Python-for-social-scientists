@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #pip install matplotlib
 #pip install pillow
 
@@ -34,17 +35,16 @@ gazedata = eyetribereader.read_eyetribe(LOGFILE, "image_on", stop="image_off", m
 
 # loop through all trials
 for trialnr in range(len(gazedata)):
-	
+
 	# find the image file name
 	for msg in gazedata[trialnr]['events']['msg']:
 		if '.jpg' in msg[1]:
 			imgname = os.path.splitext(msg[1])[0]
 			imgfile = os.path.join(IMGDIR,msg[1])
-	
+
 	# get the fixations
 	fixations = gazedata[trialnr]['events']['Efix']
-	
-	# plot the samples
+	print "outdir:",outdir# plot the samples
 	gazeplotter.draw_raw(gazedata[trialnr]['x'],gazedata[trialnr]['y'], RESOLUTION,
 					imagefile=imgfile, savefilename=os.path.join(outdir,'%s_samples.png' % imgname))
 	# plot the fixations
@@ -53,4 +53,4 @@ for trialnr in range(len(gazedata)):
 	# plot a heatmap
 	gazeplotter.draw_heatmap(fixations, RESOLUTION, imagefile=imgfile, durationweight=True,
 					alpha=0.5, savefilename=os.path.join(outdir,'%s_heatmap.png' % imgname))
-	 
+

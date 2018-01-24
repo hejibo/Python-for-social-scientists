@@ -240,18 +240,210 @@ Python比较省时和省事，因为很多复杂的操作可以叠加在一起�
 ## 集合 (Sets)
 Think about a reaction-time experiment: a researcher collects one response time in every trial. If you want to calculate the median response time, it could be very useful to collect all individual response times in one variable, rather than having one variable for each individual response time. This allows for easier access and calculations.
 Now imagine the researcher was also using an eye tracker. This device allows you, amongst other things, to measure pupil size. It will produce lots of data; sometimes over 1000 data points per second! If you want to store all these in a manageable fashion, you simply cannot use a single variable per data point. It would be more efficient to store all data points from one trial in a set. Of course, with a lot of trials, it would be very inefficient to use a single variable per trial. So you will want to store the data sets of every trial into another set. You then end up with a set (of all trials) that contains more sets (each of a single trial), each of which contain a lot of data points (each data point being the pupil size sometime during a trial).
-You can easily see this escalate, for example if the researcher decides to add electroencephalography (EEG) recordings. With over 64 electrodes, thousands of data points per trial, and hundreds of trials, you will end up with sets of sets of sets of data! This ‘big data’ might seem overwhelming now, but you will get a grip on it later on. First you will need to learn about the basic building blocks of Big Data: variables that can hold multiple values.
+You can easily see this escalate, for example if the researcher decides to add electroencephalography (EEG) recordings. With over 64 electrodes, thousands of data points per trial, and hundreds of trials, you will end up with sets of sets of sets of data! This 'big data' might seem overwhelming now, but you will get a grip on it later on. First you will need to learn about the basic building blocks of Big Data: variables that can hold multiple values.
 ## 列表 (Lists)
 列表(List)，正如其名所言， 是多个变量的集合，其组成元素可以是其它任何类型的变量，例如，数字，字符串，无级，数组，也可以是一个子列表。我们可以使用a=list()或者a=[]两种方式初始化列表。例如，下面的alist是一个字符串列表，blist是一个数字列表，clist是一个空列表，dlist是一个包含三个子列表的列表。
 ```python
 alist = ['I', 'love', 'Python']
-blist=list([1,2,3，4，5，6，7，8，9，10])
+blist=[1,2,3,4,5,6,7,8,9,10]
 clist=list()
 dlist = [alist,blist,clist]
 ```
+### 列表的索引与切割 []
+与前面讲的字符串操作相似，我们也可以使用[]对列表进行索引和切割操作。 切记，我们在Python语言中，从0开始计数。 例如，上面代码片断中的blist[0]返回的是1，blist[1]返回的是2. 我们也可以用负数从右向左计数，blist[-1]返回的是10，blist[-2]返回的是9。我们也可以以[start: end :step]的格式进行切割。例如blist[0:4]和blist[:4]得到的是[1,2,3]。blist[7:],blist[7:10]得到的都是[8,9,10]。
+
+多个[]可以并列使用，进行多次索引与切割操作。例如，上例中的dlist[0]得到的是alist对应的['I', 'love', 'Python']。而dlist[0][1]则是dlist的第一个元素alist的第二个元素，也就是'love'。进一步的dlist[0][1][1]则是dlist的第一个元素alist的第二个元素（也就是'love'）的第二个字符"o"。
+
+我们可以以[start: end :step]为格式，设计步长参数。例如，如果我们想得到blist从1到10中的奇数。 我们可以设置步长(step)为2。blist[::2]返回的就是所有的奇数[1,3,5,7,9].blist[1::2]返回的是所有的偶数[2,4,6,8,10]。我们可以将步长设置为负数。比如blist[-1::-1]返回的是逆序排列的[10, 9, 8, 7, 6, 5, 4, 3, 2, 1]。blist[-1::-2]得到的是逆序排列的所有的偶数[10, 8, 6, 4, 2]。blist[-2::-2]得到的是逆序排列的所有的奇数[9, 8, 7, 6, 5, 4, 3, 2, 1]。
+
+请读者朋友们体验下面的代码。最好先估计输出的结果的内容是什么，然后实际操作Python代码验证。
+```python
+
+blist=[1,2,3,4,5,6,7,8,9,10]
+dlist = [alist,blist,clist]
+
+#simple index and slice
+blist[0]
+blist[1]
+blist[-1]
+blist[-2]
+blist[0:4]
+blist[:4]
+blist[7:]
+blist[7:10]
+
+# multiple slice and index
+dlist[0]
+dlist[0][1]
+dlist[0][1][1]
+
+# slice with step parameter
+blist[::2]
+blist[1::2]
+blist[-1::-1]
+blist[-1::-2]
+blist[-2::-2]
+```
+
+### 列表的常用函数
+如同字符串函数外，Python提供了许多列表的函数操作，让我们的使用更加便捷。包括index(),reverse(),remove(),pop(),append(),extend()等。index()函数返回查找元素所在的首位置。如果列表中有多个该元素，就返回该元素第一次出现的位置。reverse()就是将列表逆序呈现，等同于a[::-1] 。remove()是将该元素出现的第一个位置的元素删除，如果一个列表有多个该元素，就只删除第一次出现的位置，仅仅删除一个该元素。pop()是将所在位置的元素删除。append()是在列表的尾巴处增加一个新的元素。 extend()是增加一个列表中的多个元素。
+
+建议读者朋友们逐一实验，了解每一个函数的作用和操作。 
+```python
+a = [10, 20, 30, 40]
+a.index(10)
+a.reverse()
+print a
+# delete list members
+a.remove(20)
+print(a)
+a.pop(0)
+print(a)
+
+# add list members
+a = [10, 20, 30]
+a.append(40)
+print(a)
+a = [10, 20, 30]
+b = [40, 50, 60]
+a.extend(b)
+print a
+```
+
+<center><img src="图2.4. 列表常见函数操作.png" width="500"></center>
+<center>图2.4. 列表常见函数操作</center>
+
+### 浅拷贝与深拷贝
+Python的列表的元素是可以修改的(mutable)。因此，我们在使用列表时，最常见的问题/bug就是列表元素不小心被修改了。 如同我们在变量那一小节讲解的一样， Python的变量仅仅是指向一个值的指针。例如下面示例代码中的a和b都是指向同一个值[10, 20, 30, 40]的指针。当我们通过 a.append(50)修改a的值时，b的值也跟着变了，虽然表面上，我们并没有对b进行任何操作。 这是我们需要注意的，因为b=a仅仅是一个浅拷贝，b的值会随a的变化而变化。
+```python
+# a and b pointing towards the same value
+a = [10, 20, 30, 40]
+b=a
+print a
+print b
+
+# b changes as a change, although b is not explicitly touched.
+a.append(50)
+print a
+print b
+```
+
+<center><img src="图2.5. 列表浅拷贝示例.png" width="200"></center>
+<center>图2.5. 列表浅拷贝示例</center>
+
+为了避面上面很难察觉的错误，我们在为一个变量生成新的拷贝时，需要使用深拷贝操作。具体地，我们不应该使用b=a这样的模式进行浅拷贝，而应该使用   from copy import copy下的copy()函数，通过b = copy(a)进行深拷贝。请读者朋友们对比图2.5和图2.6浅拷贝和深拷贝的区别。
+```python
+from copy import copy
+a = [10, 20, 30, 40]
+b = copy(a)
+
+# b is not changed when a changes, as b is a deep copy of a.
+a.append(50)
+print a
+print b
+```
+
+<center><img src="图2.6. 列表深拷贝示例.png" width="200"></center>
+<center>图2.6. 列表深拷贝示例</center>
 
 ## 元组 (Tuples)
+从上面的示例可以看出， 如果我们不小心修改了列表，将会无意地产生bug。因此，有时，我们很期望有一个类似列表的数据结构，但是它的值是不能修改的。例如，一周的七天，这算固定值 ，我们通常不会修改它。 实验的固定参数，我们也不期望被修改。因此，为了避免错误的不需要的修改，我们通常把这些固定值放到元组里面。
 
-## 数组 (NumPy arrays)
+元组是一个和列表类似的值的集合。它看着像列表，闻着像列表，摸着像列表。主要的表面区别是列表是用[]或者list()定义的，而元组是用()或者tuple()定义的。列表使用中括号，元组使用小括号。元组和列表最主要的不同是，元组是不可修改的(immutable)，而列表是可以修改的(mutable)。如下面的代码所示，我们可以通过 alist.append("very much")修改一个列表，但是当我们尝试通过atuple.append("very much")修改元组时，就会出现错误。报错为AttributeError: 'tuple' object has no attribute 'append'。
+
+元组很好学习，因为它除了不能改变外，其它的定义和索引基本上都与列表相同。我们可以通过index()和count()函数对元组索引以及计数。
+
+```python
+alist = ["I","Love","Python", "Still"]
+atuple= ("I","Love","Python", "Still")
+
+# we can do index and slice for both tuple and list
+alist.count("Love")
+atuple.count("Love")
+alist.index("Love")
+atuple.index("Love")
+alist[0]
+atuple[0]
+
+# list is mutable, while tuple is immutable.
+# thus, we can change a list, but cannot change a tuple.
+alist.append("very much")
+atuple.append("very much")
+```
+
+
+<center><img src="图2.7. 列表可以修改(mutable)，元组不可修改(immutable)对比示例.png" width="400"></center>
+<center>图2.7. 列表可以修改(mutable)，元组不可修改(immutable)对比示例</center>
 
 ## 字典 (Dictionary)
+第三种集合类型是字典（Dictionary）。正如其名所示，字典就是一个key:value配对的集合，其中key为用于索引的变量，value是key对应的值。key和value都可以是任何的变量类型，包括数字，字符串，元组，列表，甚至是字典。定义字典的方式与列表和元组类似，只不过使用的是{}或者dict()。也就是说，凡是用{}包括的带:的成对出现的元素构成的就是字典。因为字典可以将索引和值建立关系，构成一个集合。因此，字典是我们用来统计分数，或者记录被试的实验表现的良好数据结构。我们也可以把字典当成一个非常顺手的数据库。
+
+字典的赋值或者初始化是通过adict={"Jibo":100,"Robot":99,"Monkey King":59}这样的大括号完成的。 要为字典增加一个新元素，我们使用adict["Huang Rong"] =101这样的格式就可以了。(作者案：“因为黄蓉聪明伶俐，人见人爱。考试分数当然比Jibo分数高一些啦。 ^-^”)
+
+虽然字典长得和列表或者元组有点儿像，但是字典的索引操作却不能如往长一样用[]进行索引。我们只有通过字典的查询值key去得到字典对应的值value。使用方式如adict["Jibo"]。当key在字典中不存在时，就会报错KeyError: 'Jabo'，如图2.8所示。我们可以通过adict.keys()和adict.values()分别得到字典的所有的索引值key和值value。
+
+```python
+adict={"Jibo":100,"Robot":99,"Monkey King":59}
+print adict.keys()
+print adict.values()
+adict["Huang Rong"] =101
+print adict
+
+adict["Jibo"]
+adict["Jabo"]
+```
+
+<center><img src="图2.8. 字典的定义与索引示例.png" width="400"></center>
+<center>图2.8. 字典的定义与索引示例</center>
+
+因为字典的“索引：值”（key:value）成为出现，把多个变量/数据绑定在一起。字典就天然地是良好地记录被试的因变量的好东东啦。例如，我们可以通过下面的形式记录被试1和被试2的反应时(Reaction time, RT)与正确性(acc)。
+```python
+data = {}
+data['subject-1'] = {'RT':[300, 256, 35], 'acc':[1, 1, 0]}
+data['subject-2'] = {'RT':[400, 512, 100009], 'acc':[1, 0, 1]}
+print data
+```
+
+## 数组 (NumPy arrays)
+最后一种我们科学家常用的数据类型是数组 (NumPy arrays)。（小时候，阿爸阿妈和老师们都期望我们能够当上科学家。 在英语环境下，psychologist或者scientist的要求并没有中文那么高。如果您们在读心理学或者社会科学的博士，您们也可以被称为psychologist或者scientist了啦。恭喜您们，梦想成真）。那么，NumPy就是我们科学家最常用的一个数据类型啦。因为我们经常要与数据打交道，期望从数据中得到显著(p<.05,p<.01,甚至p<.001。God Bless)。
+
+与列表，元组和字典不同，NumPy不是Python默认自带的数据类型，我们需要安装NumPy的库，才能使用NumPy下的函数。请参见第一章节，复习一下如何安装NumPy的库。
+
+在使用numpy数组时，我们首先要使用import numpy。正如我们小时候看过的《布雷斯塔警长》（BraveStarr）动画片一样，我们首先要吼一句“给我熊的力量”或者”给我豹的速度“后，我们才能如熊一样力大无穷，如豹子一样奔驰如电。我们要先吼一句"import numpy"，才能得到numpy一切美好的力量。
+
+接着，我们就可以使用numpy.array([1, 2, 3, 4]) 这样的格式，从列表中定义一个numpy的数组。numpy数组的索引与切割方式与列表非常相似，我们可以通过bArray[0] ，bArray[-1]和bArray[1:3]这样的形式快速获得numpy数组的元素。
+
+```python
+import numpy
+bArray = numpy.array([1, 2, 3, 4]) 
+print (bArray)
+
+# index and slice a numpy array
+bArray[0] 
+bArray[-1]
+bArray[1:3]
+
+# +,-,*,/ common mathematical operation for numpy array.
+bArray+2
+bArray- 2
+bArray* 3
+bArray / 2.0
+
+# manipulate a specific element of numpy array
+bArray[0] += 1
+bArray[1:3] += 10
+print bArray
+```
+
+<center><img src="图2.9. numpy数组的定义与常见数学操作.png" width="400"></center>
+<center>图2.9. numpy数组的定义与常见数学操作</center>
+
+大家可以看到，numpy的很多操作列表也可以完成。我们之所以要费力安装numpy,是因为numpy提供了许多常用的科学用函数，让我们的统计分析变得非常简单。 比如我们在心理学统计或者社会学统计课程中用到的许多变量，都可以直接在numpy简单地调用函数完成。如图2.10所示。下面的代码示例的是我们做完了一个简单的反应时实验后，期望计算反应时（RT）的平均值(mean)，中数(median)，标准差(std)和方差(var)的函数。
+```python
+import numpy
+RT = numpy.array([1001, 1510, 1203, 905,897]) 
+numpy.mean(RT)
+numpy.median(RT)
+numpy.std(RT)
+numpy.var(RT)
+```

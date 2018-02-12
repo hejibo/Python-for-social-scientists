@@ -1,0 +1,1 @@
+series: [{ color: palette.color(), data: debate, name: 'debate'},series: [{ color: palette.color(), data: debate, name: 'debate'},

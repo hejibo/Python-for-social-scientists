@@ -1,0 +1,14 @@
+pandas
+selenium
+dateutil
+pycountry
+labMTsimple
+lda
+wbdata
+numpy
+scipy
+matplotlib
+statsmodels
+nltk
+bs4
+bisect

@@ -1,0 +1,23 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	jpp20020219000048n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Japan Resolves To Help US Deal With 'Axis of Evil', Bring About Economic Recovery
+5	0,0	string	meta_document_time	2002-02-19
+6	0,0	string	meta_create_time	2002-02-19T20:45:05
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Tokyo Sankei Shimbun (Internet version-WWW) 
+9	0,0	string	meta_reference	JPP20020219000048 Tokyo Sankei Shimbun (Internet version-WWW) in Japanese 19 Feb 02 Morning Edition   [By Masayuki Takahashi]
+10	0,0	string	meta_region	East Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	Northeast Asia
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_country	Japan
+15	0,0	string	meta_country	United States
+16	0,0	string	meta_topic	DOMESTIC POLITICAL
+17	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+18	0,0	string	meta_topic	LEADER
+19	0,0	string	meta_topic	MILITARY
+20	0,0	string	meta_topic	TERRORISM.911USA
+21	0,0	string	meta_topic	URGENT

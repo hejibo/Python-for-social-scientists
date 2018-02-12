@@ -1,0 +1,15 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cep20011214000260n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Ukrainian Economic Statistics for January-October 2001
+5	0,0	string	meta_document_time	2001-11-27
+6	0,0	string	meta_create_time	2001-12-20T21:25:57
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Kiev Uryadovyy Kuryer in Ukrainian 
+9	0,0	string	meta_reference	CEP20011214000260 Kiev Uryadovyy Kuryer in Ukrainian 27 Nov 01 p 7   [Report of the State Statistics Committee of Ukraine: &quot;The Economy of Ukraine in January-October 2001&quot;]
+10	0,0	string	meta_region	Central Eurasia
+11	0,0	string	meta_subregion	Ukraine
+12	0,0	string	meta_country	Ukraine
+13	0,0	string	meta_topic	DOMESTIC ECONOMIC

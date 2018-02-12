@@ -1,0 +1,16 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	sap20011029000115n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Pakistan: New Govenor of Punjab Province: Retired Lt. Gen. Khalid Maqbool
+5	0,0	string	meta_document_time	2001-10-29
+6	0,0	string	meta_create_time	2001-10-29T20:29:55
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Rawalpindi Jang in Urdu 29 
+9	0,0	string	meta_reference	SAP20011029000115 Rawalpindi Jang in Urdu 29 Oct 01 pp 1,7   [Report by Staff Reporter: &quot;Biography of the New Punjab Governor, Lt. General (Retd) Khalid Maqbool.&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_subregion	South Asia
+12	0,0	string	meta_country	Pakistan
+13	0,0	string	meta_topic	DOMESTIC POLITICAL
+14	0,0	string	meta_topic	LEADER

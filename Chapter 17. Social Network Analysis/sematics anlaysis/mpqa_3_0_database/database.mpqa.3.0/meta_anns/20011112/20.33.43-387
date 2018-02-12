@@ -1,0 +1,16 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	sep20011112000031n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Columnist Calls on Arroyo To Focus Attention on Deteriorating Peace, Order
+5	0,0	string	meta_document_time	2001-11-12
+6	0,0	string	meta_create_time	2001-11-12T20:20:10
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Manila Philippine Daily Inquirer (Internet 
+9	0,0	string	meta_reference	SEP20011112000031 Manila Philippine Daily Inquirer (Internet Version-WWW) in English 12 Nov 01   [From the &quot;Analysis&quot; column by Amando Doronila: &quot;Abduction of envoy's wife a devastating blow to GMA&quot;]
+10	0,0	string	meta_region	East Asia
+11	0,0	string	meta_subregion	Southeast Asia
+12	0,0	string	meta_country	Philippines
+13	0,0	string	meta_topic	CRIME
+14	0,0	string	meta_topic	DOMESTIC POLITICAL

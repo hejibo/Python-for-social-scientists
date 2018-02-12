@@ -1,0 +1,92 @@
+# MPQA Annotation file
+# Created from gate_anns/non_fbis/11.35.22-9439/gateman.mpqa.3.0.xml
+# on Sun Dec 13 16:56:24 EST 2015
+# by Lingjia Deng
+1	1325,1326	split	
+2	646,650	split	
+3	876,880	split	
+4	1057,1061	split	
+5	437,456	attitude	id="a10" intensity="medium" attitude-type="sentiment-pos" targetFrame-link="tfa10" 
+6	579,608	attitude	intensity="high" id="a20" attitude-type="interior-sentiment-neg" targetFrame-link="tfa20" 
+7	391,392	split	
+8	1294,1326	sentence	nested-source="w" 
+9	682,683	split	
+10	695,703	attitude	id="a30" intensity="medium" attitude-type="sentiment-pos" attitude-uncertain="somewhat-uncertain" targetFrame-link="tfa30" 
+11	651,683	sentence	nested-source="w" 
+12	540,570	agent	nested-source="w,frank" 
+13	396,436	agent	id="frank" nested-source="w,frank" 
+14	880,1057	sentence	nested-source="w" 
+15	499,646	sentence	nested-source="w" 
+16	576,578	agent	nested-source="w,frank,frank" 
+17	1289,1293	split	
+18	266,267	split	
+19	267,271	split	
+20	71,74	split	
+21	0,0	agent	id="implicit" 
+22	782,876	sentence	nested-source="w" 
+23	687,781	sentence	nested-source="w" 
+24	457,482	sTarget	id="t10" eTarget-link="e9003,e9004" 
+25	441,456	direct-subjective	expression-intensity="medium" intensity="medium" id="ds2" attitude-link="a10" polarity="positive" nested-source="w,frank" 
+26	1357,1359	split	
+27	1172,1289	sentence	nested-source="w" 
+28	396,498	sentence	nested-source="w" 
+29	271,392	sentence	nested-source="w" 
+30	780,781	split	
+31	1061,1171	sentence	nested-source="w" 
+32	392,396	split	
+33	712,716	eTarget	id="e9008" type="entity" isNegated="no" 
+34	488,492	eTarget	type="event" id="e5001" isNegated="no" 
+35	437,437	targetFrame	id="tfa10" sTarget-link="t10" newETarget-link="e5001" 
+36	80,267	sentence	nested-source="w" 
+37	74,80	split	
+38	579,608	direct-subjective	expression-intensity="high" intensity="high" id="ds3" attitude-link="a20" polarity="negative" nested-source="w,frank,frank" 
+39	695,695	targetFrame	id="tfa30" sTarget-link="t30" newETarget-link="none" 
+40	782,784	agent	nested-source="w,frank" 
+41	695,703	direct-subjective	expression-intensity="medium" intensity="medium" id="ds1" attitude-link="a30" polarity="uncertain-positive" nested-source="w,frank,we" 
+42	497,498	split	
+43	704,707	eTarget	id="e9006" type="event" isNegated="no" 
+44	926,936	agent	nested-source="w,frank" 
+45	499,499	targetFrame	id="tfose2" sTarget-link="none" newETarget-link="none" 
+46	880,880	objective-speech-event	implicit="true" id="ose8" targetFrame-link="tfose8" nested-source="w" 
+47	683,687	split	
+48	782,782	targetFrame	id="tfose3" sTarget-link="none" newETarget-link="none" 
+49	689,691	agent	id="we" nested-source="w,frank,we" 
+50	1061,1061	objective-speech-event	implicit="true" id="ose1" targetFrame-link="tfose1" nested-source="w" 
+51	720,730	agent	nested-source="w,frank" 
+52	880,880	targetFrame	id="tfose8" sTarget-link="none" newETarget-link="none" 
+53	1172,1172	objective-speech-event	implicit="true" id="ose6" targetFrame-link="tfose6" nested-source="w" 
+54	687,687	targetFrame	id="tfose9" sTarget-link="none" newETarget-link="none" 
+55	1170,1171	split	
+56	271,271	objective-speech-event	implicit="true" id="ose7" targetFrame-link="tfose7" nested-source="w" 
+57	1061,1061	targetFrame	id="tfose1" sTarget-link="none" newETarget-link="none" 
+58	5,5	objective-speech-event	implicit="true" id="ose4" targetFrame-link="tfose4" nested-source="w" 
+59	645,646	split	
+60	5,71	sentence	nested-source="w" 
+61	1288,1289	split	
+62	704,716	sTarget	id="t30" eTarget-link="e9006,e9008" 
+63	875,876	split	
+64	5,5	targetFrame	id="tfose4" sTarget-link="none" newETarget-link="none" 
+65	0,0	agent	id="w" 
+66	499,499	objective-speech-event	implicit="true" id="ose2" targetFrame-link="tfose2" nested-source="w" 
+67	1294,1294	targetFrame	id="tfose5" sTarget-link="none" newETarget-link="none" 
+68	782,782	objective-speech-event	implicit="true" id="ose3" targetFrame-link="tfose3" nested-source="w" 
+69	579,579	targetFrame	id="tfa20" sTarget-link="none" newETarget-link="none" 
+70	462,469	eTarget	id="e9003" type="event" isNegated="no" 
+71	988,988	targetFrame	id="tfose15" sTarget-link="none" newETarget-link="none" 
+72	988,997	objective-speech-event	id="ose15" targetFrame-link="tfose15" nested-source="w,frank" 
+73	1326,1330	split	
+74	731,731	targetFrame	id="tfose10" sTarget-link="none" newETarget-link="none" 
+75	731,738	objective-speech-event	id="ose10" targetFrame-link="tfose10" nested-source="w,frank" 
+76	473,482	eTarget	id="e9004" type="entity" isNegated="no" 
+77	687,687	objective-speech-event	implicit="true" id="ose9" targetFrame-link="tfose9" nested-source="w" 
+78	571,571	targetFrame	id="tfose12" sTarget-link="none" newETarget-link="none" 
+79	571,575	objective-speech-event	id="ose12" targetFrame-link="tfose12" nested-source="w,frank" 
+80	396,396	targetFrame	id="tfose11" sTarget-link="none" newETarget-link="none" 
+81	396,396	objective-speech-event	implicit="true" id="ose11" targetFrame-link="tfose11" nested-source="w" 
+82	1294,1294	objective-speech-event	implicit="true" id="ose5" targetFrame-link="tfose5" nested-source="w" 
+83	271,271	targetFrame	id="tfose7" sTarget-link="none" newETarget-link="none" 
+84	651,651	targetFrame	id="tfose13" sTarget-link="none" newETarget-link="none" 
+85	1172,1172	targetFrame	id="tfose6" sTarget-link="none" newETarget-link="none" 
+86	80,80	objective-speech-event	implicit="true" id="ose14" targetFrame-link="tfose14" nested-source="w" 
+87	80,80	targetFrame	id="tfose14" sTarget-link="none" newETarget-link="none" 
+88	651,651	objective-speech-event	implicit="true" id="ose13" targetFrame-link="tfose13" nested-source="w" 

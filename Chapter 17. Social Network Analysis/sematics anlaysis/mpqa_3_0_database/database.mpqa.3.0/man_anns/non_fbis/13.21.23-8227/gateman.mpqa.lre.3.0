@@ -1,0 +1,80 @@
+# MPQA Annotation file
+# Created from gate_anns/non_fbis/13.21.23-8227/gateman.mpqa.3.0.xml
+# on Sun Dec 13 16:56:24 EST 2015
+# by Lingjia Deng
+1	84,269	sentence	nested-source="w" 
+2	80,84	split	
+3	814,818	split	
+4	556,689	sentence	nested-source="w" 
+5	4,50	sentence	nested-source="w" 
+6	861,896	agent	id="mike" nested-source="w,mike" 
+7	1153,1154	split	
+8	1048,1154	sentence	nested-source="w" 
+9	426,554	sentence	nested-source="w" 
+10	1304,1308	split	
+11	818,818	objective-speech-event	implicit="true" id="ose2" targetFrame-link="tfose2" nested-source="w" 
+12	818,818	targetFrame	id="tfose2" sTarget-link="none" newETarget-link="none" 
+13	813,814	split	
+14	273,273	objective-speech-event	implicit="true" id="ose3" targetFrame-link="tfose3" nested-source="w" 
+15	53,56	split	
+16	273,273	targetFrame	id="tfose3" sTarget-link="none" newETarget-link="none" 
+17	84,84	objective-speech-event	implicit="true" id="ose1" targetFrame-link="tfose1" nested-source="w" 
+18	84,84	targetFrame	id="tfose1" sTarget-link="none" newETarget-link="none" 
+19	0,0	agent	id="w" 
+20	999,1047	sentence	nested-source="w" 
+21	0,0	agent	id="implicit" 
+22	998,1009	sTarget	id="t30" eTarget-link="e9001" 
+23	962,995	sentence	nested-source="w" 
+24	818,961	sentence	nested-source="w" 
+25	273,422	sentence	nested-source="w" 
+26	50,53	split	
+27	1308,1490	sentence	nested-source="w" 
+28	1046,1047	split	
+29	1158,1304	sentence	nested-source="w" 
+30	598,607	agent	id="eng" nested-source="w,eng" 
+31	693,814	sentence	nested-source="w" 
+32	421,422	split	
+33	1308,1308	objective-speech-event	implicit="true" id="ose10" targetFrame-link="tfose10" nested-source="w" 
+34	1308,1308	targetFrame	id="tfose10" sTarget-link="none" newETarget-link="none" 
+35	426,426	objective-speech-event	implicit="true" id="ose11" targetFrame-link="tfose11" nested-source="w" 
+36	426,426	targetFrame	id="tfose11" sTarget-link="none" newETarget-link="none" 
+37	1158,1158	objective-speech-event	implicit="true" id="ose8" targetFrame-link="tfose8" nested-source="w" 
+38	269,273	split	
+39	1158,1158	targetFrame	id="tfose8" sTarget-link="none" newETarget-link="none" 
+40	1048,1048	objective-speech-event	implicit="true" id="ose9" targetFrame-link="tfose9" nested-source="w" 
+41	553,554	split	
+42	1048,1048	targetFrame	id="tfose9" sTarget-link="none" newETarget-link="none" 
+43	556,556	objective-speech-event	implicit="true" id="ose6" targetFrame-link="tfose6" nested-source="w" 
+44	556,556	targetFrame	id="tfose6" sTarget-link="none" newETarget-link="none" 
+45	422,426	split	
+46	897,901	objective-speech-event	objective-uncertain="very-uncertain" id="ose7" targetFrame-link="tfose7" nested-source="w,mike" 
+47	897,897	targetFrame	id="tfose7" sTarget-link="none" newETarget-link="none" 
+48	4,4	objective-speech-event	implicit="true" id="ose4" targetFrame-link="tfose4" nested-source="w" 
+49	688,689	split	
+50	960,961	split	
+51	4,4	targetFrame	id="tfose4" sTarget-link="none" newETarget-link="none" 
+52	962,962	objective-speech-event	implicit="true" id="ose5" targetFrame-link="tfose5" nested-source="w" 
+53	962,962	targetFrame	id="tfose5" sTarget-link="none" newETarget-link="none" 
+54	1010,1025	attitude	id="a30" intensity="low-medium" attitude-type="sentiment-pos" targetFrame-link="tfa30" 
+55	268,269	split	
+56	1014,1025	expressive-subjectivity	id="ese1" intensity="low" targetFrame-link="tfese1" polarity="neutral" nested-source="w" 
+57	1154,1158	split	
+58	608,619	attitude	intensity="high" id="a10" attitude-type="interior-sentiment-neg" targetFrame-link="tfa10" 
+59	964,992	attitude	intensity="low-medium" id="a20" attitude-type="other-attitude" targetFrame-link="tfa20" 
+60	962,964	direct-subjective	intensity="medium" id="ds2" is-implicit="yes" attitude-link="a20" nested-source="w,mike" 
+61	1490,1492	split	
+62	999,999	direct-subjective	intensity="low" id="ds1" is-implicit="yes" attitude-link="a30" nested-source="w" 
+63	689,693	split	
+64	964,992	expressive-subjectivity	id="ese2" intensity="medium" targetFrame-link="tfese2" polarity="neutral" nested-source="w,mike" 
+65	995,999	split	
+66	608,619	direct-subjective	expression-intensity="high" intensity="high" id="ds3" attitude-link="a10" polarity="uncertain-negative" nested-source="w,eng" 
+67	964,964	targetFrame	id="tfese2" sTarget-link="none" newETarget-link="none" 
+68	964,964	targetFrame	id="tfa20" sTarget-link="none" newETarget-link="none" 
+69	1489,1490	split	
+70	1014,1014	targetFrame	id="tfese1" sTarget-link="none" newETarget-link="none" 
+71	1303,1304	split	
+72	608,608	targetFrame	id="tfa10" sTarget-link="none" newETarget-link="none" 
+73	693,693	objective-speech-event	implicit="true" id="ose12" targetFrame-link="tfose12" nested-source="w" 
+74	693,693	targetFrame	id="tfose12" sTarget-link="none" newETarget-link="none" 
+75	1010,1010	targetFrame	id="tfa30" sTarget-link="t30" newETarget-link="none" 
+76	1003,1009	eTarget	id="e9001" type="event" isNegated="no" 

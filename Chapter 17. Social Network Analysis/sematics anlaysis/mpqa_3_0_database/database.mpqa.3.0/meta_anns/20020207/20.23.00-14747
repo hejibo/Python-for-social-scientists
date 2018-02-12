@@ -1,0 +1,20 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	lap20020207000002n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Defense Minister Rangel Backs FM Davila's Reaction to Colin Powell's Statements
+5	0,0	string	meta_document_time	2002-02-06
+6	0,0	string	meta_create_time	2002-02-7T20:22:59
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Caracas Globovision Television WWW-Text in 
+9	0,0	string	meta_reference	LAP20020207000002 Caracas Globovision Television WWW-Text in Spanish 06 Feb 02   Reference:   venezuela: foreign minister davila replies to colin powell lap20020206000008 caracas globovision television www-text spanish 05 feb 02
+10	0,0	string	meta_region	The Americas
+11	0,0	string	meta_subregion	North America
+12	0,0	string	meta_subregion	South America
+13	0,0	string	meta_country	United States
+14	0,0	string	meta_country	Venezuela
+15	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+16	0,0	string	meta_topic	LEADER
+17	0,0	string	meta_topic	MILITARY
+18	0,0	string	meta_topic	TERRORISM

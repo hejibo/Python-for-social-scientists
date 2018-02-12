@@ -1,0 +1,25 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20020122000354n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Danish Prime Minister Approves U.S. Handling of Guantanamo Detainees
+5	0,0	string	meta_document_time	2002-01-21
+6	0,0	string	meta_create_time	2002-01-22T20:32:20
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Copenhagen Politiken (Internet Version-WWW) in 
+9	0,0	string	meta_reference	EUP20020122000354 Copenhagen Politiken (Internet Version-WWW) in Danish 22 Jan 02   [Report by Christine Cordsen: &quot;Fogh Rubber-Stamps U.S. Treatment of Al-Qaida Prisoners&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	West Europe
+12	0,0	string	meta_region	The Americas
+13	0,0	string	meta_subregion	South Asia
+14	0,0	string	meta_subregion	Nordic Countries
+15	0,0	string	meta_subregion	North America
+16	0,0	string	meta_country	Afghanistan
+17	0,0	string	meta_country	Denmark
+18	0,0	string	meta_country	Sweden
+19	0,0	string	meta_country	United States
+20	0,0	string	meta_topic	HUMAN RIGHTS
+21	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+22	0,0	string	meta_topic	LEADER
+23	0,0	string	meta_topic	TERRORISM.911USA

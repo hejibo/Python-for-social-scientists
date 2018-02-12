@@ -1,0 +1,22 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20020115000142n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Canadian Columnist Questions US 'Flouting' of Geneva Convention
+5	0,0	string	meta_document_time	2002-01-15
+6	0,0	string	meta_create_time	2002-01-15T21:15:24
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Toronto The Toronto Star (Internet 
+9	0,0	string	meta_reference	EUP20020115000142 Toronto The Toronto Star (Internet Version-WWW) in English 15 Jan 02   Reference:   expert on canadians' possible conflict over us handling of afghan prisoners eup20020115000100 toronto the globe and mail (internet version-www) english 15 jan 02      [Article from the &quot;Opinion&quot; section by Thomas Walkom: &quot;Why is U.S. flouting rules on prisoners?&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	South Asia
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_country	Afghanistan
+15	0,0	string	meta_country	Canada
+16	0,0	string	meta_country	United States
+17	0,0	string	meta_topic	HUMAN RIGHTS
+18	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+19	0,0	string	meta_topic	MILITARY
+20	0,0	string	meta_topic	TERRORISM.911WEB

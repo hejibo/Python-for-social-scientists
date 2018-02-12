@@ -1,0 +1,23 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20010712000172n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	CNA: Taiwan's Economy Too Dependent On Mainland China: French Weekly
+5	0,0	string	meta_document_time	2001-07-12
+6	0,0	string	meta_create_time	2001-07-13T00:42:46
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Taipei Central News Agency WWW-Text 
+9	0,0	string	meta_reference	CPP20010712000172 Taipei Central News Agency WWW-Text in English 2238 GMT 12 Jul 2001   [By Tzou Ming-jhie &amp; Maubo Chang]
+10	0,0	string	meta_region	China
+11	0,0	string	meta_region	East Asia
+12	0,0	string	meta_subregion	China
+13	0,0	string	meta_subregion	Hong Kong &amp; Macao
+14	0,0	string	meta_subregion	Northeast Asia
+15	0,0	string	meta_subregion	Taiwan
+16	0,0	string	meta_country	China
+17	0,0	string	meta_country	Hong Kong
+18	0,0	string	meta_country	Japan
+19	0,0	string	meta_country	Taiwan
+20	0,0	string	meta_topic	MILITARY
+21	0,0	string	meta_topic	INTERNATIONAL POLITICAL

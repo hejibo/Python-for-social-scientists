@@ -1,0 +1,21 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	jpp20020217000033n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	AFP: 300 Demonstrators Stage Anti-War Rally Ahead of Bush's Visit to Japan
+5	0,0	string	meta_document_time	2002-02-17
+6	0,0	string	meta_create_time	2002-02-17T20:42:50
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Hong Kong AFP in English 
+9	0,0	string	meta_reference	JPP20020217000033 Hong Kong AFP in English 0758 GMT 17 Feb 02
+10	0,0	string	meta_region	East Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	Northeast Asia
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_country	Japan
+15	0,0	string	meta_country	United States
+16	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+17	0,0	string	meta_topic	LEADER
+18	0,0	string	meta_topic	URGENT
+19	0,0	string	meta_topic	DISSENT

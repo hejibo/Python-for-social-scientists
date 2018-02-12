@@ -1,0 +1,17 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20010813000277n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	France: second ever mad cow disease case in northeast department discovered
+5	0,0	string	meta_document_time	2001-08-13
+6	0,0	string	meta_create_time	2001-08-13T23:14:12
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Paris AFP (Domestic Service) in 
+9	0,0	string	meta_reference	EUP20010813000277 Paris AFP (Domestic Service) in French 1424 GMT 13 Aug 01
+10	0,0	string	meta_region	West Europe
+11	0,0	string	meta_subregion	West Europe
+12	0,0	string	meta_country	France
+13	0,0	string	meta_topic	HEALTH
+14	0,0	string	meta_topic	ENVIRONMENT
+15	0,0	string	meta_topic	DOMESTIC POLITICAL

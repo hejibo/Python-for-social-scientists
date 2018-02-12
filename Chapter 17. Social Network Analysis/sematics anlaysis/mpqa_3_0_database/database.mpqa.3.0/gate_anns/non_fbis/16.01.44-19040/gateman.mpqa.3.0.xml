@@ -1,0 +1,1181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">docId</Name>
+  <Value className="java.lang.String">non_fbis/16.01.44-19040</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />
+   <Node id="4" />Brazil<Node id="10" /> <Node id="11" />hopes<Node id="16" /> <Node id="17" />US<Node id="19" /> will <Node id="25" />not <Node id="29" />interfere<Node id="38" /> in greenhouse effect negotiations<Node id="72" />
+
+ <Node id="75" />
+
+
+
+  <Node id="81" />Bras?lia, 13 (Ag?ncia Brasil - ABr) - <Node id="119" />President Fernando 
+Henrique Cardoso<Node id="155" /> <Node id="156" />said<Node id="160" /> today that <Node id="172" />he<Node id="174" /> <Node id="175" />does not believe<Node id="191" /> <Node id="192" />the United 
+States<Node id="210" /> will <Node id="216" />interfere<Node id="225" /> in international negotiations on 
+controlling greenhouse gas emissions<Node id="296" />.<Node id="297" /> <Node id="298" />Cardoso<Node id="305" /> also <Node id="311" />said<Node id="315" /> <Node id="316" />he<Node id="318" /> 
+<Node id="320" />believes<Node id="328" /> <Node id="329" />the US<Node id="335" /> <Node id="336" />is committed<Node id="348" /> <Node id="349" />to joining other nations in 
+fighting the problem and will adopt domestic measures<Node id="431" />, although 
+<Node id="443" />they<Node id="447" /> <Node id="448" />have formally renounced<Node id="471" /> <Node id="472" />the Kyoto <Node id="482" />Protocol<Node id="490" />.<Node id="491" />
+
+  <Node id="495" />Cardoso<Node id="502" /> <Node id="503" />made his remarks<Node id="519" /> as <Node id="523" />he<Node id="525" /> <Node id="526" />sent <Node id="531" />congress<Node id="539" /> a message <Node id="550" />calling 
+for<Node id="562" /> <Node id="563" />ratification<Node id="575" /> of the Kyoto <Node id="589" />Protocol<Node id="597" /> by Brazil<Node id="607" /> and <Node id="612" />committing<Node id="622" /> 
+<Node id="624" />the country to reducing greenhouse emissions by 5.2% by 2012<Node id="684" />.<Node id="685" /> 
+<Node id="687" />The world's biggest sources of greenhouse gases are: United 
+States 36%, Russia 17.4%, Japan 8.5%, Germany 7.4%, Great 
+Britain 4.3%, Canada 3.3%, Italy 3.1%, Poland 3% and France 
+2.7%<Node id="872" />.<Node id="873" /> (AB)<Node id="878" />
+
+<Node id="880" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="126" Type="eTarget-new" StartNode="563" EndNode="575">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">event</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">e5001</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isNegated</Name>
+  <Value className="java.lang.String">no</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="MPQA">
+<Annotation Id="23" Type="target-speech" StartNode="563" EndNode="684">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">ta7</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="target-speech" StartNode="687" EndNode="872">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">ta8</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="target-speech" StartNode="316" EndNode="490">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">ta5</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="target-speech" StartNode="495" EndNode="684">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">ta6</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="target-speech" StartNode="172" EndNode="296">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">ta3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="target-speech" StartNode="298" EndNode="490">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">ta4</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="target-speech" StartNode="4" EndNode="72">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">ta1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="target-speech" StartNode="81" EndNode="296">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">ta2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="agent" StartNode="119" EndNode="155">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">cardoso</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w,cardoso</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="agent" StartNode="472" EndNode="490">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">kyoto</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w,us,kyoto</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="split" StartNode="491" EndNode="495">
+</Annotation>
+<Annotation Id="32" Type="agent" StartNode="4" EndNode="10">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">brazil</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w,brazil</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="split" StartNode="684" EndNode="685">
+</Annotation>
+<Annotation Id="39" Type="split" StartNode="75" EndNode="81">
+</Annotation>
+<Annotation Id="36" Type="split" StartNode="72" EndNode="75">
+</Annotation>
+<Annotation Id="42" Type="split" StartNode="296" EndNode="297">
+</Annotation>
+<Annotation Id="41" Type="split" StartNode="872" EndNode="873">
+</Annotation>
+<Annotation Id="46" Type="agent" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">w</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="agent" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="split" StartNode="878" EndNode="880">
+</Annotation>
+<Annotation Id="45" Type="split" StartNode="490" EndNode="491">
+</Annotation>
+<Annotation Id="51" Type="agent" StartNode="443" EndNode="447">
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w,us</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50" Type="agent" StartNode="523" EndNode="525">
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w,cardoso</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="agent" StartNode="495" EndNode="502">
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w,cardoso</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="agent" StartNode="17" EndNode="19">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">us</Value>
+</Feature>
+</Annotation>
+<Annotation Id="55" Type="agent" StartNode="172" EndNode="174">
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w,cardoso,cardoso</Value>
+</Feature>
+</Annotation>
+<Annotation Id="54" Type="agent" StartNode="298" EndNode="305">
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w,cardoso</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53" Type="agent" StartNode="316" EndNode="318">
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w,cardoso,cardoso</Value>
+</Feature>
+</Annotation>
+<Annotation Id="52" Type="agent" StartNode="329" EndNode="335">
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w,cardoso,cardoso,us</Value>
+</Feature>
+</Annotation>
+<Annotation Id="65" Type="agent" StartNode="531" EndNode="539">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">congress</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w,cardoso,congress</Value>
+</Feature>
+</Annotation>
+<Annotation Id="187" Type="targetFrame" StartNode="81" EndNode="81">
+<Feature>
+  <Name className="java.lang.String">sTarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">tfose5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">newETarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+</Annotation>
+<Annotation Id="190" Type="objective-speech-event" StartNode="81" EndNode="81">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">ose5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">implicit</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">target-speech-link</Name>
+  <Value className="java.lang.String">ta2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">targetFrame-link</Name>
+  <Value className="java.lang.String">tfose5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w</Value>
+</Feature>
+</Annotation>
+<Annotation Id="191" Type="targetFrame" StartNode="687" EndNode="687">
+<Feature>
+  <Name className="java.lang.String">sTarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">tfose7</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">newETarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+</Annotation>
+<Annotation Id="188" Type="objective-speech-event" StartNode="298" EndNode="298">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">ose4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">implicit</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">target-speech-link</Name>
+  <Value className="java.lang.String">ta4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">targetFrame-link</Name>
+  <Value className="java.lang.String">tfose4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w</Value>
+</Feature>
+</Annotation>
+<Annotation Id="189" Type="targetFrame" StartNode="4" EndNode="4">
+<Feature>
+  <Name className="java.lang.String">sTarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">tfose6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">newETarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+</Annotation>
+<Annotation Id="205" Type="eTarget" StartNode="482" EndNode="490">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">entity</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">e9014</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isNegated</Name>
+  <Value className="java.lang.String">no</Value>
+</Feature>
+</Annotation>
+<Annotation Id="204" Type="targetFrame" StartNode="550" EndNode="550">
+<Feature>
+  <Name className="java.lang.String">sTarget-link</Name>
+  <Value className="java.lang.String">t60</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">tfa60</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">newETarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+</Annotation>
+<Annotation Id="207" Type="targetFrame" StartNode="612" EndNode="612">
+<Feature>
+  <Name className="java.lang.String">sTarget-link</Name>
+  <Value className="java.lang.String">t70</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">tfa70</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">newETarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+</Annotation>
+<Annotation Id="206" Type="targetFrame" StartNode="448" EndNode="448">
+<Feature>
+  <Name className="java.lang.String">sTarget-link</Name>
+  <Value className="java.lang.String">t50</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">tfa50</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">newETarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+</Annotation>
+<Annotation Id="201" Type="objective-speech-event" StartNode="495" EndNode="495">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">ose3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">implicit</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">target-speech-link</Name>
+  <Value className="java.lang.String">ta6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">targetFrame-link</Name>
+  <Value className="java.lang.String">tfose3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w</Value>
+</Feature>
+</Annotation>
+<Annotation Id="200" Type="targetFrame" StartNode="298" EndNode="298">
+<Feature>
+  <Name className="java.lang.String">sTarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">tfose4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">newETarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+</Annotation>
+<Annotation Id="203" Type="eTarget" StartNode="589" EndNode="597">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">entity</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">e5002</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isNegated</Name>
+  <Value className="java.lang.String">no</Value>
+</Feature>
+</Annotation>
+<Annotation Id="202" Type="eTarget" StartNode="563" EndNode="575">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">event</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">e5001</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isNegated</Name>
+  <Value className="java.lang.String">no</Value>
+</Feature>
+</Annotation>
+<Annotation Id="197" Type="objective-speech-event" StartNode="311" EndNode="315">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">ose1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">target-speech-link</Name>
+  <Value className="java.lang.String">ta5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">targetFrame-link</Name>
+  <Value className="java.lang.String">tfose1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w,cardoso</Value>
+</Feature>
+</Annotation>
+<Annotation Id="196" Type="targetFrame" StartNode="503" EndNode="503">
+<Feature>
+  <Name className="java.lang.String">sTarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">tfose2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">newETarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+</Annotation>
+<Annotation Id="199" Type="objective-speech-event" StartNode="503" EndNode="519">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">ose2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">target-speech-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">targetFrame-link</Name>
+  <Value className="java.lang.String">tfose2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">insubstantial</Name>
+  <Value className="java.lang.String">c1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w,cardoso</Value>
+</Feature>
+</Annotation>
+<Annotation Id="198" Type="targetFrame" StartNode="495" EndNode="495">
+<Feature>
+  <Name className="java.lang.String">sTarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">tfose3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">newETarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+</Annotation>
+<Annotation Id="193" Type="targetFrame" StartNode="156" EndNode="156">
+<Feature>
+  <Name className="java.lang.String">sTarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">tfose8</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">newETarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+</Annotation>
+<Annotation Id="192" Type="objective-speech-event" StartNode="4" EndNode="4">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">ose6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">implicit</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">target-speech-link</Name>
+  <Value className="java.lang.String">ta1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">targetFrame-link</Name>
+  <Value className="java.lang.String">tfose6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w</Value>
+</Feature>
+</Annotation>
+<Annotation Id="195" Type="targetFrame" StartNode="311" EndNode="311">
+<Feature>
+  <Name className="java.lang.String">sTarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">tfose1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">newETarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+</Annotation>
+<Annotation Id="194" Type="objective-speech-event" StartNode="687" EndNode="687">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">ose7</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">implicit</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">target-speech-link</Name>
+  <Value className="java.lang.String">ta8</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">targetFrame-link</Name>
+  <Value className="java.lang.String">tfose7</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w</Value>
+</Feature>
+</Annotation>
+<Annotation Id="220" Type="attitude" StartNode="550" EndNode="562">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">a60</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">attitude-type</Name>
+  <Value className="java.lang.String">sentiment-pos</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">targetFrame-link</Name>
+  <Value className="java.lang.String">tfa60</Value>
+</Feature>
+</Annotation>
+<Annotation Id="221" Type="attitude" StartNode="336" EndNode="348">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">a40</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">attitude-type</Name>
+  <Value className="java.lang.String">intention-pos</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">targetFrame-link</Name>
+  <Value className="java.lang.String">tfa40</Value>
+</Feature>
+</Annotation>
+<Annotation Id="222" Type="sentence" StartNode="4" EndNode="72">
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w</Value>
+</Feature>
+</Annotation>
+<Annotation Id="223" Type="attitude" StartNode="11" EndNode="16">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">a10</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">attitude-type</Name>
+  <Value className="java.lang.String">sentiment-pos</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">targetFrame-link</Name>
+  <Value className="java.lang.String">tfa10</Value>
+</Feature>
+</Annotation>
+<Annotation Id="216" Type="targetFrame" StartNode="25" EndNode="25">
+<Feature>
+  <Name className="java.lang.String">sTarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">tfese2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">newETarget-link</Name>
+  <Value className="java.lang.String">e9002</Value>
+</Feature>
+</Annotation>
+<Annotation Id="217" Type="targetFrame" StartNode="336" EndNode="336">
+<Feature>
+  <Name className="java.lang.String">sTarget-link</Name>
+  <Value className="java.lang.String">t40</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">tfa40</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">newETarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+</Annotation>
+<Annotation Id="218" Type="attitude" StartNode="175" EndNode="296">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">a20</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">attitude-type</Name>
+  <Value className="java.lang.String">arguing-neg</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">targetFrame-link</Name>
+  <Value className="java.lang.String">tfa20</Value>
+</Feature>
+</Annotation>
+<Annotation Id="219" Type="attitude" StartNode="320" EndNode="431">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">a30</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">attitude-type</Name>
+  <Value className="java.lang.String">arguing-pos</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">targetFrame-link</Name>
+  <Value className="java.lang.String">tfa30</Value>
+</Feature>
+</Annotation>
+<Annotation Id="212" Type="targetFrame" StartNode="175" EndNode="175">
+<Feature>
+  <Name className="java.lang.String">sTarget-link</Name>
+  <Value className="java.lang.String">t20</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">tfa20</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">newETarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+</Annotation>
+<Annotation Id="213" Type="eTarget" StartNode="216" EndNode="225">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">e9005</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isNegated</Name>
+  <Value className="java.lang.String">no</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">event</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isReferredInSpan</Name>
+  <Value className="java.lang.String">yes</Value>
+</Feature>
+</Annotation>
+<Annotation Id="214" Type="targetFrame" StartNode="216" EndNode="216">
+<Feature>
+  <Name className="java.lang.String">sTarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">tfese1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">newETarget-link</Name>
+  <Value className="java.lang.String">e9005</Value>
+</Feature>
+</Annotation>
+<Annotation Id="215" Type="eTarget" StartNode="29" EndNode="38">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">e9002</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isNegated</Name>
+  <Value className="java.lang.String">yes</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">event</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isReferredInSpan</Name>
+  <Value className="java.lang.String">yes</Value>
+</Feature>
+</Annotation>
+<Annotation Id="208" Type="targetFrame" StartNode="11" EndNode="11">
+<Feature>
+  <Name className="java.lang.String">sTarget-link</Name>
+  <Value className="java.lang.String">t10</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">tfa10</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">newETarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+</Annotation>
+<Annotation Id="209" Type="direct-subjective" StartNode="526" EndNode="562">
+<Feature>
+  <Name className="java.lang.String">expression-intensity</Name>
+  <Value className="java.lang.String">low</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">ds1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">attitude-link</Name>
+  <Value className="java.lang.String">a60</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">low</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">target-speech-link</Name>
+  <Value className="java.lang.String">ta7</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w,cardoso</Value>
+</Feature>
+</Annotation>
+<Annotation Id="210" Type="objective-speech-event" StartNode="156" EndNode="160">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">ose8</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">target-speech-link</Name>
+  <Value className="java.lang.String">ta3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">targetFrame-link</Name>
+  <Value className="java.lang.String">tfose8</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w,cardoso</Value>
+</Feature>
+</Annotation>
+<Annotation Id="211" Type="targetFrame" StartNode="320" EndNode="320">
+<Feature>
+  <Name className="java.lang.String">sTarget-link</Name>
+  <Value className="java.lang.String">t30</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">tfa30</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">newETarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+</Annotation>
+<Annotation Id="239" Type="sentence" StartNode="687" EndNode="873">
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w</Value>
+</Feature>
+</Annotation>
+<Annotation Id="238" Type="sentence" StartNode="298" EndNode="491">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">i think the they-renounced level at the end of this sentence is genuinely ambiguous between 3 levels (w,w/c,w/c/c)</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w</Value>
+</Feature>
+</Annotation>
+<Annotation Id="237" Type="sentence" StartNode="495" EndNode="685">
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w</Value>
+</Feature>
+</Annotation>
+<Annotation Id="236" Type="sTarget" StartNode="624" EndNode="684">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">t70</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">eTarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+</Annotation>
+<Annotation Id="235" Type="sTarget" StartNode="17" EndNode="72">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">t10</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">eTarget-link</Name>
+  <Value className="java.lang.String">e9002</Value>
+</Feature>
+</Annotation>
+<Annotation Id="234" Type="sTarget" StartNode="472" EndNode="490">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">t50</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">eTarget-link</Name>
+  <Value className="java.lang.String">e9014</Value>
+</Feature>
+</Annotation>
+<Annotation Id="233" Type="direct-subjective" StartNode="320" EndNode="328">
+<Feature>
+  <Name className="java.lang.String">expression-intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">ds6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">attitude-type</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">attitude-link</Name>
+  <Value className="java.lang.String">a30</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">neutral</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w,cardoso,cardoso</Value>
+</Feature>
+</Annotation>
+<Annotation Id="232" Type="direct-subjective" StartNode="448" EndNode="471">
+<Feature>
+  <Name className="java.lang.String">expression-intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">ds7</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">attitude-type</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">attitude-link</Name>
+  <Value className="java.lang.String">a50</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w,us</Value>
+</Feature>
+</Annotation>
+<Annotation Id="231" Type="expressive-subjectivity" StartNode="216" EndNode="225">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">low</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">ese1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">targetFrame-link</Name>
+  <Value className="java.lang.String">tfese1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w,cardoso,cardoso</Value>
+</Feature>
+</Annotation>
+<Annotation Id="230" Type="expressive-subjectivity" StartNode="25" EndNode="38">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">low</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">ese2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">targetFrame-link</Name>
+  <Value className="java.lang.String">tfese2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w,brazil</Value>
+</Feature>
+</Annotation>
+<Annotation Id="229" Type="direct-subjective" StartNode="175" EndNode="191">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">ds2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">expression-intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">attitude-link</Name>
+  <Value className="java.lang.String">a20</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">neutral</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w,cardoso,cardoso</Value>
+</Feature>
+</Annotation>
+<Annotation Id="228" Type="direct-subjective" StartNode="11" EndNode="16">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">ds3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">expression-intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">attitude-link</Name>
+  <Value className="java.lang.String">a10</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w,brazil</Value>
+</Feature>
+</Annotation>
+<Annotation Id="227" Type="direct-subjective" StartNode="336" EndNode="348">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">ds4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">low</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">expression-intensity</Name>
+  <Value className="java.lang.String">low</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">attitude-link</Name>
+  <Value className="java.lang.String">a40</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">neutral</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w,cardoso,cardoso,us</Value>
+</Feature>
+</Annotation>
+<Annotation Id="226" Type="direct-subjective" StartNode="612" EndNode="622">
+<Feature>
+  <Name className="java.lang.String">expression-intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">ds5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">attitude-link</Name>
+  <Value className="java.lang.String">a70</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">insubstantial</Name>
+  <Value className="java.lang.String">c2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">neutral</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w,cardoso,congress</Value>
+</Feature>
+</Annotation>
+<Annotation Id="225" Type="attitude" StartNode="448" EndNode="471">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">a50</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium-high</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">attitude-type</Name>
+  <Value className="java.lang.String">sentiment-neg</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">targetFrame-link</Name>
+  <Value className="java.lang.String">tfa50</Value>
+</Feature>
+</Annotation>
+<Annotation Id="224" Type="attitude" StartNode="612" EndNode="622">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">a70</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">attitude-type</Name>
+  <Value className="java.lang.String">intention-pos</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">targetFrame-link</Name>
+  <Value className="java.lang.String">tfa70</Value>
+</Feature>
+</Annotation>
+<Annotation Id="244" Type="sTarget" StartNode="329" EndNode="335">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">t30</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">eTarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+</Annotation>
+<Annotation Id="242" Type="sTarget" StartNode="349" EndNode="431">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">t40</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">eTarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+</Annotation>
+<Annotation Id="243" Type="sTarget" StartNode="563" EndNode="607">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">t60</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">eTarget-link</Name>
+  <Value className="java.lang.String">e5001,e5002</Value>
+</Feature>
+</Annotation>
+<Annotation Id="240" Type="sentence" StartNode="81" EndNode="297">
+<Feature>
+  <Name className="java.lang.String">nested-source</Name>
+  <Value className="java.lang.String">w</Value>
+</Feature>
+</Annotation>
+<Annotation Id="241" Type="sTarget" StartNode="192" EndNode="210">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">t20</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">eTarget-link</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

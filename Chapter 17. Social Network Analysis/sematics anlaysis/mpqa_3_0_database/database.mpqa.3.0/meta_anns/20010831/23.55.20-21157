@@ -1,0 +1,17 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20010831000172n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Burundi: Abducted fishermen released by rebels in southwest - agency
+5	0,0	string	meta_document_time	2001-08-30
+6	0,0	string	meta_create_time	2001-08-31T23:56:29
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Bujumbura Azania in French 1250 
+9	0,0	string	meta_reference	AFP20010831000172 Bujumbura Azania in French 1250 GMT 30 Aug 01
+10	0,0	string	meta_region	Sub-Saharan Africa
+11	0,0	string	meta_subregion	Central Africa
+12	0,0	string	meta_country	Burundi
+13	0,0	string	meta_topic	TERRORISM
+14	0,0	string	meta_topic	DOMESTIC POLITICAL
+15	0,0	string	meta_topic	CRIME

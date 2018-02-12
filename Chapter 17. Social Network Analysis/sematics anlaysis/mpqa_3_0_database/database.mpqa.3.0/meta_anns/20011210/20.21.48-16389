@@ -1,0 +1,18 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	lap20011210000072n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Additional Polls Confirm Venezuelan President's Dwindling Popularity
+5	0,0	string	meta_document_time	2001-12-08
+6	0,0	string	meta_create_time	2001-12-10T20:25:24
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Caracas El Nacional (Internet Version-WWW) 
+9	0,0	string	meta_reference	LAP20011210000072 Caracas El Nacional (Internet Version-WWW) in Spanish 08 Dec 01   Reference:   venezuela: latest mercanalisis, consultores 21 polls show chavez' approval rating continues downward trend lap20011207000046 caracas el nacional (internet version-www) spanish 07 dec 01      [Report by Antonio Fernandez Nays]
+10	0,0	string	meta_region	The Americas
+11	0,0	string	meta_subregion	South America
+12	0,0	string	meta_country	Venezuela
+13	0,0	string	meta_topic	DISSENT
+14	0,0	string	meta_topic	DOMESTIC POLITICAL
+15	0,0	string	meta_topic	LEADER
+16	0,0	string	meta_topic	URGENT

@@ -1,0 +1,20 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20011228000350n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	France's Chirac talks to Pakistan's Musharraf
+5	0,0	string	meta_document_time	2001-12-28
+6	0,0	string	meta_create_time	2001-12-28T21:22:57
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Paris AFP (Domestic Service) in 
+9	0,0	string	meta_reference	EUP20011228000350 Paris AFP (Domestic Service) in French 2029 GMT 28 Dec 01
+10	0,0	string	meta_region	West Europe
+11	0,0	string	meta_region	Near East/South Asia
+12	0,0	string	meta_subregion	West Europe
+13	0,0	string	meta_subregion	South Asia
+14	0,0	string	meta_country	France
+15	0,0	string	meta_country	India
+16	0,0	string	meta_country	Pakistan
+17	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+18	0,0	string	meta_topic	LEADER

@@ -1,0 +1,26 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20020131000166n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Romanian Daily Discusses Geneva Convention Treatment at Guantanamo Bay
+5	0,0	string	meta_document_time	2002-01-31
+6	0,0	string	meta_create_time	2002-01-31T20:50:31
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Bucharest Ziua in Romanian 31 
+9	0,0	string	meta_reference	EUP20020131000166 Bucharest Ziua in Romanian 31 Jan 02 p 4   [Editorial by Adrian Cioroianu: &quot;The Dilemma of Guantanamo Bay&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	East Europe
+12	0,0	string	meta_region	The Americas
+13	0,0	string	meta_subregion	South Asia
+14	0,0	string	meta_subregion	Balkan States
+15	0,0	string	meta_subregion	Arabian Peninsula
+16	0,0	string	meta_subregion	North America
+17	0,0	string	meta_country	Afghanistan
+18	0,0	string	meta_country	Romania
+19	0,0	string	meta_country	Saudi Arabia
+20	0,0	string	meta_country	United States
+21	0,0	string	meta_topic	HUMAN RIGHTS
+22	0,0	string	meta_topic	LEADER
+23	0,0	string	meta_topic	MILITARY
+24	0,0	string	meta_topic	TERRORISM

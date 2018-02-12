@@ -1,0 +1,16 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	gmp20020130000214n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Al-Ayyam Report Notes Increased Israeli Settlement Activities Under Sharon
+5	0,0	string	meta_document_time	2002-01-30
+6	0,0	string	meta_create_time	2002-02-15T20:53:08
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Ramallah Al-Ayyam in Arabic 30 
+9	0,0	string	meta_reference	GMP20020130000214 Ramallah Al-Ayyam in Arabic 30 Jan 02 p 7   [Report by Ghazi Bani-Awdah from Nablus on a press conference held by Defense of Land Bureau and Solidarity Establishment: &quot;Israel Has Begun Building Seven Roads and 36 Settlement Enclaves Since Sharon Came to Power&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_subregion	Near East
+12	0,0	string	meta_country	Israel
+13	0,0	string	meta_country	West Bank &amp; Gaza Strip
+14	0,0	string	meta_topic	INTERNATIONAL POLITICAL

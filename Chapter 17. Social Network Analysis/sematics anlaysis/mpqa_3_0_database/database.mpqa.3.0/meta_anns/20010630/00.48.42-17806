@@ -1,0 +1,17 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20010629000250n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Yugoslavia Gets Cash Windfall From Donors After Milosevic Transfer
+5	0,0	string	meta_document_time	2001-06-29
+6	0,0	string	meta_create_time	2001-06-30T00:49:15
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Paris AFP (North European Service) 
+9	0,0	string	meta_reference	EUP20010629000250 Paris AFP (North European Service) in English 1302 GMT 06/29/2001   Reference:   world bank pledges 580 million dollars to yugoslavia eup20010629000143 paris afp (north european service) english 1045 gmt 06/29/2001      [Report by Allen Nacheman]
+10	0,0	string	meta_region	East Europe
+11	0,0	string	meta_subregion	Balkan States
+12	0,0	string	meta_country	Federal Republic of Yugoslavia
+13	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+14	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+15	0,0	string	meta_topic	LEADER

@@ -1,0 +1,17 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cep20011203000311n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Russia: Transport ship delivers supplies to international space station
+5	0,0	string	meta_document_time	2001-12-03
+6	0,0	string	meta_create_time	2001-12-3T21:54:00
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Moscow ITAR-TASS in English 1630 
+9	0,0	string	meta_reference	CEP20011203000311 Moscow ITAR-TASS in English 1630 GMT 3 Dec 01
+10	0,0	string	meta_region	Central Eurasia
+11	0,0	string	meta_subregion	Russia
+12	0,0	string	meta_country	Russia
+13	0,0	string	meta_topic	DOMESTIC ECONOMIC
+14	0,0	string	meta_topic	DOMESTIC POLITICAL
+15	0,0	string	meta_topic	TECHNOLOGY

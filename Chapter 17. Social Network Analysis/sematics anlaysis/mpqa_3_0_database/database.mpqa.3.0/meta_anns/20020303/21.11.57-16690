@@ -1,0 +1,21 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20020303000034n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Malawian president rejects punitive action against Zimbabwe
+5	0,0	string	meta_document_time	2002-03-03
+6	0,0	string	meta_create_time	2002-03-3T21:11:58
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Johannesburg SAPA (Internet Version-WWW) in 
+9	0,0	string	meta_reference	AFP20020303000034 Johannesburg SAPA (Internet Version-WWW) in English 0209 GMT 03 Mar 02
+10	0,0	string	meta_region	East Asia
+11	0,0	string	meta_region	Sub-Saharan Africa
+12	0,0	string	meta_subregion	Australasia
+13	0,0	string	meta_subregion	Southern Africa
+14	0,0	string	meta_country	Australia
+15	0,0	string	meta_country	Malawi
+16	0,0	string	meta_country	Zimbabwe
+17	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+18	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+19	0,0	string	meta_topic	LEADER

@@ -1,0 +1,27 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20011016000165n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	AFP: Malaysia Warns 'Prolonged' Attacks on Afghanistan Could Destabilize Muslim World
+5	0,0	string	meta_document_time	2001-10-16
+6	0,0	string	meta_create_time	2001-10-16T22:28:05
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Hong Kong AFP in English 
+9	0,0	string	meta_reference	CPP20011016000165 Hong Kong AFP in English 1159 GMT 16 Oct 01
+10	0,0	string	meta_region	East Asia
+11	0,0	string	meta_region	China
+12	0,0	string	meta_region	Near East/South Asia
+13	0,0	string	meta_region	The Americas
+14	0,0	string	meta_subregion	Southeast Asia
+15	0,0	string	meta_subregion	China
+16	0,0	string	meta_subregion	South Asia
+17	0,0	string	meta_subregion	North America
+18	0,0	string	meta_country	Malaysia
+19	0,0	string	meta_country	China
+20	0,0	string	meta_country	Afghanistan
+21	0,0	string	meta_country	United States
+22	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+23	0,0	string	meta_topic	URGENT
+24	0,0	string	meta_topic	TERRORISM
+25	0,0	string	meta_topic	LEADER

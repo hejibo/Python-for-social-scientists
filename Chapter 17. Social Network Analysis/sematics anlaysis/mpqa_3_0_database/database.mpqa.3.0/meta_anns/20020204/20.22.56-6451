@@ -1,0 +1,21 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	sap20020204000064n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Daily flays government's apathy towards Pakistanis held at Guantanamo camp
+5	0,0	string	meta_document_time	2002-02-04
+6	0,0	string	meta_create_time	2002-02-4T20:22:55
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Islamabad The Nation (Lahore Edition) 
+9	0,0	string	meta_reference	SAP20020204000064 Islamabad The Nation (Lahore Edition) (Internet Version-WWW) in English 04 Feb 02   [Editorial: &quot;Guantanamo detainees&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	South Asia
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_country	Afghanistan
+15	0,0	string	meta_country	Pakistan
+16	0,0	string	meta_country	United States
+17	0,0	string	meta_topic	DOMESTIC POLITICAL
+18	0,0	string	meta_topic	HUMAN RIGHTS
+19	0,0	string	meta_topic	INTERNATIONAL POLITICAL

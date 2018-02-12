@@ -1,0 +1,17 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20020131000035n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Zimbabwe: Foreign Minister addresses SADC task team, slams EU, UK sanctions move
+5	0,0	string	meta_document_time	2002-01-31
+6	0,0	string	meta_create_time	2002-01-31T20:58:50
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Harare The Herald Online (Internet 
+9	0,0	string	meta_reference	AFP20020131000035 Harare The Herald Online (Internet Version-WWW) in English 31 Jan 02   [Report by Herald reporter: &quot;Club, EU attempting to perpetuate colonial relationship&quot;]
+10	0,0	string	meta_region	Sub-Saharan Africa
+11	0,0	string	meta_subregion	Southern Africa
+12	0,0	string	meta_country	Zimbabwe
+13	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+14	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+15	0,0	string	meta_topic	LEADER

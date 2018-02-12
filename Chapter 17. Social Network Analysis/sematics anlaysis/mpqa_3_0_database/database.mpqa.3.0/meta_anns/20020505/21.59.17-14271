@@ -1,0 +1,22 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20020505000111n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Italian returns from Russian space mission
+5	0,0	string	meta_document_time	2002-05-05
+6	0,0	string	meta_create_time	2002-05-5T22:00:48
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Rome ANSA (Internet Version-WWW) in 
+9	0,0	string	meta_reference	EUP20020505000111 Rome ANSA (Internet Version-WWW) in English 1318 GMT 5 May 02
+10	0,0	string	meta_region	West Europe
+11	0,0	string	meta_region	Central Eurasia
+12	0,0	string	meta_subregion	West Europe
+13	0,0	string	meta_subregion	Russia
+14	0,0	string	meta_subregion	Central Asia
+15	0,0	string	meta_country	Italy
+16	0,0	string	meta_country	Russia
+17	0,0	string	meta_country	Kazakhstan
+18	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+19	0,0	string	meta_topic	OTHER
+20	0,0	string	meta_topic	TECHNOLOGY

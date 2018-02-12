@@ -1,0 +1,19 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20020328000092n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	RSA, Nigerian envoys given three weeks to break 'impasse' between MDC, ZANU-PF
+5	0,0	string	meta_document_time	2002-03-28
+6	0,0	string	meta_create_time	2002-03-28T21:20:58
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Harare The Financial Gazette (Internet 
+9	0,0	string	meta_reference	AFP20020328000092 Harare The Financial Gazette (Internet Version-WWW) in English 28 Mar 02   [Report by staff reporter: &quot;Mbeki, Obasanjo envoys in fresh bid to save Mugabe&quot;]
+10	0,0	string	meta_region	Sub-Saharan Africa
+11	0,0	string	meta_subregion	Southern Africa
+12	0,0	string	meta_subregion	West Africa
+13	0,0	string	meta_country	Zimbabwe
+14	0,0	string	meta_country	South Africa
+15	0,0	string	meta_country	Nigeria
+16	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+17	0,0	string	meta_topic	LEADER

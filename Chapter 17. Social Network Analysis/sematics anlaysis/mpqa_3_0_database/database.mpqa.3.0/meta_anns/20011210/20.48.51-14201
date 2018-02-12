@@ -1,0 +1,18 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20011210000247n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Polish Interior Minister Announces Establishment of Crisis Management Staff
+5	0,0	string	meta_document_time	2001-12-10
+6	0,0	string	meta_create_time	2001-12-10T20:52:26
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Warsaw Zycie Warszawy in Polish 
+9	0,0	string	meta_reference	EUP20011210000247 Warsaw Zycie Warszawy in Polish 10 Dec 01 p 5   [Report by &quot;AVAL:&quot; &quot;Security: Police Operation and Maneuver Reaction Group&quot;]
+10	0,0	string	meta_region	East Europe
+11	0,0	string	meta_subregion	East Europe
+12	0,0	string	meta_country	Poland
+13	0,0	string	meta_topic	DOMESTIC POLITICAL
+14	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+15	0,0	string	meta_topic	LEADER
+16	0,0	string	meta_topic	TERRORISM

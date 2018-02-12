@@ -1,0 +1,16 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	gmp20011224000223n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Iraq: Kurdish homes now Connected to digital telephone exchange
+5	0,0	string	meta_document_time	2001-12-24
+6	0,0	string	meta_create_time	2001-12-24T21:03:30
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Al-Sulaymaniyah KurdSat in Sorani Kurdish 
+9	0,0	string	meta_reference	GMP20011224000223 Al-Sulaymaniyah KurdSat in Sorani Kurdish 1700 GMT 24 Dec 01
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_subregion	Near East
+12	0,0	string	meta_country	Iraq
+13	0,0	string	meta_topic	TELECOM
+14	0,0	string	meta_topic	TECHNOLOGY

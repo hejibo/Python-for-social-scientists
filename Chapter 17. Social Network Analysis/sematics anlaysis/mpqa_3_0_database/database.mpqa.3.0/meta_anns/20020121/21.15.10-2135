@@ -1,0 +1,22 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	jpp20020121000116n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	AFP: 3,000 Police Deployed at Tokyo Afghan Conference Following Minor Explosions
+5	0,0	string	meta_document_time	2002-01-21
+6	0,0	string	meta_create_time	2002-01-21T21:19:33
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Hong Kong AFP in English 
+9	0,0	string	meta_reference	JPP20020121000116 Hong Kong AFP in English 1009 GMT 21 Jan 02
+10	0,0	string	meta_region	East Asia
+11	0,0	string	meta_region	Near East/South Asia
+12	0,0	string	meta_subregion	Northeast Asia
+13	0,0	string	meta_subregion	South Asia
+14	0,0	string	meta_country	Japan
+15	0,0	string	meta_country	Afghanistan
+16	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+17	0,0	string	meta_topic	DOMESTIC POLITICAL
+18	0,0	string	meta_topic	MILITARY
+19	0,0	string	meta_topic	TERRORISM
+20	0,0	string	meta_topic	URGENT

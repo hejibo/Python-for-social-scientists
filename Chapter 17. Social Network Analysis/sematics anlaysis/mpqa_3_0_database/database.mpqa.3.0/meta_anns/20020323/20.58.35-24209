@@ -1,0 +1,20 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cep20020323000123n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Russia: Kasyanov to discuss increased trade during visit to Mongolia
+5	0,0	string	meta_document_time	2002-03-23
+6	0,0	string	meta_create_time	2002-03-23T20:58:34
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Moscow ITAR-TASS in English 2158 
+9	0,0	string	meta_reference	CEP20020323000123 Moscow ITAR-TASS in English 2158 GMT 23 Mar 02
+10	0,0	string	meta_region	Central Eurasia
+11	0,0	string	meta_region	East Asia
+12	0,0	string	meta_subregion	Russia
+13	0,0	string	meta_subregion	Northeast Asia
+14	0,0	string	meta_country	Russia
+15	0,0	string	meta_country	Mongolia
+16	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+17	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+18	0,0	string	meta_topic	LEADER

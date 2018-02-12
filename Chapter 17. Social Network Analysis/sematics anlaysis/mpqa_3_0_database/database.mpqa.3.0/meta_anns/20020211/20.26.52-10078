@@ -1,0 +1,21 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	sep20020211000091n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Hanoi Announces Joint Science Conference on Agent Orange to Be Held in March
+5	0,0	string	meta_document_time	2002-02-09
+6	0,0	string	meta_create_time	2002-02-11T20:26:51
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Hanoi VNA (Internet Version-WWW) in 
+9	0,0	string	meta_reference	SEP20020211000091 Hanoi VNA (Internet Version-WWW) in English 09 Feb 02
+10	0,0	string	meta_region	East Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	Southeast Asia
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_country	Vietnam
+15	0,0	string	meta_country	United States
+16	0,0	string	meta_topic	DOMESTIC POLITICAL
+17	0,0	string	meta_topic	ENVIRONMENT
+18	0,0	string	meta_topic	HEALTH
+19	0,0	string	meta_topic	INTERNATIONAL POLITICAL

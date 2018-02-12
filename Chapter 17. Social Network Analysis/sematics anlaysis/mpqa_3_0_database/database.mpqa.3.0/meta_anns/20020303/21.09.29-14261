@@ -1,0 +1,29 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20020303000057n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	AFP: Canada Bids To Break Commonwealth Deadlock Over Zimbabwe
+5	0,0	string	meta_document_time	2002-03-03
+6	0,0	string	meta_create_time	2002-03-3T21:09:30
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Hong Kong AFP in English 
+9	0,0	string	meta_reference	CPP20020303000057 Hong Kong AFP in English 1145 GMT 03 Mar 02
+10	0,0	string	meta_region	East Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_region	Sub-Saharan Africa
+13	0,0	string	meta_region	West Europe
+14	0,0	string	meta_subregion	Australasia
+15	0,0	string	meta_subregion	North America
+16	0,0	string	meta_subregion	Southern Africa
+17	0,0	string	meta_subregion	West Europe
+18	0,0	string	meta_subregion	East Africa
+19	0,0	string	meta_country	Australia
+20	0,0	string	meta_country	Canada
+21	0,0	string	meta_country	Zimbabwe
+22	0,0	string	meta_country	United Kingdom
+23	0,0	string	meta_country	Tanzania
+24	0,0	string	meta_country	Fiji
+25	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+26	0,0	string	meta_topic	LEADER
+27	0,0	string	meta_topic	URGENT

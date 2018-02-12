@@ -1,0 +1,17 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20020103000106n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	CNA: Premier 'Alarmed' at Reports of Lawmaker's Kidnap
+5	0,0	string	meta_document_time	2002-01-03
+6	0,0	string	meta_create_time	2002-01-3T20:39:18
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Taipei Central News Agency WWW-Text 
+9	0,0	string	meta_reference	CPP20020103000106 Taipei Central News Agency WWW-Text in English 1243 GMT 3 Jan 2002   [By Maubo Chang]
+10	0,0	string	meta_region	China
+11	0,0	string	meta_subregion	Taiwan
+12	0,0	string	meta_country	Taiwan
+13	0,0	string	meta_topic	CRIME
+14	0,0	string	meta_topic	DOMESTIC POLITICAL
+15	0,0	string	meta_topic	LEADER

@@ -1,0 +1,18 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	lap20011112000058n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Mexican Energy Secretary Doubts Petroleum Goal
+5	0,0	string	meta_document_time	2001-11-12
+6	0,0	string	meta_create_time	2001-11-12T20:27:08
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Mexico City Reforma (Internet Version-WWW) 
+9	0,0	string	meta_reference	LAP20011112000058 Mexico City Reforma (Internet Version-WWW) in Spanish 12 Nov 01   [Report by Mayela Cordoba and Karina Montoya, of the Reforma Group]
+10	0,0	string	meta_region	The Americas
+11	0,0	string	meta_subregion	North America
+12	0,0	string	meta_country	Mexico
+13	0,0	string	meta_country	United States
+14	0,0	string	meta_topic	DOMESTIC ECONOMIC
+15	0,0	string	meta_topic	ENERGY
+16	0,0	string	meta_topic	INTERNATIONAL ECONOMIC

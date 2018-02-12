@@ -1,0 +1,24 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20020316000171n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Further on Mbeki-Mugabe meeting; RSA deputy president to attend inauguration
+5	0,0	string	meta_document_time	2002-03-16
+6	0,0	string	meta_create_time	2002-03-16T20:38:04
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Johannesburg SAPA (Internet Version-WWW) in 
+9	0,0	string	meta_reference	AFP20020316000171 Johannesburg SAPA (Internet Version-WWW) in English 1536 GMT 16 Mar 02   Reference:   nigeria: obasanjo to fly to harare, london to discuss mugabe's reelection afp20020316000128 paris afp (world service) english 1535 gmt 15 mar 02   rsa: presidents mbeki, obasanjo to meet mugabe, tsvangirai in harare 18 mar afp20020316000097 johannesburg sapa (internet version-www) english 1023 gmt 16 mar 02      [correction -- changing precedence to &quot;priority&quot;]
+10	0,0	string	meta_region	East Asia
+11	0,0	string	meta_region	Sub-Saharan Africa
+12	0,0	string	meta_subregion	Australasia
+13	0,0	string	meta_subregion	West Africa
+14	0,0	string	meta_subregion	Southern Africa
+15	0,0	string	meta_country	Australia
+16	0,0	string	meta_country	Nigeria
+17	0,0	string	meta_country	South Africa
+18	0,0	string	meta_country	Zimbabwe
+19	0,0	string	meta_topic	DOMESTIC POLITICAL
+20	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+21	0,0	string	meta_topic	LEADER
+22	0,0	string	meta_topic	URGENT

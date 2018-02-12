@@ -1,0 +1,21 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cep20020221000039n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Russia: Interior Ministry probes businessman's role in arms supplies to Al-Qa'ida
+5	0,0	string	meta_document_time	2002-02-21
+6	0,0	string	meta_create_time	2002-02-21T21:07:04
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Moscow Interfax in English 0913 
+9	0,0	string	meta_reference	CEP20020221000039 Moscow Interfax in English 0913 GMT 21 Feb 02
+10	0,0	string	meta_region	Central Eurasia
+11	0,0	string	meta_region	Near East/South Asia
+12	0,0	string	meta_subregion	Russia
+13	0,0	string	meta_subregion	South Asia
+14	0,0	string	meta_country	Russia
+15	0,0	string	meta_country	Afghanistan
+16	0,0	string	meta_topic	DOMESTIC POLITICAL
+17	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+18	0,0	string	meta_topic	TERRORISM.911USA
+19	0,0	string	meta_topic	URGENT

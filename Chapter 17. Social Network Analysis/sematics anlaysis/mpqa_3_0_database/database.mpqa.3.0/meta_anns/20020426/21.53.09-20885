@@ -1,0 +1,20 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	jpp20020426000183n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Kyodo: Asahi Shimbun Staffer Shot Dead In Kenya
+5	0,0	string	meta_document_time	2002-04-26
+6	0,0	string	meta_create_time	2002-04-26T21:44:48
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Tokyo Kyodo in English 1448 
+9	0,0	string	meta_reference	JPP20020426000183 Tokyo Kyodo in English 1448 GMT 26 Apr 02
+10	0,0	string	meta_region	East Asia
+11	0,0	string	meta_region	Sub-Saharan Africa
+12	0,0	string	meta_subregion	Northeast Asia
+13	0,0	string	meta_subregion	East Africa
+14	0,0	string	meta_country	Japan
+15	0,0	string	meta_country	Kenya
+16	0,0	string	meta_topic	CRIME
+17	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+18	0,0	string	meta_topic	MEDIA

@@ -1,0 +1,6 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_type	text
+2	0,0	string	meta_title	Two Russian Cosmonauts To Conduct Space Walk
+3	0,0	string	meta_create_time	2001-12-03
+4	0,0	string	meta_description	Pravda

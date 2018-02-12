@@ -1,0 +1,20 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20011224000198n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	British Police Clear Ship Suspected of Carrying Terrorist Materials
+5	0,0	string	meta_document_time	2001-12-24
+6	0,0	string	meta_create_time	2001-12-24T21:13:16
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	London Press Association (Internet Version-WWW) 
+9	0,0	string	meta_reference	EUP20011224000198 London Press Association (Internet Version-WWW) in English 1754 GMT 24 Dec 01   Reference:   uk to detain ship carrying 'terrorist material' for 'foreseeable future' eup20011223000066 london press association (internet version-www) english 1605 gmt 23 dec 01   uk anti-terrorist officers searching cargo ship 21 dec eup20011221000432 london press association (internet version-www) english 1801 gmt 21 dec 01   british anti-terrorist police board uk-bound cargo vessel following tip-off eup20011221000228 london press association (internet version-www) english 1334 gmt 21 dec 01      [Report by Mark Wilkinson]
+10	0,0	string	meta_region	West Europe
+11	0,0	string	meta_region	Near East/South Asia
+12	0,0	string	meta_subregion	West Europe
+13	0,0	string	meta_subregion	South Asia
+14	0,0	string	meta_country	United Kingdom
+15	0,0	string	meta_country	India
+16	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+17	0,0	string	meta_topic	TERRORISM.911USA
+18	0,0	string	meta_topic	URGENT

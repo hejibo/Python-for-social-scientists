@@ -1,0 +1,18 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	gmp20011202000518n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	VOP: Palestinian Youth Killed in Bethlehem Explosion
+5	0,0	string	meta_document_time	2001-12-03
+6	0,0	string	meta_create_time	2001-12-3T21:27:25
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Ramallah Voice of Palestine in 
+9	0,0	string	meta_reference	GMP20011202000518 Ramallah Voice of Palestine in Arabic 1900 GMT 03 Dec 01   Reference:   vop reports three citizens injured in bethlehem explosion gmp20011202000477 ramallah voice of palestine arabic 1725 gmt 03 dec 01
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_subregion	Near East
+12	0,0	string	meta_country	West Bank &amp; Gaza Strip
+13	0,0	string	meta_country	Israel
+14	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+15	0,0	string	meta_topic	MILITARY
+16	0,0	string	meta_topic	URGENT

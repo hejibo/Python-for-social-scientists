@@ -1,0 +1,25 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20020115000351n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Businessman Charges Swiss Leaks in Borodin Case Endangered Life
+5	0,0	string	meta_document_time	2002-01-08
+6	0,0	string	meta_create_time	2002-01-15T21:13:37
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Paris AFP (Domestic Service) in 
+9	0,0	string	meta_reference	EUP20020115000351 Paris AFP (Domestic Service) in French 1955 GMT 08 Jan 02
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	Central Eurasia
+12	0,0	string	meta_region	West Europe
+13	0,0	string	meta_subregion	Near East
+14	0,0	string	meta_subregion	Russia
+15	0,0	string	meta_subregion	West Europe
+16	0,0	string	meta_country	Israel
+17	0,0	string	meta_country	Russia
+18	0,0	string	meta_country	Switzerland
+19	0,0	string	meta_topic	CRIME
+20	0,0	string	meta_topic	HUMAN RIGHTS
+21	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+22	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+23	0,0	string	meta_topic	LEADER

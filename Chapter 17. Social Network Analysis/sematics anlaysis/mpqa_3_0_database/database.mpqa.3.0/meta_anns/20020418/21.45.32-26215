@@ -1,0 +1,22 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20020417000123n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	FYROM Daily Blames US, EU for 'Late' Peace Initiative in Middle East
+5	0,0	string	meta_document_time	2002-04-17
+6	0,0	string	meta_create_time	2002-04-18T21:46:53
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Skopje Utrinski Vesnik in Macedonian 
+9	0,0	string	meta_reference	EUP20020417000123 Skopje Utrinski Vesnik in Macedonian 17 Apr 02 p 12   [Commentary by Dimitar Culev: &quot;Colin Powell's Middle East Handicap&quot;]
+10	0,0	string	meta_region	East Europe
+11	0,0	string	meta_region	Near East/South Asia
+12	0,0	string	meta_region	The Americas
+13	0,0	string	meta_subregion	Balkan States
+14	0,0	string	meta_subregion	Near East
+15	0,0	string	meta_subregion	North America
+16	0,0	string	meta_country	FYROM
+17	0,0	string	meta_country	Israel
+18	0,0	string	meta_country	United States
+19	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+20	0,0	string	meta_topic	LEADER

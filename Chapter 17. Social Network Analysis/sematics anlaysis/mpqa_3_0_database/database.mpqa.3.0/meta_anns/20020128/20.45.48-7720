@@ -1,0 +1,25 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20020128000001n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Xinhua: US Defense Chief Rumsfeld Visits Guantanamo Detention Camp
+5	0,0	string	meta_document_time	2002-01-28
+6	0,0	string	meta_create_time	2002-01-28T20:45:47
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Beijing Xinhua in English 0010 
+9	0,0	string	meta_reference	CPP20020128000001 Beijing Xinhua in English 0010 GMT 28 Jan 02
+10	0,0	string	meta_region	China
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_region	Near East/South Asia
+13	0,0	string	meta_subregion	China
+14	0,0	string	meta_subregion	North America
+15	0,0	string	meta_subregion	South Asia
+16	0,0	string	meta_subregion	Caribbean
+17	0,0	string	meta_country	China
+18	0,0	string	meta_country	United States
+19	0,0	string	meta_country	Afghanistan
+20	0,0	string	meta_country	Cuba
+21	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+22	0,0	string	meta_topic	LEADER
+23	0,0	string	meta_topic	MILITARY

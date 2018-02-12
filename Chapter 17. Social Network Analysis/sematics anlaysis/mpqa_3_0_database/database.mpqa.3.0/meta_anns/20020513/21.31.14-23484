@@ -1,0 +1,15 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	sep20020513000094n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Vietnam Produces Low-Cost HIV-AIDS Drugs
+5	0,0	string	meta_document_time	2002-05-13
+6	0,0	string	meta_create_time	2002-05-13T21:32:47
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Hanoi VNA WWW-Text in English 
+9	0,0	string	meta_reference	SEP20020513000094 Hanoi VNA WWW-Text in English 13 May 02
+10	0,0	string	meta_region	East Asia
+11	0,0	string	meta_subregion	Southeast Asia
+12	0,0	string	meta_country	Vietnam
+13	0,0	string	meta_topic	HEALTH

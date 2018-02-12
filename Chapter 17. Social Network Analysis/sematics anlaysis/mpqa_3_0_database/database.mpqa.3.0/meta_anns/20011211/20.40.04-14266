@@ -1,0 +1,15 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	gmp20011211000182n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Jordan: Opposition Court Case Against Election Law Begins 10 Dec
+5	0,0	string	meta_document_time	2001-12-11
+6	0,0	string	meta_create_time	2001-12-11T20:43:41
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Amman Jordan Times (Internet Version-WWW) 
+9	0,0	string	meta_reference	GMP20011211000182 Amman Jordan Times (Internet Version-WWW) in English 11 Dec 01
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_subregion	Near East
+12	0,0	string	meta_country	Jordan
+13	0,0	string	meta_topic	DOMESTIC POLITICAL

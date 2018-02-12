@@ -1,0 +1,15 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20011024000203n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Kenya: Remand prisoners escape from police custody
+5	0,0	string	meta_document_time	2001-10-24
+6	0,0	string	meta_create_time	2001-10-24T23:40:23
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Nairobi KBC Television in English 
+9	0,0	string	meta_reference	AFP20011024000203 Nairobi KBC Television in English 1900 GMT 24 Oct 01
+10	0,0	string	meta_region	Sub-Saharan Africa
+11	0,0	string	meta_subregion	East Africa
+12	0,0	string	meta_country	Kenya
+13	0,0	string	meta_topic	DOMESTIC POLITICAL

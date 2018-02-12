@@ -1,0 +1,19 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20020212000164n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	RSA: Alleged Israeli mafia to stand trial in August for husband's murder
+5	0,0	string	meta_document_time	2002-02-12
+6	0,0	string	meta_create_time	2002-02-12T21:04:45
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Johannesburg SAPA (Internet Version-WWW) in 
+9	0,0	string	meta_reference	AFP20020212000164 Johannesburg SAPA (Internet Version-WWW) in English 1215 GMT 12 Feb 02
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	Sub-Saharan Africa
+12	0,0	string	meta_subregion	Near East
+13	0,0	string	meta_subregion	Southern Africa
+14	0,0	string	meta_country	Israel
+15	0,0	string	meta_country	South Africa
+16	0,0	string	meta_topic	CRIME
+17	0,0	string	meta_topic	INTERNATIONAL POLITICAL

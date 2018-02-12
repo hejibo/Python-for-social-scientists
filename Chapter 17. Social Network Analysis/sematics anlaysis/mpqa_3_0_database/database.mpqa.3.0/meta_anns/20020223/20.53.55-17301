@@ -1,0 +1,23 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20020223000046n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	ZTS Rounds Up Hong Kong Press Comments on Bush Visit
+5	0,0	string	meta_document_time	2002-02-23
+6	0,0	string	meta_create_time	2002-02-23T20:53:54
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Hong Kong Zhongguo Tongxun She 
+9	0,0	string	meta_reference	CPP20020223000046 Hong Kong Zhongguo Tongxun She in Chinese 0837 GMT 23 Feb 02   [Round up by ZTS reporter: &quot;Hong Kong Public Opinion Hold that the United States Should Engage with China in a Positive Manner&quot;]
+10	0,0	string	meta_region	China
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	Hong Kong &amp; Macao
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_subregion	China
+15	0,0	string	meta_country	Hong Kong
+16	0,0	string	meta_country	United States
+17	0,0	string	meta_country	China
+18	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+19	0,0	string	meta_topic	LEADER
+20	0,0	string	meta_topic	MEDIA
+21	0,0	string	meta_topic	URGENT

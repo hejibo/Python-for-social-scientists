@@ -1,0 +1,18 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20020320000130n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Swaziland: Defense Force detains 594 illegal immigrants
+5	0,0	string	meta_document_time	2002-03-20
+6	0,0	string	meta_create_time	2002-03-20T21:03:14
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Mbabane The Times of Swaziland 
+9	0,0	string	meta_reference	AFP20020320000130 Mbabane The Times of Swaziland (Internet Version-WWW) in English 20 Mar 02   [Report by Zanele Dlamini: &quot;594 illegal immigrants were arrested last month&quot;]
+10	0,0	string	meta_region	Sub-Saharan Africa
+11	0,0	string	meta_subregion	Southern Africa
+12	0,0	string	meta_subregion	East Africa
+13	0,0	string	meta_country	Mozambique
+14	0,0	string	meta_country	Somalia
+15	0,0	string	meta_country	Swaziland
+16	0,0	string	meta_topic	MIGRATION

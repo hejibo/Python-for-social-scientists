@@ -1,0 +1,25 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20020123000159n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	CNA: Chen Calls For U.s. Support For Taiwan's Who Bid
+5	0,0	string	meta_document_time	2002-01-23
+6	0,0	string	meta_create_time	2002-01-23T21:37:32
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Taipei Central News Agency WWW-Text 
+9	0,0	string	meta_reference	CPP20020123000159 Taipei Central News Agency WWW-Text in English 1430 GMT 23 Jan 2002   [By Edward Chen]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	China
+12	0,0	string	meta_region	The Americas
+13	0,0	string	meta_subregion	South Asia
+14	0,0	string	meta_subregion	Taiwan
+15	0,0	string	meta_subregion	North America
+16	0,0	string	meta_country	Afghanistan
+17	0,0	string	meta_country	Taiwan
+18	0,0	string	meta_country	United States
+19	0,0	string	meta_topic	LEADER
+20	0,0	string	meta_topic	DOMESTIC POLITICAL
+21	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+22	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+23	0,0	string	meta_topic	MILITARY

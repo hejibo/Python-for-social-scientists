@@ -1,0 +1,21 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	gmp20010913000188n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Al-Quds Says Israel Taking Advantage of US Events To Continue Actions
+5	0,0	string	meta_document_time	2001-09-13
+6	0,0	string	meta_create_time	2001-09-14T22:06:30
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Jerusalem Al-Quds in Arabic 13 
+9	0,0	string	meta_reference	GMP20010913000188 Jerusalem Al-Quds in Arabic 13 Sep 01 p 13   [Editorial: &quot;The Calamities of Some...&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	Near East
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_country	Israel
+15	0,0	string	meta_country	United States
+16	0,0	string	meta_country	West Bank &amp; Gaza Strip
+17	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+18	0,0	string	meta_topic	TERRORISM
+19	0,0	string	meta_topic	URGENT

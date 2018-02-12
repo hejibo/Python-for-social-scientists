@@ -1,0 +1,15 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20020302000017n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	BSE case reported in southwestern France
+5	0,0	string	meta_document_time	2002-03-02
+6	0,0	string	meta_create_time	2002-03-2T21:01:07
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Paris AFP (Domestic Service) in 
+9	0,0	string	meta_reference	EUP20020302000017 Paris AFP (Domestic Service) in French 0927 GMT 2 Mar 02
+10	0,0	string	meta_region	West Europe
+11	0,0	string	meta_subregion	West Europe
+12	0,0	string	meta_country	France
+13	0,0	string	meta_topic	HEALTH

@@ -1,0 +1,22 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20020403000381n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Finnish Editorial Deplores Israeli 'Saber Rattling,' Urges US Involvement
+5	0,0	string	meta_document_time	2002-04-03
+6	0,0	string	meta_create_time	2002-04-4T21:25:12
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Helsinki Helsingin Sanomat (Internet Version-WWW) 
+9	0,0	string	meta_reference	EUP20020403000381 Helsinki Helsingin Sanomat (Internet Version-WWW) in Finnish 3 April 02   [Editorial: &quot;More Difficult Than Ever To Perceive Sharon's Goals&quot;]
+10	0,0	string	meta_region	West Europe
+11	0,0	string	meta_region	Near East/South Asia
+12	0,0	string	meta_region	The Americas
+13	0,0	string	meta_subregion	Nordic Countries
+14	0,0	string	meta_subregion	Near East
+15	0,0	string	meta_subregion	North America
+16	0,0	string	meta_country	Finland
+17	0,0	string	meta_country	Israel
+18	0,0	string	meta_country	United States
+19	0,0	string	meta_country	West Bank &amp; Gaza Strip
+20	0,0	string	meta_topic	INTERNATIONAL POLITICAL

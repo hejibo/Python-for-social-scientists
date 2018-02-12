@@ -1,0 +1,24 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	iap20020430000065n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Iran: US support for Venezuelan coup aimed at keeping oil flowing
+5	0,0	string	meta_document_time	2002-04-15
+6	0,0	string	meta_create_time	2002-04-30T21:52:24
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Tehran Resalat in Persian 15 
+9	0,0	string	meta_reference	IAP20020430000065 Tehran Resalat in Persian 15 Apr 02 p 13   [Commentary by 'Ali Qasemi: &quot;The victory of democracy in Venezuela has disappointed America&quot;]
+10	0,0	string	meta_region	The Americas
+11	0,0	string	meta_region	Near East/South Asia
+12	0,0	string	meta_subregion	South America
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_subregion	Near East
+15	0,0	string	meta_subregion	South Asia
+16	0,0	string	meta_country	Venezuela
+17	0,0	string	meta_country	United States
+18	0,0	string	meta_country	Iraq
+19	0,0	string	meta_country	Israel
+20	0,0	string	meta_country	Iran
+21	0,0	string	meta_topic	ENERGY
+22	0,0	string	meta_topic	INTERNATIONAL POLITICAL

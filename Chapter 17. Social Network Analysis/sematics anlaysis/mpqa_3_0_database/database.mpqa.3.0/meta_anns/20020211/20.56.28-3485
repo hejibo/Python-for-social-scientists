@@ -1,0 +1,15 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20020211000004n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Kenya: &quot;Highly contagious&quot; type of tuberculosis reported in Embu
+5	0,0	string	meta_document_time	2002-02-11
+6	0,0	string	meta_create_time	2002-02-11T20:56:27
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Nairobi Daily Nation (Internet Version-WWW) 
+9	0,0	string	meta_reference	AFP20020211000004 Nairobi Daily Nation (Internet Version-WWW) in English 0001 GMT 11 Feb 02
+10	0,0	string	meta_region	Sub-Saharan Africa
+11	0,0	string	meta_subregion	East Africa
+12	0,0	string	meta_country	Kenya
+13	0,0	string	meta_topic	HEALTH

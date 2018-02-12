@@ -1,0 +1,21 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	lap20020319000025n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Argentine Crisis To Be Discussed at UN Conference in Monterrey
+5	0,0	string	meta_document_time	2002-03-19
+6	0,0	string	meta_create_time	2002-03-20T11:41:34
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Buenos Aires La Nacion in 
+9	0,0	string	meta_reference	LAP20020319000025 Buenos Aires La Nacion in Spanish 19 Mar 02 4   [By special correspondent Jorge Elias]
+10	0,0	string	meta_region	The Americas
+11	0,0	string	meta_subregion	South America
+12	0,0	string	meta_subregion	North America
+13	0,0	string	meta_country	Argentina
+14	0,0	string	meta_country	Mexico
+15	0,0	string	meta_country	United States
+16	0,0	string	meta_topic	DOMESTIC ECONOMIC
+17	0,0	string	meta_topic	DOMESTIC POLITICAL
+18	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+19	0,0	string	meta_topic	INTERNATIONAL POLITICAL

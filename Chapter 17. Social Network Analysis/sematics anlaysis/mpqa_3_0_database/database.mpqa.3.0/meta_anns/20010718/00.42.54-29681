@@ -1,0 +1,19 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20010717000016n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	PRC: Mercedes-Benz Recall Excluding China Reportedly Lead To Claims
+5	0,0	string	meta_document_time	2001-07-17
+6	0,0	string	meta_create_time	2001-07-18T00:43:48
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Beijing Xinhua in English 0204 
+9	0,0	string	meta_reference	CPP20010717000016 Beijing Xinhua in English 0204 GMT 17 Jul 01
+10	0,0	string	meta_region	China
+11	0,0	string	meta_region	West Europe
+12	0,0	string	meta_subregion	China
+13	0,0	string	meta_subregion	West Europe
+14	0,0	string	meta_country	China
+15	0,0	string	meta_country	Germany
+16	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+17	0,0	string	meta_topic	INTERNATIONAL POLITICAL

@@ -1,0 +1,22 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	gmp20020201000094n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	UK-Based Arabic Paper Views Bush's 'Firmness' in State of Union Speech
+5	0,0	string	meta_document_time	2002-02-01
+6	0,0	string	meta_create_time	2002-02-1T20:41:36
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	London Al-Sharq al-Awsat in Arabic 
+9	0,0	string	meta_reference	GMP20020201000094 London Al-Sharq al-Awsat in Arabic 01 Feb 02 p 11   [Articly by Huda al-Husayni: &quot;Bush's Speech and the United States' Goals&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	South Asia
+13	0,0	string	meta_subregion	Near East
+14	0,0	string	meta_subregion	North America
+15	0,0	string	meta_country	Iran
+16	0,0	string	meta_country	Iraq
+17	0,0	string	meta_country	United States
+18	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+19	0,0	string	meta_topic	PROLIFERATION
+20	0,0	string	meta_topic	TERRORISM

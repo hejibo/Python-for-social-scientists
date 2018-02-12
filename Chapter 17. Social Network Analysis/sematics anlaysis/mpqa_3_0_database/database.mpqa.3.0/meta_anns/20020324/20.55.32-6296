@@ -1,0 +1,23 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cep20020324000001n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Russia: Prime Minister Kasyanov to depart for Mongolia, Vietnam 24 Mar
+5	0,0	string	meta_document_time	2002-03-24
+6	0,0	string	meta_create_time	2002-03-24T20:55:31
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Moscow Interfax in English 0707 
+9	0,0	string	meta_reference	CEP20020324000001 Moscow Interfax in English 0707 GMT 24 Mar 02
+10	0,0	string	meta_region	Central Eurasia
+11	0,0	string	meta_region	East Asia
+12	0,0	string	meta_subregion	Russia
+13	0,0	string	meta_subregion	Northeast Asia
+14	0,0	string	meta_subregion	Southeast Asia
+15	0,0	string	meta_country	Russia
+16	0,0	string	meta_country	Mongolia
+17	0,0	string	meta_country	Vietnam
+18	0,0	string	meta_topic	LEADER
+19	0,0	string	meta_topic	DOMESTIC POLITICAL
+20	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+21	0,0	string	meta_topic	INTERNATIONAL ECONOMIC

@@ -1,0 +1,23 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20020118000335n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	B-H: Anti-Terrorism Team Says Handover of Six Algerians to US 'Legal'
+5	0,0	string	meta_document_time	2002-01-18
+6	0,0	string	meta_create_time	2002-01-18T21:17:01
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Sarajevo ONASA (Internet Version-WWW) in 
+9	0,0	string	meta_reference	EUP20020118000335 Sarajevo ONASA (Internet Version-WWW) in English 1549 GMT 18 Jan 02   Reference:   bosnian rights group calls transfer of terrorist suspects 'drastic violation' eup20020118000278 paris afp (north european service) english 1434 gmt 18 jan 02   b-h authorities confirm handing over six suspected terrorists to us embassy eup20020118000153 sarajevo onasa (internet version-www) english 1004 gmt 18 jan 02   bosnian police move six arab terrorist suspects to 'unknown destination' eup20020118000046 paris afp (north european service) english 0752 gmt 18 jan 02   afp reports on b-h federation court decision to release terrorism suspects eup20020117000563 paris afp (north european service) english 2114 gmt 17 jan 02   b-h council of ministers says proceedings against terrorism suspects 'lawful' eup20020117000536 sarajevo bh radio 1 serbo-croatian 1600 gmt 17 jan 02   bosnian court orders release of terrorism suspects eup20020117000497 sarajevo onasa (internet version-www) english 1817 gmt 17 jan 02
+10	0,0	string	meta_region	East Europe
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_region	Near East/South Asia
+13	0,0	string	meta_subregion	Balkan States
+14	0,0	string	meta_subregion	North America
+15	0,0	string	meta_subregion	Arab Africa
+16	0,0	string	meta_country	Bosnia-Herzegovina
+17	0,0	string	meta_country	United States
+18	0,0	string	meta_country	Algeria
+19	0,0	string	meta_topic	HUMAN RIGHTS
+20	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+21	0,0	string	meta_topic	TERRORISM.911USA

@@ -1,0 +1,18 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	lap20020219000015n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Brazililan Editorial Says Bush's Alternative to Kyoto Deserves 'Rejection'
+5	0,0	string	meta_document_time	2002-02-19
+6	0,0	string	meta_create_time	2002-02-19T20:43:15
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Sao Paulo Valor (Internet Version-WWW) 
+9	0,0	string	meta_reference	LAP20020219000015 Sao Paulo Valor (Internet Version-WWW) in Portuguese 19 Feb 02   [Editorial]
+10	0,0	string	meta_region	The Americas
+11	0,0	string	meta_subregion	South America
+12	0,0	string	meta_subregion	North America
+13	0,0	string	meta_country	Brazil
+14	0,0	string	meta_country	United States
+15	0,0	string	meta_topic	ENVIRONMENT
+16	0,0	string	meta_topic	INTERNATIONAL POLITICAL

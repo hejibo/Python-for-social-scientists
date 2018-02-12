@@ -1,0 +1,15 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20010704000124n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Cow Suffering From Rabies Found in Harghita County in Romania
+5	0,0	string	meta_document_time	2001-07-04
+6	0,0	string	meta_create_time	2001-07-5T01:08:27
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Bucharest Romania Libera (Internet Version-WWW) 
+9	0,0	string	meta_reference	EUP20010704000124 Bucharest Romania Libera (Internet Version-WWW) in Romanian 04 Jul 01   Reference:   seven 'hotbeds of rabies' found in romania's brasov county eup20010522000199 bucharest ziua romanian 19 may 01      [Report by St. Ceteras &quot;We Have Rabid Cows&quot;]
+10	0,0	string	meta_region	East Europe
+11	0,0	string	meta_subregion	Balkan States
+12	0,0	string	meta_country	Romania
+13	0,0	string	meta_topic	HEALTH

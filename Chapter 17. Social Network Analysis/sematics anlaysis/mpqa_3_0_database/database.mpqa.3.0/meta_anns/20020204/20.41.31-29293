@@ -1,0 +1,22 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20020203000213n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Belgian Diplomat To Investigate Nationality of Prisoner at US Guantanamo Base
+5	0,0	string	meta_document_time	2002-02-04
+6	0,0	string	meta_create_time	2002-02-4T20:41:30
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Brussels Le Soir (Internet Version-WWW) 
+9	0,0	string	meta_reference	EUP20020203000213 Brussels Le Soir (Internet Version-WWW) in French 04 Feb 02   Reference:   belgium's michel: us afghanistan prisoners deserve prisoner of war status eup20020125000101 groot bijgaarden de standaard (internet version-www) dutch 25 jan 02   daily reports on belgian prisoner in us base, human rights aspects eup20020125000039 brussels le soir (internet version-www) french 25 jan 02   belgian national among prisoners held at us base - ministry eup20020124000506 brussels vrt radio 1 dutch 1700 gmt 24 jan 02      [Report by Jean-Paul Collette: &quot;Belgian Inquiry at Gauntanamo&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	West Europe
+12	0,0	string	meta_region	The Americas
+13	0,0	string	meta_subregion	South Asia
+14	0,0	string	meta_subregion	Benelux Countries
+15	0,0	string	meta_subregion	North America
+16	0,0	string	meta_country	Afghanistan
+17	0,0	string	meta_country	Belgium
+18	0,0	string	meta_country	United States
+19	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+20	0,0	string	meta_topic	TERRORISM.911WEB

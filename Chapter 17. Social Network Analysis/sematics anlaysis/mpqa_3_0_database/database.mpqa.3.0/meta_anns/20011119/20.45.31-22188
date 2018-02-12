@@ -1,0 +1,23 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	kpp20011119000016n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	ROK's Yonhap: Kyoto Plan Could Shut Inefficient Korean Products Out of Markets
+5	0,0	string	meta_document_time	2001-11-19
+6	0,0	string	meta_create_time	2001-11-19T20:48:45
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Seoul Yonhap in English 0215 
+9	0,0	string	meta_reference	KPP20011119000016 Seoul Yonhap in English 0215 GMT 19 Nov 01
+10	0,0	string	meta_region	The Americas
+11	0,0	string	meta_region	East Asia
+12	0,0	string	meta_subregion	North America
+13	0,0	string	meta_subregion	Northeast Asia
+14	0,0	string	meta_country	United States
+15	0,0	string	meta_country	Japan
+16	0,0	string	meta_country	South Korea
+17	0,0	string	meta_topic	ENERGY
+18	0,0	string	meta_topic	TECHNOLOGY
+19	0,0	string	meta_topic	ENVIRONMENT
+20	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+21	0,0	string	meta_topic	DOMESTIC POLITICAL

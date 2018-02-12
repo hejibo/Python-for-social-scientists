@@ -1,0 +1,24 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20010714000124n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	DRC: Some 60 delegates to take part in dialogue preparatory meeting in Botswana
+5	0,0	string	meta_document_time	2001-07-14
+6	0,0	string	meta_create_time	2001-07-15T00:32:20
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Paris AFP (World Service) in 
+9	0,0	string	meta_reference	AFP20010714000124 Paris AFP (World Service) in English 1726 GMT 14 Jul 01   Reference:   drc: facilitator postpones dialogue date; unhcr boss shuns activities of warlords afp20010711000162 paris radio france internationale french 1230 gmt 11 jul 01
+10	0,0	string	meta_region	Sub-Saharan Africa
+11	0,0	string	meta_subregion	Central Africa
+12	0,0	string	meta_subregion	East Africa
+13	0,0	string	meta_subregion	Southern Africa
+14	0,0	string	meta_subregion	West Africa
+15	0,0	string	meta_country	Congo-Kinshasa
+16	0,0	string	meta_country	Rwanda
+17	0,0	string	meta_country	Uganda
+18	0,0	string	meta_country	Botswana
+19	0,0	string	meta_country	Mauritania
+20	0,0	string	meta_topic	DISSENT
+21	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+22	0,0	string	meta_topic	LEADER

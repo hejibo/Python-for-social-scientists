@@ -1,0 +1,17 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20020427000057n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	President Mbeki in satellite link with RSA space tourist Mark Shuttleworth
+5	0,0	string	meta_document_time	2002-04-27
+6	0,0	string	meta_create_time	2002-04-27T21:53:53
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Johannesburg SAPA (Internet Version-WWW) in 
+9	0,0	string	meta_reference	AFP20020427000057 Johannesburg SAPA (Internet Version-WWW) in English 1216 GMT 27 Apr 02   [Report by Marietta le Roux]
+10	0,0	string	meta_region	Sub-Saharan Africa
+11	0,0	string	meta_subregion	Southern Africa
+12	0,0	string	meta_country	South Africa
+13	0,0	string	meta_topic	LEADER
+14	0,0	string	meta_topic	TECHNOLOGY
+15	0,0	string	meta_topic	TELECOM

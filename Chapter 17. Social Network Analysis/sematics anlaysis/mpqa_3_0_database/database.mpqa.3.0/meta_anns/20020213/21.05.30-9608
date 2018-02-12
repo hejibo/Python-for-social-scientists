@@ -1,0 +1,17 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20020213000191n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Sudan: Rebels release group of fishermen held for six months
+5	0,0	string	meta_document_time	2002-02-13
+6	0,0	string	meta_create_time	2002-02-13T21:05:28
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Paris AFP (World Service) in 
+9	0,0	string	meta_reference	AFP20020213000191 Paris AFP (World Service) in English 1605 GMT 13 Feb 02
+10	0,0	string	meta_region	Sub-Saharan Africa
+11	0,0	string	meta_subregion	East Africa
+12	0,0	string	meta_country	Sudan
+13	0,0	string	meta_topic	DISSENT
+14	0,0	string	meta_topic	DOMESTIC POLITICAL
+15	0,0	string	meta_topic	HUMAN RIGHTS

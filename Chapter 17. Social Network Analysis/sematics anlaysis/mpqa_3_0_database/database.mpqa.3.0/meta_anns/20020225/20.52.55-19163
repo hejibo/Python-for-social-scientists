@@ -1,0 +1,21 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	lap20020225000065n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Brazil: Cardoso Fears Rupture of Argentine Democratic Process
+5	0,0	string	meta_document_time	2002-02-25
+6	0,0	string	meta_create_time	2002-02-25T20:52:42
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Sao Paulo Valor (Internet Version-WWW) 
+9	0,0	string	meta_reference	LAP20020225000065 Sao Paulo Valor (Internet Version-WWW) in Portuguese 25 Feb 02   [Report by Ricardo Amaral from Warsaw]
+10	0,0	string	meta_region	The Americas
+11	0,0	string	meta_region	West Europe
+12	0,0	string	meta_subregion	South America
+13	0,0	string	meta_subregion	Nordic Countries
+14	0,0	string	meta_country	Argentina
+15	0,0	string	meta_country	Brazil
+16	0,0	string	meta_country	Sweden
+17	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+18	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+19	0,0	string	meta_topic	LEADER

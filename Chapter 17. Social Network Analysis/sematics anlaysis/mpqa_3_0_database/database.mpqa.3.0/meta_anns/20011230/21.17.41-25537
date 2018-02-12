@@ -1,0 +1,19 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20011220000140n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	French Daily Views Argentine Economic Crisis, Sees Message for Euro
+5	0,0	string	meta_document_time	2001-12-20
+6	0,0	string	meta_create_time	2001-12-30T21:21:41
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Paris Le Figaro (Economic Supplement) 
+9	0,0	string	meta_reference	EUP20011220000140 Paris Le Figaro (Economic Supplement) (Internet Version-WWW) in French 20 Dec 01   [Commentary by Jean-Pierre Robin: &quot;Argentina Victim of Economic Civvil War&quot;]
+10	0,0	string	meta_region	The Americas
+11	0,0	string	meta_region	West Europe
+12	0,0	string	meta_subregion	South America
+13	0,0	string	meta_subregion	West Europe
+14	0,0	string	meta_country	Argentina
+15	0,0	string	meta_country	France
+16	0,0	string	meta_topic	DOMESTIC ECONOMIC
+17	0,0	string	meta_topic	INTERNATIONAL ECONOMIC

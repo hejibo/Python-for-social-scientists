@@ -1,0 +1,20 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20011125000134n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	UK: Cook Expects No Deployment of British Ground Troops in Afghanistan
+5	0,0	string	meta_document_time	2001-11-25
+6	0,0	string	meta_create_time	2001-11-25T21:04:24
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	London Press Association (Internet Version-WWW) 
+9	0,0	string	meta_reference	EUP20011125000134 London Press Association (Internet Version-WWW) in English 1834 GMT 25 Nov 01   [By James Lyons and Dominic Ball, Political Staff, PA News]
+10	0,0	string	meta_region	West Europe
+11	0,0	string	meta_region	Near East/South Asia
+12	0,0	string	meta_subregion	West Europe
+13	0,0	string	meta_subregion	South Asia
+14	0,0	string	meta_country	United Kingdom
+15	0,0	string	meta_country	Afghanistan
+16	0,0	string	meta_topic	DOMESTIC POLITICAL
+17	0,0	string	meta_topic	MILITARY
+18	0,0	string	meta_topic	TERRORISM.911USA

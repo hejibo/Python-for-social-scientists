@@ -1,0 +1,15 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20020304000494n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	EU Commits to Early Ratification of Kyoto Protocol
+5	0,0	string	meta_document_time	2002-03-04
+6	0,0	string	meta_create_time	2002-03-4T20:50:32
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Brussels Rapid Database (Internet Version-WWW) 
+9	0,0	string	meta_reference	EUP20020304000494 Brussels Rapid Database (Internet Version-WWW) in English 04 Mar 02   Reference:   netherlands second chamber ratifies kyoto climate protocol eup20020304000264 rotterdam nrc handelsblad (internet version-www) dutch 1 mar 02      [EU Press Release No. IP/02/355 issued in Brussels on 4 March]
+10	0,0	string	meta_region	West Europe
+11	0,0	string	meta_subregion	Benelux Countries
+12	0,0	string	meta_country	Belgium
+13	0,0	string	meta_topic	ENVIRONMENT

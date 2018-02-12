@@ -1,0 +1,15 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20020116000098n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Uganda: Voice of Africa radio to have nationwide coverage by end of 2002
+5	0,0	string	meta_document_time	2002-01-15
+6	0,0	string	meta_create_time	2002-01-16T21:32:31
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Kampala The New Vision (Internet 
+9	0,0	string	meta_reference	AFP20020116000098 Kampala The New Vision (Internet Version-WWW) in English 0001 GMT 15 Jan 02
+10	0,0	string	meta_region	Sub-Saharan Africa
+11	0,0	string	meta_subregion	East Africa
+12	0,0	string	meta_country	Uganda
+13	0,0	string	meta_topic	MEDIA

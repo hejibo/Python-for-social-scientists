@@ -1,0 +1,25 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20020317000106n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Xinhua 'Roundup' Views 'Western Pressure' on Zimbabwe's Mugabe
+5	0,0	string	meta_document_time	2002-03-17
+6	0,0	string	meta_create_time	2002-03-18T20:48:18
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Beijing Xinhua in English 1630 
+9	0,0	string	meta_reference	CPP20020317000106 Beijing Xinhua in English 1630 GMT 17 Mar 02   [&quot;Roundup&quot; by Xiong Sihao: &quot;Mugabe Starts New Term Despite Western Pressure&quot;]
+10	0,0	string	meta_region	China
+11	0,0	string	meta_region	Sub-Saharan Africa
+12	0,0	string	meta_region	West Europe
+13	0,0	string	meta_region	The Americas
+14	0,0	string	meta_subregion	China
+15	0,0	string	meta_subregion	Southern Africa
+16	0,0	string	meta_subregion	West Europe
+17	0,0	string	meta_subregion	North America
+18	0,0	string	meta_country	China
+19	0,0	string	meta_country	Zimbabwe
+20	0,0	string	meta_country	United Kingdom
+21	0,0	string	meta_country	United States
+22	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+23	0,0	string	meta_topic	LEADER

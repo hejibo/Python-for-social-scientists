@@ -1,0 +1,19 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20020108000041n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Leakage from Radioactive Shipment from Sweden to US Seen as Worst in Swedish History
+5	0,0	string	meta_document_time	2002-01-08
+6	0,0	string	meta_create_time	2002-01-9T14:10:44
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Stockholm Dagens Nyheter (Internet Version-WWW) 
+9	0,0	string	meta_reference	EUP20020108000041 Stockholm Dagens Nyheter (Internet Version-WWW) in Swedish 8 Jan 02   [Report by Pernilla Anth: &quot;Radiation Incident: No Sign of Leak in Sweden&quot;]
+10	0,0	string	meta_region	West Europe
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	Nordic Countries
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_country	Sweden
+15	0,0	string	meta_country	United States
+16	0,0	string	meta_topic	ENVIRONMENT
+17	0,0	string	meta_topic	HEALTH

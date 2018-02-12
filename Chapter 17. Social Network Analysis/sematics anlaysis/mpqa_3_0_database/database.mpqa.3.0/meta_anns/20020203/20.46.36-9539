@@ -1,0 +1,26 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20020203000028n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Slovak Daily Takes Issue With Bush's List of Countries Posing Terrorist Threat
+5	0,0	string	meta_document_time	2002-02-01
+6	0,0	string	meta_create_time	2002-02-3T20:46:35
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Bratislava Narodna Obroda in Slovak 
+9	0,0	string	meta_reference	EUP20020203000028 Bratislava Narodna Obroda in Slovak 01 Feb 02 p 7   [Commentary by Blazej Panik: &quot;Bush's List of Names Raises More Question Marks&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	East Europe
+12	0,0	string	meta_region	The Americas
+13	0,0	string	meta_subregion	South Asia
+14	0,0	string	meta_subregion	Near East
+15	0,0	string	meta_subregion	East Europe
+16	0,0	string	meta_subregion	North America
+17	0,0	string	meta_country	Iran
+18	0,0	string	meta_country	Iraq
+19	0,0	string	meta_country	Slovakia
+20	0,0	string	meta_country	United States
+21	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+22	0,0	string	meta_topic	LEADER
+23	0,0	string	meta_topic	TERRORISM
+24	0,0	string	meta_topic	URGENT

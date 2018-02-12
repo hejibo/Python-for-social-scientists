@@ -1,0 +1,21 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	iap20011021000028n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Venezuelan President arrives in Iran for talks on oil prices
+5	0,0	string	meta_document_time	2001-10-21
+6	0,0	string	meta_create_time	2001-10-24T20:03:46
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Tehran IRNA in English 1118 
+9	0,0	string	meta_reference	IAP20011021000028 Tehran IRNA in English 1118 GMT 21 Oct 01
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	South Asia
+13	0,0	string	meta_subregion	South America
+14	0,0	string	meta_country	Iran
+15	0,0	string	meta_country	Venezuela
+16	0,0	string	meta_topic	ENERGY
+17	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+18	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+19	0,0	string	meta_topic	LEADER

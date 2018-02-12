@@ -1,0 +1,32 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	jpp20020218000171n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	AFP: Bush Meets Media in Tokyo, Dismisses Opposition to 'Adventure' in Iraq
+5	0,0	string	meta_document_time	2002-02-18
+6	0,0	string	meta_create_time	2002-02-18T20:45:16
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Hong Kong AFP in English 
+9	0,0	string	meta_reference	JPP20020218000171 Hong Kong AFP in English 1730 GMT 18 Feb 02
+10	0,0	string	meta_region	East Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_region	Near East/South Asia
+13	0,0	string	meta_region	West Europe
+14	0,0	string	meta_subregion	Northeast Asia
+15	0,0	string	meta_subregion	North America
+16	0,0	string	meta_subregion	Near East
+17	0,0	string	meta_subregion	West Europe
+18	0,0	string	meta_subregion	South Asia
+19	0,0	string	meta_country	Japan
+20	0,0	string	meta_country	United States
+21	0,0	string	meta_country	Iraq
+22	0,0	string	meta_country	Germany
+23	0,0	string	meta_country	France
+24	0,0	string	meta_country	North Korea
+25	0,0	string	meta_country	Afghanistan
+26	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+27	0,0	string	meta_topic	LEADER
+28	0,0	string	meta_topic	PROLIFERATION
+29	0,0	string	meta_topic	TERRORISM
+30	0,0	string	meta_topic	URGENT

@@ -1,0 +1,18 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	gmp20020225000013n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Saudi Editorial Reacts to Sharon's 'Buffer Zones' Proposal
+5	0,0	string	meta_document_time	2002-02-25
+6	0,0	string	meta_create_time	2002-02-25T21:00:48
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Jedda Arab News (Internet Version 
+9	0,0	string	meta_reference	GMP20020225000013 Jedda Arab News (Internet Version - WWW) in English 25 Feb 02   [Editorial: &quot;Walls and Fences&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_subregion	Near East
+12	0,0	string	meta_subregion	Arabian Peninsula
+13	0,0	string	meta_country	Israel
+14	0,0	string	meta_country	Saudi Arabia
+15	0,0	string	meta_country	West Bank &amp; Gaza Strip
+16	0,0	string	meta_topic	INTERNATIONAL POLITICAL

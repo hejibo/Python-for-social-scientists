@@ -1,0 +1,28 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cep20020314000252n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Kazakhstan: First passenger train departs from Almaty for Tehran
+5	0,0	string	meta_document_time	2002-03-14
+6	0,0	string	meta_create_time	2002-03-14T20:42:56
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Moscow Interfax in English 1544 
+9	0,0	string	meta_reference	CEP20020314000252 Moscow Interfax in English 1544 GMT 14 Mar 02
+10	0,0	string	meta_region	Central Eurasia
+11	0,0	string	meta_region	Near East/South Asia
+12	0,0	string	meta_region	West Europe
+13	0,0	string	meta_subregion	Central Asia
+14	0,0	string	meta_subregion	South Asia
+15	0,0	string	meta_subregion	West Europe
+16	0,0	string	meta_country	Kazakhstan
+17	0,0	string	meta_country	Iran
+18	0,0	string	meta_country	Uzbekistan
+19	0,0	string	meta_country	Turkmenistan
+20	0,0	string	meta_country	Kyrgyzstan
+21	0,0	string	meta_country	Tajikistan
+22	0,0	string	meta_country	Turkey
+23	0,0	string	meta_topic	DOMESTIC ECONOMIC
+24	0,0	string	meta_topic	DOMESTIC POLITICAL
+25	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+26	0,0	string	meta_topic	INTERNATIONAL POLITICAL

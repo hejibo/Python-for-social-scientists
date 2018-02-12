@@ -1,0 +1,20 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	gmp20011023000202n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Environment Minister Says Jordan To Sign Kyoto Protocol
+5	0,0	string	meta_document_time	2001-10-23
+6	0,0	string	meta_create_time	2001-10-24T21:55:52
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Amman Jordan Times (Internet Version-WWW) 
+9	0,0	string	meta_reference	GMP20011023000202 Amman Jordan Times (Internet Version-WWW) in English 23 Oct 01   [Report by Ruba Saqr]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	Near East
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_country	Jordan
+15	0,0	string	meta_country	United States
+16	0,0	string	meta_topic	DOMESTIC ECONOMIC
+17	0,0	string	meta_topic	ENVIRONMENT
+18	0,0	string	meta_topic	INTERNATIONAL ECONOMIC

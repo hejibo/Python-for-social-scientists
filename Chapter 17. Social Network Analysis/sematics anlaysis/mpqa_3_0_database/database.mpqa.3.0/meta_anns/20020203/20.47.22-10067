@@ -1,0 +1,28 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20020203000017n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Xinhua Short Commentary Says &quot;Axis of Evil&quot; Does Not Exist
+5	0,0	string	meta_document_time	2002-02-03
+6	0,0	string	meta_create_time	2002-02-3T20:47:21
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Beijing Xinhua Domestic Service in 
+9	0,0	string	meta_reference	CPP20020203000017 Beijing Xinhua Domestic Service in Chinese 0509 GMT 03 Feb 02   [&quot;Short Commentary&quot; by staff reporter Bao Erwen: &quot;'Axis of Evil' Is Nonexistent&quot;]
+10	0,0	string	meta_region	China
+11	0,0	string	meta_region	Near East/South Asia
+12	0,0	string	meta_region	East Asia
+13	0,0	string	meta_region	The Americas
+14	0,0	string	meta_subregion	China
+15	0,0	string	meta_subregion	South Asia
+16	0,0	string	meta_subregion	Near East
+17	0,0	string	meta_subregion	Northeast Asia
+18	0,0	string	meta_subregion	North America
+19	0,0	string	meta_country	China
+20	0,0	string	meta_country	Iran
+21	0,0	string	meta_country	Iraq
+22	0,0	string	meta_country	North Korea
+23	0,0	string	meta_country	United States
+24	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+25	0,0	string	meta_topic	LEADER
+26	0,0	string	meta_topic	URGENT

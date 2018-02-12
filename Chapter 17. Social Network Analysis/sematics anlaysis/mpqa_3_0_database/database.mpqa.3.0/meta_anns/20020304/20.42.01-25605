@@ -1,0 +1,21 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	iap20020304000012n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Iran: Daily Says UNHCR Official Influenced by Zionists, US Biased Attitudes
+5	0,0	string	meta_document_time	2002-03-04
+6	0,0	string	meta_create_time	2002-03-4T20:42:03
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Tehran Tehran Times (Internet Version-WWW) 
+9	0,0	string	meta_reference	IAP20020304000012 Tehran Tehran Times (Internet Version-WWW) in English 0001 GMT 4 Mar 02
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	South Asia
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_subregion	Near East
+15	0,0	string	meta_country	Iran
+16	0,0	string	meta_country	United States
+17	0,0	string	meta_country	Israel
+18	0,0	string	meta_topic	HUMAN RIGHTS
+19	0,0	string	meta_topic	INTERNATIONAL POLITICAL

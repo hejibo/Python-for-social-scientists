@@ -1,0 +1,29 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	gmp20020206000169n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	UK-Based Arab Paper Views US Threats to Iran, Iraq
+5	0,0	string	meta_document_time	2002-02-06
+6	0,0	string	meta_create_time	2002-02-6T20:31:04
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	London Al-Quds al-Arabi in Arabic 
+9	0,0	string	meta_reference	GMP20020206000169 London Al-Quds al-Arabi in Arabic 06 Feb 02 p19   [Editorial: &quot;Colin Powell's Impossible Mission&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	East Asia
+12	0,0	string	meta_region	West Europe
+13	0,0	string	meta_region	The Americas
+14	0,0	string	meta_subregion	South Asia
+15	0,0	string	meta_subregion	Near East
+16	0,0	string	meta_subregion	Northeast Asia
+17	0,0	string	meta_subregion	West Europe
+18	0,0	string	meta_subregion	North America
+19	0,0	string	meta_country	Iran
+20	0,0	string	meta_country	Iraq
+21	0,0	string	meta_country	Israel
+22	0,0	string	meta_country	North Korea
+23	0,0	string	meta_country	United Kingdom
+24	0,0	string	meta_country	United States
+25	0,0	string	meta_country	West Bank &amp; Gaza Strip
+26	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+27	0,0	string	meta_topic	LEADER

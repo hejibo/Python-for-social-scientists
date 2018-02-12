@@ -1,0 +1,20 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	gmp20020103000096n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Al-Quds on Zinni Mission, Accuses Israel of Not Being Committed to Peace
+5	0,0	string	meta_document_time	2002-01-03
+6	0,0	string	meta_create_time	2002-01-3T20:32:45
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Jerusalem Al-Quds in Arabic 03 
+9	0,0	string	meta_reference	GMP20020103000096 Jerusalem Al-Quds in Arabic 03 Jan 02 p 13   [Editorial: &quot;The Clear-Cut Facts Before Envoy Zinni.&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	Near East
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_country	Israel
+15	0,0	string	meta_country	United States
+16	0,0	string	meta_country	West Bank &amp; Gaza Strip
+17	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+18	0,0	string	meta_topic	TERRORISM

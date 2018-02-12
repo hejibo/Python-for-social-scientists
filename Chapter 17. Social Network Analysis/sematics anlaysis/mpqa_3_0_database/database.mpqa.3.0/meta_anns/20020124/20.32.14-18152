@@ -1,0 +1,20 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	gmp20020118000068n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	UK-Paper Editorial: US Sacrificing Reputation at Guantanamo Base
+5	0,0	string	meta_document_time	2002-01-18
+6	0,0	string	meta_create_time	2002-01-24T20:32:11
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	London Al-Sharq al-Awsat in Arabic 
+9	0,0	string	meta_reference	GMP20020118000068 London Al-Sharq al-Awsat in Arabic 18 Jan 02 p9   [Editorial: &quot;The Guantanamo Test&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	South Asia
+13	0,0	string	meta_subregion	Arabian Peninsula
+14	0,0	string	meta_subregion	North America
+15	0,0	string	meta_country	Afghanistan
+16	0,0	string	meta_country	Saudi Arabia
+17	0,0	string	meta_country	United States
+18	0,0	string	meta_topic	INTERNATIONAL POLITICAL

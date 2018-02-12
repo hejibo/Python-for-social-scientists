@@ -1,0 +1,21 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20020402000133n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	CNA: Taiwan-u.s. Ties Closer Than Ever: Envoy
+5	0,0	string	meta_document_time	2002-04-02
+6	0,0	string	meta_create_time	2002-04-2T21:27:15
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Taipei Central News Agency WWW-Text 
+9	0,0	string	meta_reference	CPP20020402000133 Taipei Central News Agency WWW-Text in English 1013 GMT 2 Apr 2002   [By Neil Lu and Sofia Wu]
+10	0,0	string	meta_region	China
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	China
+13	0,0	string	meta_subregion	Taiwan
+14	0,0	string	meta_subregion	North America
+15	0,0	string	meta_country	China
+16	0,0	string	meta_country	Taiwan
+17	0,0	string	meta_country	United States
+18	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+19	0,0	string	meta_topic	INTERNATIONAL POLITICAL

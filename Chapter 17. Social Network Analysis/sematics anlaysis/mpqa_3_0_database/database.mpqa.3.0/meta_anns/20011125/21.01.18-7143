@@ -1,0 +1,21 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20011125000114n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Kosovo: Luxembourg, Romanian Troops To Relieve Belgian KFOR Soldiers
+5	0,0	string	meta_document_time	2001-11-24
+6	0,0	string	meta_create_time	2001-11-25T21:04:38
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Brussels Le Soir (Internet Version-WWW) 
+9	0,0	string	meta_reference	EUP20011125000114 Brussels Le Soir (Internet Version-WWW) in French 24 Nov 01   [Belga report: &quot;Kosovo: Belgian Relief&quot;]
+10	0,0	string	meta_region	West Europe
+11	0,0	string	meta_region	East Europe
+12	0,0	string	meta_subregion	Benelux Countries
+13	0,0	string	meta_subregion	Balkan States
+14	0,0	string	meta_country	Belgium
+15	0,0	string	meta_country	Kosovo
+16	0,0	string	meta_country	Luxembourg
+17	0,0	string	meta_country	Romania
+18	0,0	string	meta_topic	MILITARY
+19	0,0	string	meta_topic	PEACEKEEPING

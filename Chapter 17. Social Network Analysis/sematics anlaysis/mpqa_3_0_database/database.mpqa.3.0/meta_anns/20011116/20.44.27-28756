@@ -1,0 +1,25 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	lap20011116000026n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Brazil: Sardenberg Notes That &quot;Country Objectives Fully Attained in Marrakesh&quot;
+5	0,0	string	meta_document_time	2001-11-16
+6	0,0	string	meta_create_time	2001-11-16T20:47:37
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Rio de Janeiro Jornal do 
+9	0,0	string	meta_reference	LAP20011116000026 Rio de Janeiro Jornal do Brasil (Internet Version-WWW) in Portuguese 16 Nov 01   [Article by Science and Technology Minister Ronaldo Mota Sardenberg who headed Brazilian delegation to Marrakesh Conference]
+10	0,0	string	meta_region	The Americas
+11	0,0	string	meta_region	East Asia
+12	0,0	string	meta_region	Near East/South Asia
+13	0,0	string	meta_subregion	South America
+14	0,0	string	meta_subregion	Northeast Asia
+15	0,0	string	meta_subregion	Arab Africa
+16	0,0	string	meta_subregion	North America
+17	0,0	string	meta_country	Brazil
+18	0,0	string	meta_country	Japan
+19	0,0	string	meta_country	Morocco
+20	0,0	string	meta_country	United States
+21	0,0	string	meta_topic	ENVIRONMENT
+22	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+23	0,0	string	meta_topic	INTERNATIONAL POLITICAL

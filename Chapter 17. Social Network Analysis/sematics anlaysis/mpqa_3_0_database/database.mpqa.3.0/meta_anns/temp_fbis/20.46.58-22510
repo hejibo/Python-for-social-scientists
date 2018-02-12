@@ -1,0 +1,19 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	iap20020306000030n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Iranian Paper: US Rights Report Fails to 'Provide Evidence' to Support 'Charges'
+5	0,0	string	meta_document_time	2002-03-06
+6	0,0	string	meta_create_time	2002-03-6T20:47:03
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Tehran Tehran Times (Internet Version-WWW) 
+9	0,0	string	meta_reference	IAP20020306000030 Tehran Tehran Times (Internet Version-WWW) in English 6 Mar 02
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	South Asia
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_country	Iran
+15	0,0	string	meta_country	United States
+16	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+17	0,0	string	meta_topic	HUMAN RIGHTS

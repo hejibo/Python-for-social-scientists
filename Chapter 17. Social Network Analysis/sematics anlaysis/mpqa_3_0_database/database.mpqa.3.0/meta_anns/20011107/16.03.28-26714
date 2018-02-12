@@ -1,0 +1,17 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cep20011106000324n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Russia prepares for Baykonur space launches
+5	0,0	string	meta_document_time	2001-11-06
+6	0,0	string	meta_create_time	2001-11-7T16:06:28
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Moscow Interfax in English 1734 
+9	0,0	string	meta_reference	CEP20011106000324 Moscow Interfax in English 1734 GMT 6 Nov 01
+10	0,0	string	meta_region	Central Eurasia
+11	0,0	string	meta_subregion	Russia
+12	0,0	string	meta_country	Russia
+13	0,0	string	meta_topic	TECHNOLOGY
+14	0,0	string	meta_topic	MILITARY
+15	0,0	string	meta_topic	INTERNATIONAL POLITICAL

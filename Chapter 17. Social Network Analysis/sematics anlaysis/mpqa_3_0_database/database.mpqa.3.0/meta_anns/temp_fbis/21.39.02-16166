@@ -1,0 +1,28 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20020312000176n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Taiwan Editorial: Legislator Says Human Rights Report Shows 'Naked Pursuit of US Interests'
+5	0,0	string	meta_document_time	2002-03-12
+6	0,0	string	meta_create_time	2002-03-12T21:39:13
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Taipei Taipei Times (Internet Version-WWW) 
+9	0,0	string	meta_reference	CPP20020312000176 Taipei Taipei Times (Internet Version-WWW) in English 12 Mar 02   [Editorial by Chien Hsi-chieh: &quot;US Is Only Pursuing Its Own Interests&quot;]
+10	0,0	string	meta_region	China
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_region	Near East/South Asia
+13	0,0	string	meta_region	Central Eurasia
+14	0,0	string	meta_subregion	Taiwan
+15	0,0	string	meta_subregion	North America
+16	0,0	string	meta_subregion	China
+17	0,0	string	meta_subregion	Near East
+18	0,0	string	meta_subregion	Russia
+19	0,0	string	meta_country	Taiwan
+20	0,0	string	meta_country	United States
+21	0,0	string	meta_country	China
+22	0,0	string	meta_country	Israel
+23	0,0	string	meta_country	Russia
+24	0,0	string	meta_topic	DOMESTIC POLITICAL
+25	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+26	0,0	string	meta_topic	HUMAN RIGHTS

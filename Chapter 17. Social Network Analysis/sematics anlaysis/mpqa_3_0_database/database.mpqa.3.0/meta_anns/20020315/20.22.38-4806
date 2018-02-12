@@ -1,0 +1,24 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	kpp20020315000101n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	DPRK Cites Foreign Authorities, Reports Critical of Bush's Axis of Evil Remark
+5	0,0	string	meta_document_time	2002-03-15
+6	0,0	string	meta_create_time	2002-03-15T20:22:53
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	P'yongyang Korean Central Broadcasting Station 
+9	0,0	string	meta_reference	KPP20020315000101 P'yongyang Korean Central Broadcasting Station in Korean 0754 GMT 15 Mar 02   [Unattributed talk: &quot;Bush's Axis of Evil Remark Is a Despotic, Very Rash, and Futile One&quot;  Corrected version: correcting &quot;less&quot; to &quot;more&quot; in sentence 1, paragraph 9.]
+10	0,0	string	meta_region	East Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_region	Near East/South Asia
+13	0,0	string	meta_subregion	Northeast Asia
+14	0,0	string	meta_subregion	North America
+15	0,0	string	meta_subregion	South Asia
+16	0,0	string	meta_subregion	Near East
+17	0,0	string	meta_country	North Korea
+18	0,0	string	meta_country	United States
+19	0,0	string	meta_country	Iran
+20	0,0	string	meta_country	Iraq
+21	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+22	0,0	string	meta_topic	LEADER

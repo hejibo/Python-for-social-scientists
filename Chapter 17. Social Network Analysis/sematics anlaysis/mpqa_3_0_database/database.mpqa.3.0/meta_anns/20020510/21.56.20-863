@@ -1,0 +1,22 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20020510000196n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Somalia: Premier returns home, comments on his health
+5	0,0	string	meta_document_time	2002-05-09
+6	0,0	string	meta_create_time	2002-05-10T21:57:51
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	(Clandestine) Radio Dalmar, the Somali 
+9	0,0	string	meta_reference	AFP20020510000196 (Clandestine) Radio Dalmar, the Somali site in Holland (Internet Version-WWW) in Somali 09 May 02
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	Sub-Saharan Africa
+12	0,0	string	meta_subregion	Arabian Peninsula
+13	0,0	string	meta_subregion	East Africa
+14	0,0	string	meta_country	Bahrain
+15	0,0	string	meta_country	Kuwait
+16	0,0	string	meta_country	Somalia
+17	0,0	string	meta_country	United Arab Emirates
+18	0,0	string	meta_topic	DOMESTIC POLITICAL
+19	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+20	0,0	string	meta_topic	LEADER

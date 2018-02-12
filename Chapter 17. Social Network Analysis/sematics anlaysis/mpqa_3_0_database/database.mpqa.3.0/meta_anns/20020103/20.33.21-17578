@@ -1,0 +1,20 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20020103000121n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	France's Chirac says Argentina must make necessary choices
+5	0,0	string	meta_document_time	2002-01-02
+6	0,0	string	meta_create_time	2002-01-3T20:37:23
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Paris AFP (Domestic Service) in 
+9	0,0	string	meta_reference	EUP20020103000121 Paris AFP (Domestic Service) in French 1859 GMT 2 Jan 02
+10	0,0	string	meta_region	West Europe
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	West Europe
+13	0,0	string	meta_subregion	South America
+14	0,0	string	meta_country	France
+15	0,0	string	meta_country	Argentina
+16	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+17	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+18	0,0	string	meta_topic	LEADER

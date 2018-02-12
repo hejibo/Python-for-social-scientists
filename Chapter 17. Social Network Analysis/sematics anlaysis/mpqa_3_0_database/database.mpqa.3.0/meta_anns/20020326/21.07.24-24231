@@ -1,0 +1,22 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20020326000065n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	AFP: China Bars US Warship From Hong Kong Visit
+5	0,0	string	meta_document_time	2002-03-26
+6	0,0	string	meta_create_time	2002-03-26T21:07:23
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Hong Kong AFP in English 
+9	0,0	string	meta_reference	CPP20020326000065 Hong Kong AFP in English 0449 GMT 26 Mar 02   [As of 0800 GMT, PRC media have not been observed to report the following]
+10	0,0	string	meta_region	China
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	China
+13	0,0	string	meta_subregion	Hong Kong &amp; Macao
+14	0,0	string	meta_subregion	North America
+15	0,0	string	meta_country	China
+16	0,0	string	meta_country	Hong Kong
+17	0,0	string	meta_country	United States
+18	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+19	0,0	string	meta_topic	MILITARY
+20	0,0	string	meta_topic	URGENT

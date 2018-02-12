@@ -1,0 +1,31 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	jpp20020409000092n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Thaksin to discuss bilateral FTA with China
+5	0,0	string	meta_document_time	2002-04-09
+6	0,0	string	meta_create_time	2002-04-9T22:19:06
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Tokyo Kyodo in English 0651 
+9	0,0	string	meta_reference	JPP20020409000092 Tokyo Kyodo in English 0651 GMT 9 Apr 2002
+10	0,0	string	meta_region	East Asia
+11	0,0	string	meta_region	China
+12	0,0	string	meta_subregion	Southeast Asia
+13	0,0	string	meta_subregion	China
+14	0,0	string	meta_subregion	Northeast Asia
+15	0,0	string	meta_country	Cambodia
+16	0,0	string	meta_country	China
+17	0,0	string	meta_country	Indonesia
+18	0,0	string	meta_country	Japan
+19	0,0	string	meta_country	Laos
+20	0,0	string	meta_country	Malaysia
+21	0,0	string	meta_country	Philippines
+22	0,0	string	meta_country	Singapore
+23	0,0	string	meta_country	South Korea
+24	0,0	string	meta_country	Thailand
+25	0,0	string	meta_country	Vietnam
+26	0,0	string	meta_country	Burma
+27	0,0	string	meta_topic	DOMESTIC POLITICAL
+28	0,0	string	meta_topic	LEADER
+29	0,0	string	meta_topic	INTERNATIONAL POLITICAL

@@ -1,0 +1,17 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20020121000004n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Jiefangjun Bao: Taiwan's Move Toward 'Gradual Taiwan Independence' Not To Succeed
+5	0,0	string	meta_document_time	2002-01-21
+6	0,0	string	meta_create_time	2002-01-28T20:46:05
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Beijing Jiefangjun Bao (Internet Version-WWW) 
+9	0,0	string	meta_reference	CPP20020121000004 Beijing Jiefangjun Bao (Internet Version-WWW) in Chinese 21 Jan 02 P 9   [Article by Liu Hong: &quot;'Gradual Taiwan Independence' Will Not Succeed&quot;]
+10	0,0	string	meta_region	China
+11	0,0	string	meta_subregion	China
+12	0,0	string	meta_subregion	Taiwan
+13	0,0	string	meta_country	China
+14	0,0	string	meta_country	Taiwan
+15	0,0	string	meta_topic	INTERNATIONAL POLITICAL

@@ -1,0 +1,16 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cep20020322000046n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Russia: 'Habitual criminal' surrenders to police in Volga region
+5	0,0	string	meta_document_time	2002-03-22
+6	0,0	string	meta_create_time	2002-03-22T21:03:05
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Moscow Agentstvo Voyennykh Novostey WWW-Text 
+9	0,0	string	meta_reference	CEP20020322000046 Moscow Agentstvo Voyennykh Novostey WWW-Text in English 0941 GMT 22 Mar 02
+10	0,0	string	meta_region	Central Eurasia
+11	0,0	string	meta_subregion	Russia
+12	0,0	string	meta_country	Russia
+13	0,0	string	meta_topic	CRIME
+14	0,0	string	meta_topic	DOMESTIC POLITICAL

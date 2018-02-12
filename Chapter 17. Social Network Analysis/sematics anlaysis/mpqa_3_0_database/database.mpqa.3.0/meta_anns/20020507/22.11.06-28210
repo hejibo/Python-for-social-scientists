@@ -1,0 +1,22 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20020507000017n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Zimbabwe's Tsvangirai Alleges Mugabe Policy of Starvation Used to Punish Voters
+5	0,0	string	meta_document_time	2002-05-06
+6	0,0	string	meta_create_time	2002-05-7T22:12:38
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Toronto The Globe and Mail 
+9	0,0	string	meta_reference	EUP20020507000017 Toronto The Globe and Mail (Internet Version-WWW) in English 06 May 02 p A14   [Special to The Globe and Mail print edition by Jacqui Goddard: &quot;INTERVIEW: Treason trial near, but opposition leader says focus is violence, hunger faced by some Zimbabwean voters since election&quot;]
+10	0,0	string	meta_region	The Americas
+11	0,0	string	meta_region	Sub-Saharan Africa
+12	0,0	string	meta_subregion	North America
+13	0,0	string	meta_subregion	Southern Africa
+14	0,0	string	meta_country	Canada
+15	0,0	string	meta_country	Zimbabwe
+16	0,0	string	meta_topic	DISSENT
+17	0,0	string	meta_topic	HUMAN RIGHTS
+18	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+19	0,0	string	meta_topic	LEADER
+20	0,0	string	meta_topic	URGENT

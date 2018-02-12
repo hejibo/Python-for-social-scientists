@@ -1,0 +1,19 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20011008000112n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Taiwan Official Says US Military Action To Spur Investment
+5	0,0	string	meta_document_time	2001-10-08
+6	0,0	string	meta_create_time	2001-10-8T22:34:24
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Taipei Central News Agency WWW-Text 
+9	0,0	string	meta_reference	CPP20011008000112 Taipei Central News Agency WWW-Text in English 1050 GMT 08 Oct 01   [By Flor Wang]
+10	0,0	string	meta_region	China
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	Taiwan
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_country	Taiwan
+15	0,0	string	meta_country	United States
+16	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+17	0,0	string	meta_topic	INTERNATIONAL POLITICAL

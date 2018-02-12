@@ -1,0 +1,22 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	iap20020421000061n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Iran: Majles MP Comments on Venezuelan Coup, US 'Involvement'
+5	0,0	string	meta_document_time	2002-04-15
+6	0,0	string	meta_create_time	2002-04-21T21:30:30
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Tehran Mardom Salari in Persian 
+9	0,0	string	meta_reference	IAP20020421000061 Tehran Mardom Salari in Persian 15 Apr 02 p 3   [Interview with Ali Kianushrad, member of the Majles National Security and Foreign Policy Committee, by an unidentified correspondent: &quot;Chavez's Inopportune Downfall and Return in Venezuela&quot;; date and place not given ]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	South Asia
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_subregion	South America
+15	0,0	string	meta_country	Iran
+16	0,0	string	meta_country	United States
+17	0,0	string	meta_country	Venezuela
+18	0,0	string	meta_topic	DOMESTIC POLITICAL
+19	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+20	0,0	string	meta_topic	LEADER

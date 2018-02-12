@@ -1,0 +1,25 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20020118000223n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	British Officials Arrive in Cuba To Assess Al-Qa'ida Prisoners
+5	0,0	string	meta_document_time	2002-01-18
+6	0,0	string	meta_create_time	2002-01-18T21:18:23
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Paris AFP (North European Service) 
+9	0,0	string	meta_reference	EUP20020118000223 Paris AFP (North European Service) in English 1103 GMT 18 Jan 02   Reference:   uk guardian warns us prisoner abuse opens us, uk military to similar treatment eup20020118000160 london the guardian (internet version-www) english 18 jan 02   uk independent accuses us of humiliating al-qa'ida prisoners for vengeance eup20020118000161 london the independent (internet version-www) english 18 jan 02   uk pm's spokesman discusses treatment of al-qa'ida detainees, public services eup20020117000592 london 10 downing street www-text english 17 jan 02      [Rerelease, adding TERRORISM tag]
+10	0,0	string	meta_region	The Americas
+11	0,0	string	meta_region	Near East/South Asia
+12	0,0	string	meta_region	West Europe
+13	0,0	string	meta_subregion	Caribbean
+14	0,0	string	meta_subregion	South Asia
+15	0,0	string	meta_subregion	West Europe
+16	0,0	string	meta_subregion	North America
+17	0,0	string	meta_country	Cuba
+18	0,0	string	meta_country	Afghanistan
+19	0,0	string	meta_country	United Kingdom
+20	0,0	string	meta_country	United States
+21	0,0	string	meta_topic	HUMAN RIGHTS
+22	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+23	0,0	string	meta_topic	TERRORISM

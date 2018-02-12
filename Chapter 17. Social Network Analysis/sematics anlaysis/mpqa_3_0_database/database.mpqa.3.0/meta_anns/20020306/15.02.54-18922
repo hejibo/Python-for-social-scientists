@@ -1,0 +1,20 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	iap20020305000106n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Iran: Radio commentary rejects US report on human rights in Iran
+5	0,0	string	meta_document_time	2002-03-05
+6	0,0	string	meta_create_time	2002-03-6T15:02:58
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Tehran Voice of the Islamic 
+9	0,0	string	meta_reference	IAP20020305000106 Tehran Voice of the Islamic Republic of Iran Radio 1 in Persian 1705 GMT 5 Mar 02
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	South Asia
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_country	Iran
+15	0,0	string	meta_country	United States
+16	0,0	string	meta_topic	HUMAN RIGHTS
+17	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+18	0,0	string	meta_topic	URGENT

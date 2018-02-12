@@ -1,0 +1,20 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	gmp20020312000226n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Jordanian Government Prepares Replies to International Reports on Human Rights
+5	0,0	string	meta_document_time	2002-03-12
+6	0,0	string	meta_create_time	2002-03-12T21:28:00
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Amman Jordan Times (Internet Version-WWW) 
+9	0,0	string	meta_reference	GMP20020312000226 Amman Jordan Times (Internet Version-WWW) in English 12 Mar 02   [Article by Francesca Sawalha]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	Near East
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_country	Jordan
+15	0,0	string	meta_country	United States
+16	0,0	string	meta_topic	DOMESTIC POLITICAL
+17	0,0	string	meta_topic	HUMAN RIGHTS
+18	0,0	string	meta_topic	INTERNATIONAL POLITICAL

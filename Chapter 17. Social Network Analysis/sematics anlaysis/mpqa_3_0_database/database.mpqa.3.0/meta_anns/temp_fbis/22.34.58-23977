@@ -1,0 +1,23 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20020411000098n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	AFP: China Slams US Arms Sales, Official Visits to Taiwan
+5	0,0	string	meta_document_time	2002-04-11
+6	0,0	string	meta_create_time	2002-04-11T22:36:13
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Hong Kong AFP in English 
+9	0,0	string	meta_reference	CPP20020411000098 Hong Kong AFP in English 0932 GMT 11 Apr 02   [As of 0949 GMT, monitored PRC media sources have not reported on the following.]
+10	0,0	string	meta_region	China
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	China
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_subregion	Taiwan
+15	0,0	string	meta_country	China
+16	0,0	string	meta_country	United States
+17	0,0	string	meta_country	Taiwan
+18	0,0	string	meta_topic	URGENT
+19	0,0	string	meta_topic	LEADER
+20	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+21	0,0	string	meta_topic	MILITARY

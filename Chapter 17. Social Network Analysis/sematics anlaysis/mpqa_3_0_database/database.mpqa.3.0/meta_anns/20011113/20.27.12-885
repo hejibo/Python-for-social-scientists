@@ -1,0 +1,20 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	lap20011113000034n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Meeting Between Presidents Bush, De la Rua Analyzed
+5	0,0	string	meta_document_time	2001-11-13
+6	0,0	string	meta_create_time	2001-11-13T20:30:19
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Buenos Aires La Nacion in 
+9	0,0	string	meta_reference	LAP20011113000034 Buenos Aires La Nacion in Spanish 13 Nov 01 12   [Written expressly for La Nacion by Joaquin Morales Sola]
+10	0,0	string	meta_region	The Americas
+11	0,0	string	meta_subregion	South America
+12	0,0	string	meta_subregion	North America
+13	0,0	string	meta_country	Argentina
+14	0,0	string	meta_country	United States
+15	0,0	string	meta_topic	DOMESTIC ECONOMIC
+16	0,0	string	meta_topic	DOMESTIC POLITICAL
+17	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+18	0,0	string	meta_topic	INTERNATIONAL POLITICAL

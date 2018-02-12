@@ -1,0 +1,50 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	kpp20020311000034n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	DPRK Column Notes US Target of World Criticism for US President's WMD Remarks
+5	0,0	string	meta_document_time	2002-02-28
+6	0,0	string	meta_create_time	2002-03-14T20:24:08
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	P'yongyang Nodong Sinmun in Korean 
+9	0,0	string	meta_reference	KPP20020311000034 P'yongyang Nodong Sinmun in Korean 28 Feb 02 p6   [&quot;Monthly Overview of International Affairs&quot; column by Kim Chong-son: &quot;Denunciation of Injustice, Support of Justice&quot;]
+10	0,0	string	meta_region	China
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_region	West Europe
+13	0,0	string	meta_region	Near East/South Asia
+14	0,0	string	meta_region	East Asia
+15	0,0	string	meta_region	Central Eurasia
+16	0,0	string	meta_subregion	China
+17	0,0	string	meta_subregion	Caribbean
+18	0,0	string	meta_subregion	West Europe
+19	0,0	string	meta_subregion	South Asia
+20	0,0	string	meta_subregion	Near East
+21	0,0	string	meta_subregion	Northeast Asia
+22	0,0	string	meta_subregion	Southeast Asia
+23	0,0	string	meta_subregion	Arab Africa
+24	0,0	string	meta_subregion	Russia
+25	0,0	string	meta_subregion	Arabian Peninsula
+26	0,0	string	meta_subregion	North America
+27	0,0	string	meta_country	China
+28	0,0	string	meta_country	Cuba
+29	0,0	string	meta_country	France
+30	0,0	string	meta_country	Iran
+31	0,0	string	meta_country	Iraq
+32	0,0	string	meta_country	Israel
+33	0,0	string	meta_country	Japan
+34	0,0	string	meta_country	Laos
+35	0,0	string	meta_country	Libya
+36	0,0	string	meta_country	Nepal
+37	0,0	string	meta_country	North Korea
+38	0,0	string	meta_country	Russia
+39	0,0	string	meta_country	Syria
+40	0,0	string	meta_country	United Arab Emirates
+41	0,0	string	meta_country	United Kingdom
+42	0,0	string	meta_country	United States
+43	0,0	string	meta_country	Vietnam
+44	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+45	0,0	string	meta_topic	LEADER
+46	0,0	string	meta_topic	MILITARY
+47	0,0	string	meta_topic	PROLIFERATION
+48	0,0	string	meta_topic	TERRORISM

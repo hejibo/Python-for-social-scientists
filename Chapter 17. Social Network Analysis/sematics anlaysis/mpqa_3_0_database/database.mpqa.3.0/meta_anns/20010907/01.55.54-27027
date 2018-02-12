@@ -1,0 +1,17 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20010906000325n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	OSCE To Double Number of Observers in FYROM
+5	0,0	string	meta_document_time	2001-09-06
+6	0,0	string	meta_create_time	2001-09-7T01:57:46
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Paris AFP (North European Service) 
+9	0,0	string	meta_reference	EUP20010906000325 Paris AFP (North European Service) in English 1506 GMT 06 Sep 01   Reference:   russia agrees to need for foreign observers in macedonia cep20010906000205 moscow interfax english 1159 gmt 6 sep 01
+10	0,0	string	meta_region	East Europe
+11	0,0	string	meta_subregion	Balkan States
+12	0,0	string	meta_country	FYROM
+13	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+14	0,0	string	meta_topic	PEACEKEEPING
+15	0,0	string	meta_topic	MILITARY

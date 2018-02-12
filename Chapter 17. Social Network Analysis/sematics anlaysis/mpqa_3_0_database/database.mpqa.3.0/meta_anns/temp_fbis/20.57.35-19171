@@ -1,0 +1,22 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20020215000006n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Le Monde Sums Up Bush Climate Change Plan, Environmentalists' 'Discontent'
+5	0,0	string	meta_document_time	2002-02-15
+6	0,0	string	meta_create_time	2002-02-15T20:57:34
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Paris Le Monde (Internet Version-WWW) 
+9	0,0	string	meta_reference	EUP20020215000006 Paris Le Monde (Internet Version-WWW) in French 15 Feb 02   Reference:   french daily summarizes president bush's greenhouse gas proposals eup20020215000004 paris la tribune (internet version-www) french 15 feb 02   uk guardian: bush energy policy 'big disappointment', urges uk, eu to lead way eup20020215000101 london the guardian (internet version-www) english 15 feb 02      [AFP and Reuters-based report: &quot;George W. Bush Presents Alternative Plan to Kyoto Protocol&quot;]
+10	0,0	string	meta_region	The Americas
+11	0,0	string	meta_region	West Europe
+12	0,0	string	meta_subregion	North America
+13	0,0	string	meta_subregion	West Europe
+14	0,0	string	meta_country	United States
+15	0,0	string	meta_country	France
+16	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+17	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+18	0,0	string	meta_topic	LEADER
+19	0,0	string	meta_topic	ENVIRONMENT
+20	0,0	string	meta_topic	URGENT

@@ -1,0 +1,22 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	sep20020320000034n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Indonesian daily discusses concerns about Australian space station
+5	0,0	string	meta_document_time	2002-03-20
+6	0,0	string	meta_create_time	2002-03-20T20:36:58
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Jakarta Kompas (Internet Version-WWW) in 
+9	0,0	string	meta_reference	SEP20020320000034 Jakarta Kompas (Internet Version-WWW) in Indonesian 20 Mar 02   [By Bambang Wahyu: &quot;Australia's Space Station is in Our Own Backyard.&quot;]
+10	0,0	string	meta_region	East Asia
+11	0,0	string	meta_region	Central Eurasia
+12	0,0	string	meta_subregion	Australasia
+13	0,0	string	meta_subregion	Southeast Asia
+14	0,0	string	meta_subregion	Russia
+15	0,0	string	meta_country	Australia
+16	0,0	string	meta_country	Indonesia
+17	0,0	string	meta_country	Russia
+18	0,0	string	meta_topic	DOMESTIC POLITICAL
+19	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+20	0,0	string	meta_topic	TECHNOLOGY

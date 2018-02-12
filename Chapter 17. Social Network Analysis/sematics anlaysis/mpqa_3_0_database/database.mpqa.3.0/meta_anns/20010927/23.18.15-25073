@@ -1,0 +1,32 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20010927000474n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Hungarian Editorial Views Putin Statement on Terrorism, Russia Joining Anti-Terrorist Coalition,
+5	0,0	string	meta_document_time	2001-09-27
+6	0,0	string	meta_create_time	2001-09-27T23:20:29
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Budapest Nepszabadsag in Hungarian 27 
+9	0,0	string	meta_reference	EUP20010927000474 Budapest Nepszabadsag in Hungarian 27 Sep 01 3   [Editorial by endre Aczel: &quot;The Russian Turnaround&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	East Europe
+12	0,0	string	meta_region	Central Eurasia
+13	0,0	string	meta_region	The Americas
+14	0,0	string	meta_subregion	South Asia
+15	0,0	string	meta_subregion	East Europe
+16	0,0	string	meta_subregion	Russia
+17	0,0	string	meta_subregion	Central Asia
+18	0,0	string	meta_subregion	North America
+19	0,0	string	meta_country	Afghanistan
+20	0,0	string	meta_country	Hungary
+21	0,0	string	meta_country	Russia
+22	0,0	string	meta_country	Tajikistan
+23	0,0	string	meta_country	Turkmenistan
+24	0,0	string	meta_country	United States
+25	0,0	string	meta_country	Uzbekistan
+26	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+27	0,0	string	meta_topic	LEADER
+28	0,0	string	meta_topic	MILITARY
+29	0,0	string	meta_topic	TERRORISM
+30	0,0	string	meta_topic	URGENT

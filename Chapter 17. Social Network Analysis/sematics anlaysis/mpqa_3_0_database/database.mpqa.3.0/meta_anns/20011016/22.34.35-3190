@@ -1,0 +1,22 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cep20011016000058n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Afghanistan: Northen Alliance Dostum says he has not received Russian supplies
+5	0,0	string	meta_document_time	2001-10-16
+6	0,0	string	meta_create_time	2001-10-16T22:37:06
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Moscow Interfax in English 0824 
+9	0,0	string	meta_reference	CEP20011016000058 Moscow Interfax in English 0824 GMT 16 Oct 01
+10	0,0	string	meta_region	Central Eurasia
+11	0,0	string	meta_region	Near East/South Asia
+12	0,0	string	meta_subregion	Russia
+13	0,0	string	meta_subregion	South Asia
+14	0,0	string	meta_subregion	Central Asia
+15	0,0	string	meta_country	Russia
+16	0,0	string	meta_country	Afghanistan
+17	0,0	string	meta_country	Uzbekistan
+18	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+19	0,0	string	meta_topic	MILITARY
+20	0,0	string	meta_topic	TERRORISM

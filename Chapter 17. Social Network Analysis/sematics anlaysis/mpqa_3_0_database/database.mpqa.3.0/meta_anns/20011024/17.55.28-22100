@@ -1,0 +1,26 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20011018000137n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Taiwan Government Says Believes US Will Not Compromise Taiwan for China's Support
+5	0,0	string	meta_document_time	2001-10-18
+6	0,0	string	meta_create_time	2001-10-24T17:58:11
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Taipei Central News Agency WWW-Text 
+9	0,0	string	meta_reference	CPP20011018000137 Taipei Central News Agency WWW-Text in English 1026 GMT 18 Oct 01   [By Sofia Wu]
+10	0,0	string	meta_region	China
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_region	Near East/South Asia
+13	0,0	string	meta_subregion	Taiwan
+14	0,0	string	meta_subregion	North America
+15	0,0	string	meta_subregion	China
+16	0,0	string	meta_subregion	South Asia
+17	0,0	string	meta_country	Taiwan
+18	0,0	string	meta_country	United States
+19	0,0	string	meta_country	China
+20	0,0	string	meta_country	Afghanistan
+21	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+22	0,0	string	meta_topic	URGENT
+23	0,0	string	meta_topic	TERRORISM
+24	0,0	string	meta_topic	MILITARY

@@ -1,0 +1,16 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cep20011017000379n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Major Kazakhstani oil company increases output
+5	0,0	string	meta_document_time	2001-10-17
+6	0,0	string	meta_create_time	2001-10-17T22:38:54
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Almaty Kazakhstan Today (Internet Version-WWW) 
+9	0,0	string	meta_reference	CEP20011017000379 Almaty Kazakhstan Today (Internet Version-WWW) in Russian 0403 GMT 17 Oct 01
+10	0,0	string	meta_region	Central Eurasia
+11	0,0	string	meta_subregion	Central Asia
+12	0,0	string	meta_country	Kazakhstan
+13	0,0	string	meta_topic	DOMESTIC ECONOMIC
+14	0,0	string	meta_topic	ENERGY

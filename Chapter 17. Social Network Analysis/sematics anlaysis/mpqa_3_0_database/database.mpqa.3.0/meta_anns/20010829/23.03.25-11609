@@ -1,0 +1,16 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	kpp20010829000042n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	ROK's Yonhap: LG Establishes CDMA Mobile Phone Service System in Uzbekistan
+5	0,0	string	meta_document_time	2001-08-29
+6	0,0	string	meta_create_time	2001-08-29T23:02:01
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Seoul Yonhap in English 0448 
+9	0,0	string	meta_reference	KPP20010829000042 Seoul Yonhap in English 0448 GMT 29 Aug 01
+10	0,0	string	meta_region	East Asia
+11	0,0	string	meta_subregion	Northeast Asia
+12	0,0	string	meta_country	South Korea
+13	0,0	string	meta_topic	LEADER
+14	0,0	string	meta_topic	TELECOM

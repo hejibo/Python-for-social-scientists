@@ -1,0 +1,24 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20010926000073n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	AFP: President Chen Shui-bian Reiterates Taiwan's Full Support for US Reprisals
+5	0,0	string	meta_document_time	2001-09-26
+6	0,0	string	meta_create_time	2001-09-26T23:14:56
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Hong Kong AFP in English 
+9	0,0	string	meta_reference	CPP20010926000073 Hong Kong AFP in English 0855 GMT 26 Sep 01   [As of filing time, Taiwan media sources monitored at Okinawa Bureau have not been observed to report the following]
+10	0,0	string	meta_region	China
+11	0,0	string	meta_region	Near East/South Asia
+12	0,0	string	meta_region	The Americas
+13	0,0	string	meta_subregion	Taiwan
+14	0,0	string	meta_subregion	South Asia
+15	0,0	string	meta_subregion	North America
+16	0,0	string	meta_country	Taiwan
+17	0,0	string	meta_country	Afghanistan
+18	0,0	string	meta_country	United States
+19	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+20	0,0	string	meta_topic	LEADER
+21	0,0	string	meta_topic	TERRORISM
+22	0,0	string	meta_topic	URGENT

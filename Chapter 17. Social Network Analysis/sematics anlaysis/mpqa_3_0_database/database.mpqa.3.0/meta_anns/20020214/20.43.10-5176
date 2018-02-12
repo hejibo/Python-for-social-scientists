@@ -1,0 +1,28 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	kpp20020214000024n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	ROKG Reportedly To Resume Talks With DPRK To 'Deliver' US Concerns Over WMD
+5	0,0	string	meta_document_time	2002-02-14
+6	0,0	string	meta_create_time	2002-02-14T20:43:09
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Seoul Yonhap in English 0251 
+9	0,0	string	meta_reference	KPP20020214000024 Seoul Yonhap in English 0251 GMT 14 Feb 02   Reference:   rokg reportedly to inform us of resumption of inter-korean dialogue in march 2002 kpp20020214000004 seoul yonhap english 0037 gmt 14 feb 02      [Corrected version: upgrading precedence, adding &quot;urgent&quot; tag, rewording headline, adding cross ref; as of filing time, DPRK media has not been observed to report on resumption of ROK-DPRK dialogue]
+10	0,0	string	meta_region	East Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_region	China
+13	0,0	string	meta_subregion	Northeast Asia
+14	0,0	string	meta_subregion	North America
+15	0,0	string	meta_subregion	China
+16	0,0	string	meta_country	North Korea
+17	0,0	string	meta_country	United States
+18	0,0	string	meta_country	China
+19	0,0	string	meta_country	Japan
+20	0,0	string	meta_country	South Korea
+21	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+22	0,0	string	meta_topic	LEADER
+23	0,0	string	meta_topic	PROLIFERATION
+24	0,0	string	meta_topic	TERRORISM.911USA
+25	0,0	string	meta_topic	URGENT
+26	0,0	string	meta_topic	MILITARY

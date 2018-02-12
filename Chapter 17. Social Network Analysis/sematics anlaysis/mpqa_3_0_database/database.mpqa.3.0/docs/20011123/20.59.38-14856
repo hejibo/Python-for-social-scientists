@@ -1,0 +1,37 @@
+	
+Researchers from the Weizmann Institute in Rehovot and the Technion in Haifa have developed a computer so tiny that a trillion of them could fit into a laboratory test tube. The "computers" are biological molecules, using DNA for software and enzymes for hardware, and can solve a billion mathematical problems a second. 
+	
+	
+ Such tiny devices could one day fit into cells and supervise biological processes, or even synthesize drugs. DNA strands exist in almost every body cell -- they are biological software that tell each cell and molecule what to do. 
+	
+	
+ "If you look at the mechanism of a cell, a lot of what goes on inside is computation. We don't need to teach the cell new tricks, we just need to put the existing tricks in the right order," says Prof. Ehud Shapiro of the Weizmann Institute, who headed the research. 
+	
+	
+ Some scientists believe DNA-based computers could have an advantage over existing computers based on silicon chips. Artificial chips have reached their limits and can't get any smaller. But, say the scientists, tiny DNA strands can store huge amounts of information in minuscule space -- one cubic centimeter of DNA can store more information than a trillion CDs. 
+	
+	
+ Prof. Shapiro says the molecular computer is the first of its kind. Although computers with DNA input and output have been made before, they have always involved a laborious series of reactions, each requiring human supervision. "Previous biological computers were the same size as the room in which the supervisors and computer equipment worked," said Shapiro. "With the new method, all you need do to get an answer is put all the ingredients into a test tube, mix them together, and check to see what the output is." 
+	
+	
+ For now biological computers only know how to answer simple questions with a "yes" or "no" response. A typical question would be: In the sequence "AAB" is there an equal number of As and Bs? 
+	
+	
+ Nevertheless, several researchers worldwide have hailed the computers as an important new development. "They work better than anything I've seen so far," said Eric Baum, a computer scientist at the NEC Research Institute in Princeton, New Jersey. Although he questions whether biomolecular computers will ever become really useful, he believes they are a "step in the right direction." 
+	
+	
+ Professor Shapiro and a growing number of other scientists believe DNA-based computers may lead to a number of useful applications -- they could be planted inside cells, where they would watch for irregularities or even synthesize drugs. 
+	
+	
+ The computer simulates the cell's natural mechanisms with an accuracy level of 99.8 percent. Natural DNA processes also involve inaccuracies which are corrected by other genes, says Shapiro, and it is almost impossible to reach absolute accuracy using biological systems. However, for the uses for which the computers are designated, this level of accuracy is adequate. 
+	
+	
+ So how does such a computer work? Let's say the computer wants to know whether the number of times a "B" DNA type appears in a DNA section is odd or even. The DNA section -- the "input" -- is inserted into a chemical solution along with enzymes to be used as the computer's "hardware". Other DNA sections are added, which act as "software". 
+	
+	
+ A software section sticks to the input with the help of an enzyme. If the tip of the input is "B", the input will be labeled as having an odd number of "B" sequences. Another enzyme then cuts the section and reveals the next sequence. Each time "B" appears, the label on the input changes from "even" to "odd" and back again. Once the computer has dissected the entire input, it can determine whether the sequence appeared an even or odd number of times according to the last label -- the "output". 
+	
+	
+ The computer can also do other calculations, such as checking whether the "B" sequence appears at least once, or at most once, by inserting different types of software DNAs.	
+
+

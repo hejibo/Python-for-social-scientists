@@ -1,0 +1,20 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	gmp20020319000111n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Al-Quds: Success of Zinni Mission Hinges on Israel's Compliance With PA Demands
+5	0,0	string	meta_document_time	2002-03-19
+6	0,0	string	meta_create_time	2002-03-20T11:49:45
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Jerusalem Al-Quds (Internet Version-WWW) in 
+9	0,0	string	meta_reference	GMP20020319000111 Jerusalem Al-Quds (Internet Version-WWW) in Arabic 19 Mar 02   [Editorial: &quot;Zinni Mission's Success in Israel's Hands&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	Near East
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_country	West Bank &amp; Gaza Strip
+15	0,0	string	meta_country	Israel
+16	0,0	string	meta_country	United States
+17	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+18	0,0	string	meta_topic	LEADER

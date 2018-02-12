@@ -1,0 +1,16 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	sap20020506000067n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	India: Seven militants, soldier among 11 killed in Kashmir
+5	0,0	string	meta_document_time	2002-05-06
+6	0,0	string	meta_create_time	2002-05-7T17:57:24
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Srinagar Greater Kashmir WWW-Text in 
+9	0,0	string	meta_reference	SAP20020506000067 Srinagar Greater Kashmir WWW-Text in English 06 May 02   [Unattributed report: &quot;11 killed in JK; Varmul toll 6&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_subregion	South Asia
+12	0,0	string	meta_country	India
+13	0,0	string	meta_topic	MILITARY
+14	0,0	string	meta_topic	TERRORISM

@@ -1,0 +1,19 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20020224000089n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Zimbabwe: Head of Commonwealth observer mission arrives for presidential poll
+5	0,0	string	meta_document_time	2002-02-24
+6	0,0	string	meta_create_time	2002-02-24T20:58:05
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Harare Zimbabwe Broadcasting Corporation WWW-Text 
+9	0,0	string	meta_reference	AFP20020224000089 Harare Zimbabwe Broadcasting Corporation WWW-Text in English 24 Feb 02
+10	0,0	string	meta_region	Sub-Saharan Africa
+11	0,0	string	meta_subregion	Southern Africa
+12	0,0	string	meta_subregion	West Africa
+13	0,0	string	meta_country	Zimbabwe
+14	0,0	string	meta_country	Nigeria
+15	0,0	string	meta_topic	DOMESTIC POLITICAL
+16	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+17	0,0	string	meta_topic	LEADER

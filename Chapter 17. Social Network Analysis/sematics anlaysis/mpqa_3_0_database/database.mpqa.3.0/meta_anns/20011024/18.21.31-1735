@@ -1,0 +1,20 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	lap20011017000050n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Aznar Expresses Spain's 'Absolute Confidence' in Argentine Economy
+5	0,0	string	meta_document_time	2001-10-17
+6	0,0	string	meta_create_time	2001-10-24T18:24:15
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Buenos Aires Telam in Spanish 
+9	0,0	string	meta_reference	LAP20011017000050 Buenos Aires Telam in Spanish 1432 GMT 17 Oct 01
+10	0,0	string	meta_region	The Americas
+11	0,0	string	meta_region	West Europe
+12	0,0	string	meta_subregion	South America
+13	0,0	string	meta_subregion	West Europe
+14	0,0	string	meta_country	Argentina
+15	0,0	string	meta_country	Spain
+16	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+17	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+18	0,0	string	meta_topic	LEADER

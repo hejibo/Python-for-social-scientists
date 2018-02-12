@@ -1,0 +1,20 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	sap20020403000093n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	India: Kashmir Chief Minister describes Pakistan as 'mother' of terrorism'
+5	0,0	string	meta_document_time	2002-04-03
+6	0,0	string	meta_create_time	2002-04-3T21:01:06
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Jammu Daily Excelsior (Internet Version-WWW) 
+9	0,0	string	meta_reference	SAP20020403000093 Jammu Daily Excelsior (Internet Version-WWW) in English 03 Apr 02   Reference:   kashmir chief minister warns pakistan not to compel india to take harsher action sap20020402000120 new delhi doordarshan dd-1 national television english 1430 gmt 02 apr 02      [Report by Excelsior Correspondent: &quot;Pak generals thrive on fanning terrorism, says Farooq&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_subregion	South Asia
+12	0,0	string	meta_country	India
+13	0,0	string	meta_country	Pakistan
+14	0,0	string	meta_topic	DOMESTIC ECONOMIC
+15	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+16	0,0	string	meta_topic	LEADER
+17	0,0	string	meta_topic	MILITARY
+18	0,0	string	meta_topic	TERRORISM

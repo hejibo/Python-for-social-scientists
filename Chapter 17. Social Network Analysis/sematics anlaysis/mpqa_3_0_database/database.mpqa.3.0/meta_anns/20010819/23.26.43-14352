@@ -1,0 +1,22 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20010819000083n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	RSA: Defense chief departs for China, visit to strengthen 'military relations'
+5	0,0	string	meta_document_time	2001-08-19
+6	0,0	string	meta_create_time	2001-08-19T22:58:05
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Johannesburg SAPA (Internet Version-WWW) in 
+9	0,0	string	meta_reference	AFP20010819000083 Johannesburg SAPA (Internet Version-WWW) in English 1441 GMT 19 Aug 01
+10	0,0	string	meta_region	China
+11	0,0	string	meta_region	Sub-Saharan Africa
+12	0,0	string	meta_subregion	China
+13	0,0	string	meta_subregion	Central Africa
+14	0,0	string	meta_subregion	Southern Africa
+15	0,0	string	meta_country	China
+16	0,0	string	meta_country	Congo-Kinshasa
+17	0,0	string	meta_country	South Africa
+18	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+19	0,0	string	meta_topic	LEADER
+20	0,0	string	meta_topic	MILITARY

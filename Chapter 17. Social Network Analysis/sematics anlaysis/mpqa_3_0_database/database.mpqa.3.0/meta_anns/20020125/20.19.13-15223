@@ -1,0 +1,26 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	sep20020125000005n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Mahathir says UMNO urging protest against US treatment of Taliban PoWs
+5	0,0	string	meta_document_time	2002-01-24
+6	0,0	string	meta_create_time	2002-01-25T20:19:12
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Kuala Lumpur Bernama WWW-Text in 
+9	0,0	string	meta_reference	SEP20020125000005 Kuala Lumpur Bernama WWW-Text in English 24 Jan 02
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_region	East Asia
+13	0,0	string	meta_subregion	South Asia
+14	0,0	string	meta_subregion	Caribbean
+15	0,0	string	meta_subregion	Southeast Asia
+16	0,0	string	meta_subregion	North America
+17	0,0	string	meta_country	Afghanistan
+18	0,0	string	meta_country	Cuba
+19	0,0	string	meta_country	Malaysia
+20	0,0	string	meta_country	United States
+21	0,0	string	meta_topic	HUMAN RIGHTS
+22	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+23	0,0	string	meta_topic	LEADER
+24	0,0	string	meta_topic	TERRORISM

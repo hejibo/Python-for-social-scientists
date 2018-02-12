@@ -1,0 +1,39 @@
+# MPQA Annotation file
+# Created from gate_anns/non_fbis/11.05.55-12013/gateman.mpqa.3.0.xml
+# on Sun Dec 13 16:56:24 EST 2015
+# by Lingjia Deng
+1	0,0	agent	id="implicit" 
+2	0,0	agent	id="w" 
+3	697,699	split	
+4	665,666	split	
+5	490,491	split	
+6	407,491	sentence	nested-source="w" 
+7	491,495	split	
+8	80,275	sentence	nested-source="w" 
+9	666,670	split	
+10	294,300	eTarget	id="e9002" type="entity" isNegated="no" 
+11	275,279	split	
+12	284,284	targetFrame	id="tfa10" sTarget-link="t10" newETarget-link="none" 
+13	76,80	split	
+14	274,275	split	
+15	495,666	sentence	nested-source="w" 
+16	405,406	split	
+17	279,406	sentence	nested-source="w" 
+18	31,31	objective-speech-event	implicit="true" id="ose1" targetFrame-link="tfose1" nested-source="w" 
+19	407,407	targetFrame	id="tfose2" sTarget-link="none" newETarget-link="none" 
+20	495,495	targetFrame	id="tfose4" sTarget-link="none" newETarget-link="none" 
+21	21,24	split	
+22	31,31	targetFrame	id="tfose1" sTarget-link="none" newETarget-link="none" 
+23	284,289	attitude	id="a10" intensity="low-medium" attitude-type="sentiment-pos" targetFrame-link="tfa10" 
+24	284,289	direct-subjective	expression-intensity="medium" intensity="medium" id="ds1" attitude-link="a10" polarity="positive" nested-source="w,nasa" 
+25	290,405	sTarget	id="t10" eTarget-link="e9003,e9002" 
+26	24,30	split	
+27	31,76	sentence	nested-source="w" 
+28	279,283	agent	id="nasa" nested-source="w,nasa" 
+29	80,80	targetFrame	id="tfose5" sTarget-link="none" newETarget-link="none" 
+30	80,80	objective-speech-event	implicit="true" id="ose5" targetFrame-link="tfose5" nested-source="w" 
+31	495,495	objective-speech-event	implicit="true" id="ose4" targetFrame-link="tfose4" nested-source="w" 
+32	279,279	targetFrame	id="tfose3" sTarget-link="none" newETarget-link="none" 
+33	279,279	objective-speech-event	implicit="true" id="ose3" targetFrame-link="tfose3" nested-source="w" 
+34	306,312	eTarget	id="e9003" type="event" isNegated="no" 
+35	407,407	objective-speech-event	implicit="true" id="ose2" targetFrame-link="tfose2" nested-source="w" 

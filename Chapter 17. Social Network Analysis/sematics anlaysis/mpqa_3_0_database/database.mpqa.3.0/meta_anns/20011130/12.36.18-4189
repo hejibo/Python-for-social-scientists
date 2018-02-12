@@ -1,0 +1,19 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20011116000142n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Renmin Ribao Views Global Climate Change Protocols
+5	0,0	string	meta_document_time	2001-11-15
+6	0,0	string	meta_create_time	2001-11-30T12:39:42
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Beijing Renmin Ribao (Internet Version-WWW) 
+9	0,0	string	meta_reference	CPP20011116000142 Beijing Renmin Ribao (Internet Version-WWW) in Chinese 15 Nov 01   [Article by Xinhua correspondent Wei Zhongjie: &quot;A Long and Difficult Task to Deal with Global Climate Change.&quot;]
+10	0,0	string	meta_region	China
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	China
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_country	China
+15	0,0	string	meta_country	United States
+16	0,0	string	meta_topic	ENVIRONMENT
+17	0,0	string	meta_topic	INTERNATIONAL POLITICAL

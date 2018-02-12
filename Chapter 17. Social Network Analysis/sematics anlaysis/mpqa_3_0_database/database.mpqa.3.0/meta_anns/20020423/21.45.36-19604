@@ -1,0 +1,18 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	gmp20020423000157n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Three-Day Workshop on Money Laundering Begins in Amman 22 Apr
+5	0,0	string	meta_document_time	2002-04-23
+6	0,0	string	meta_create_time	2002-04-23T21:46:59
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Amman Jordan Times (Internet Version-WWW) 
+9	0,0	string	meta_reference	GMP20020423000157 Amman Jordan Times (Internet Version-WWW) in English 23 Apr 02   [Report by Tariq Ayyub: &quot;Workshop Takes Aim at Money Laundering&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_subregion	Arab Africa
+12	0,0	string	meta_subregion	Near East
+13	0,0	string	meta_country	Egypt
+14	0,0	string	meta_country	Jordan
+15	0,0	string	meta_country	Lebanon
+16	0,0	string	meta_topic	INTERNATIONAL ECONOMIC

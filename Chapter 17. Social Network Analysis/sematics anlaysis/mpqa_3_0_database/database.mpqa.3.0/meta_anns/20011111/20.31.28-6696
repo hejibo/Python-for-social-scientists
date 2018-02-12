@@ -1,0 +1,23 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	iap20011111000018n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Iran: Khatami, Venezuelan president discuss oil prices, Afghanistan
+5	0,0	string	meta_document_time	2001-11-11
+6	0,0	string	meta_create_time	2001-11-11T20:33:38
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Tehran IRNA in English 1023 
+9	0,0	string	meta_reference	IAP20011111000018 Tehran IRNA in English 1023 GMT 11 Nov 01
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	South Asia
+13	0,0	string	meta_subregion	South America
+14	0,0	string	meta_country	Iran
+15	0,0	string	meta_country	Venezuela
+16	0,0	string	meta_country	Afghanistan
+17	0,0	string	meta_topic	ENERGY
+18	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+19	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+20	0,0	string	meta_topic	LEADER
+21	0,0	string	meta_topic	TERRORISM.911USA

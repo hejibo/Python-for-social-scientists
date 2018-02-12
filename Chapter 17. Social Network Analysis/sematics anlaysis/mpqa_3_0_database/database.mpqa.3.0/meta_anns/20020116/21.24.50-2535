@@ -1,0 +1,19 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cep20020116000156n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Tajikistan: Iranian Bank Tijorat to Open Branch in Soghd Region
+5	0,0	string	meta_document_time	2002-01-16
+6	0,0	string	meta_create_time	2002-01-16T21:29:06
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Dushanbe Asia-Plus in Russian 0810 
+9	0,0	string	meta_reference	CEP20020116000156 Dushanbe Asia-Plus in Russian 0810 GMT 16 Jan 02
+10	0,0	string	meta_region	Central Eurasia
+11	0,0	string	meta_region	Near East/South Asia
+12	0,0	string	meta_subregion	Central Asia
+13	0,0	string	meta_subregion	South Asia
+14	0,0	string	meta_country	Tajikistan
+15	0,0	string	meta_country	Iran
+16	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+17	0,0	string	meta_topic	INTERNATIONAL ECONOMIC

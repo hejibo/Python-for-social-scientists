@@ -1,0 +1,23 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	kpp20020311000052n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	DPRK Column Views Tensions in Middle East, US Support of Israel
+5	0,0	string	meta_document_time	2002-03-04
+6	0,0	string	meta_create_time	2002-03-16T20:26:07
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	P'yongyang Nodong Sinmun in Korean 
+9	0,0	string	meta_reference	KPP20020311000052 P'yongyang Nodong Sinmun in Korean 04 Mar 02 p6   [&quot;Today's World&quot; column by unidentified reporter: &quot;Tensions Mounting in the Middle East Situation&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	East Asia
+12	0,0	string	meta_region	The Americas
+13	0,0	string	meta_subregion	Near East
+14	0,0	string	meta_subregion	Northeast Asia
+15	0,0	string	meta_subregion	North America
+16	0,0	string	meta_country	Israel
+17	0,0	string	meta_country	North Korea
+18	0,0	string	meta_country	United States
+19	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+20	0,0	string	meta_topic	LEADER
+21	0,0	string	meta_topic	MILITARY

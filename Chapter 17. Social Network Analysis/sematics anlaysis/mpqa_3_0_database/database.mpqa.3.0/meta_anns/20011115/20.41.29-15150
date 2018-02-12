@@ -1,0 +1,28 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	kpp20011115000063n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	ROK Pressured To Join International Efforts Against Global Warming
+5	0,0	string	meta_document_time	2001-11-15
+6	0,0	string	meta_create_time	2001-11-15T20:44:38
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Seoul Korea Times (Internet Version-WWW) 
+9	0,0	string	meta_reference	KPP20011115000063 Seoul Korea Times (Internet Version-WWW) in English 0854 GMT 15 Nov 01
+10	0,0	string	meta_region	West Europe
+11	0,0	string	meta_region	East Asia
+12	0,0	string	meta_region	Near East/South Asia
+13	0,0	string	meta_region	The Americas
+14	0,0	string	meta_subregion	West Europe
+15	0,0	string	meta_subregion	Northeast Asia
+16	0,0	string	meta_subregion	Arab Africa
+17	0,0	string	meta_subregion	North America
+18	0,0	string	meta_country	France
+19	0,0	string	meta_country	Japan
+20	0,0	string	meta_country	Morocco
+21	0,0	string	meta_country	South Korea
+22	0,0	string	meta_country	United States
+23	0,0	string	meta_topic	ENERGY
+24	0,0	string	meta_topic	ENVIRONMENT
+25	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+26	0,0	string	meta_topic	INTERNATIONAL POLITICAL

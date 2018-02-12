@@ -1,0 +1,18 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cep20020411000265n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Russian FSB Source Confident of Chechen Commander Khattab's Death
+5	0,0	string	meta_document_time	2002-04-11
+6	0,0	string	meta_create_time	2002-04-11T22:38:18
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Moscow Interfax in English 1600 
+9	0,0	string	meta_reference	CEP20020411000265 Moscow Interfax in English 1600 GMT 11 Apr 02   Reference:   russia: rebel commander khattab reportedly killed in chechnya cep20020411000238 moscow ntv mir russian 1500 gmt 11 apr 02
+10	0,0	string	meta_region	Central Eurasia
+11	0,0	string	meta_subregion	Russia
+12	0,0	string	meta_country	Russia
+13	0,0	string	meta_topic	DOMESTIC POLITICAL
+14	0,0	string	meta_topic	TERRORISM
+15	0,0	string	meta_topic	MILITARY
+16	0,0	string	meta_topic	URGENT

@@ -1,0 +1,21 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cep20020124000418n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Putin Seen Affirming Space as National Priority During Khrunichev Center Visit
+5	0,0	string	meta_document_time	2002-01-22
+6	0,0	string	meta_create_time	2002-01-28T20:50:05
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Moscow Vremya Novostey in Russian 
+9	0,0	string	meta_reference	CEP20020124000418 Moscow Vremya Novostey in Russian 22 Jan 02   [Report by Yuriy Golotyuk: &quot;Into Orbit From our Native Land&quot; -- taken from HTML version of source provided by ISP]
+10	0,0	string	meta_region	Central Eurasia
+11	0,0	string	meta_subregion	Central Asia
+12	0,0	string	meta_subregion	Russia
+13	0,0	string	meta_country	Kazakhstan
+14	0,0	string	meta_country	Russia
+15	0,0	string	meta_country	Turkmenistan
+16	0,0	string	meta_topic	DOMESTIC ECONOMIC
+17	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+18	0,0	string	meta_topic	LEADER
+19	0,0	string	meta_topic	TECHNOLOGY

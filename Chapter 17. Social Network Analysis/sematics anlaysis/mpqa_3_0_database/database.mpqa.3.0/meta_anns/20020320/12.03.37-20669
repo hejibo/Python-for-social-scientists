@@ -1,0 +1,25 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20020319000283n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	AFP: Zimbabwe suspended from Commonwealth
+5	0,0	string	meta_document_time	2002-03-19
+6	0,0	string	meta_create_time	2002-03-20T12:03:35
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Paris AFP (Domestic Service) in 
+9	0,0	string	meta_reference	AFP20020319000283 Paris AFP (Domestic Service) in French 19 Mar 02
+10	0,0	string	meta_region	East Asia
+11	0,0	string	meta_region	Sub-Saharan Africa
+12	0,0	string	meta_region	West Europe
+13	0,0	string	meta_subregion	Australasia
+14	0,0	string	meta_subregion	West Africa
+15	0,0	string	meta_subregion	Southern Africa
+16	0,0	string	meta_subregion	West Europe
+17	0,0	string	meta_country	Australia
+18	0,0	string	meta_country	Nigeria
+19	0,0	string	meta_country	South Africa
+20	0,0	string	meta_country	United Kingdom
+21	0,0	string	meta_country	Zimbabwe
+22	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+23	0,0	string	meta_topic	URGENT

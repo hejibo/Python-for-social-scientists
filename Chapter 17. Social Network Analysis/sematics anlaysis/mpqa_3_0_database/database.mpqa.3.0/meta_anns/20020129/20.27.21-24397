@@ -1,0 +1,16 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	lap20020128000028n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Editorial Alerts Brazil to Venezuelan Situation
+5	0,0	string	meta_document_time	2002-01-02
+6	0,0	string	meta_create_time	2002-01-29T20:27:21
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Rio de Janeiro Jornal do 
+9	0,0	string	meta_reference	LAP20020128000028 Rio de Janeiro Jornal do Brasil (Internet Version-WWW) in Portuguese 02 Jan 02   [Editorial: &quot;Red Light&quot;]
+10	0,0	string	meta_region	The Americas
+11	0,0	string	meta_subregion	South America
+12	0,0	string	meta_country	Brazil
+13	0,0	string	meta_country	Venezuela
+14	0,0	string	meta_topic	INTERNATIONAL POLITICAL

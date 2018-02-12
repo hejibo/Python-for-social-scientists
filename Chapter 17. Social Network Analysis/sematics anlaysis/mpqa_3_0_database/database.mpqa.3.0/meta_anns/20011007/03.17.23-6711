@@ -1,0 +1,22 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20010907000055n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	JFJB Article Says Japan Working To Become Aerospace Superpower
+5	0,0	string	meta_document_time	2001-09-07
+6	0,0	string	meta_create_time	2001-10-6T21:54:03
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Beijing Jiefangjun Bao (Internet Version-WWW) 
+9	0,0	string	meta_reference	CPP20010907000055 Beijing Jiefangjun Bao (Internet Version-WWW) in Chinese 07 Sep 01 p 4   [Article by Le Shaoyan: &quot;Japan Wants To Be a Major Aerospace Player.&quot;]
+10	0,0	string	meta_region	China
+11	0,0	string	meta_region	East Asia
+12	0,0	string	meta_subregion	China
+13	0,0	string	meta_subregion	Northeast Asia
+14	0,0	string	meta_country	China
+15	0,0	string	meta_country	Japan
+16	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+17	0,0	string	meta_topic	TECHNOLOGY
+18	0,0	string	meta_topic	ENERGY
+19	0,0	string	meta_topic	MILITARY
+20	0,0	string	meta_topic	TELECOM

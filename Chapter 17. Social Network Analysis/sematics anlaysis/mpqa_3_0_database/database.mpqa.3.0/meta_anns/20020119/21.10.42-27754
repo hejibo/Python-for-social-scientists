@@ -1,0 +1,22 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	iap20020119000018n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Iran: Argentina seen as victim of IMF policies, foreign investment
+5	0,0	string	meta_document_time	2001-12-27
+6	0,0	string	meta_create_time	2002-01-19T21:15:03
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Tehran Resalat in Persian 27 
+9	0,0	string	meta_reference	IAP20020119000018 Tehran Resalat in Persian 27 Dec 01 p 4   [Unattributed commentary: &quot;Argentina, the victim of IMF and foreign investment&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	South Asia
+13	0,0	string	meta_subregion	South America
+14	0,0	string	meta_subregion	North America
+15	0,0	string	meta_country	Iran
+16	0,0	string	meta_country	Argentina
+17	0,0	string	meta_country	United States
+18	0,0	string	meta_topic	DOMESTIC POLITICAL
+19	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+20	0,0	string	meta_topic	INTERNATIONAL POLITICAL

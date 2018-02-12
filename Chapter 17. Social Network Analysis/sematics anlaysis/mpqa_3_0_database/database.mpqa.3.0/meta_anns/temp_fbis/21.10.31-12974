@@ -1,0 +1,17 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cep20020313000393n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Experts Debate Russia's Place in Global Climate Strategy
+5	0,0	string	meta_document_time	2002-03-13
+6	0,0	string	meta_create_time	2002-03-21T21:10:30
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Moscow Vremya MN in Russian 
+9	0,0	string	meta_reference	CEP20020313000393 Moscow Vremya MN in Russian 13 Mar 02   [Article by Yelena Subbotina: &quot;The Protocols of the Kyoto Elders&quot; -- taken from HTML version of source provided by ISP]
+10	0,0	string	meta_region	Central Eurasia
+11	0,0	string	meta_subregion	Russia
+12	0,0	string	meta_country	Russia
+13	0,0	string	meta_topic	ENVIRONMENT
+14	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+15	0,0	string	meta_topic	INTERNATIONAL POLITICAL

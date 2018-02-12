@@ -1,0 +1,23 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	gmp20020306000240n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Jordan To Sign Kyoto Protocol 'Soon'
+5	0,0	string	meta_document_time	2002-03-06
+6	0,0	string	meta_create_time	2002-03-6T20:49:17
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Amman Jordan Times (Internet Version-WWW) 
+9	0,0	string	meta_reference	GMP20020306000240 Amman Jordan Times (Internet Version-WWW) in English 06 Mar 02   [By Ruba Saqr: &quot;Jordan To Sign Kyoto Protocol&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	East Asia
+12	0,0	string	meta_region	The Americas
+13	0,0	string	meta_subregion	Near East
+14	0,0	string	meta_subregion	Northeast Asia
+15	0,0	string	meta_subregion	North America
+16	0,0	string	meta_country	Jordan
+17	0,0	string	meta_country	Japan
+18	0,0	string	meta_country	United States
+19	0,0	string	meta_country	Canada
+20	0,0	string	meta_topic	ENVIRONMENT
+21	0,0	string	meta_topic	INTERNATIONAL POLITICAL

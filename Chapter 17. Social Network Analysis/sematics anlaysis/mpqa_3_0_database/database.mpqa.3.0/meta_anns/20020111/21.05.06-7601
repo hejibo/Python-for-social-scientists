@@ -1,0 +1,17 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20020110000023n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Belgian Industry Hopes To Apply Kyoto Protocol 'Benchmark Covenants'
+5	0,0	string	meta_document_time	2002-01-10
+6	0,0	string	meta_create_time	2002-01-11T21:09:17
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Groot Bijgaarden De Standaard (Internet 
+9	0,0	string	meta_reference	EUP20020110000023 Groot Bijgaarden De Standaard (Internet Version-WWW) in Dutch 10 Jan 02   [Article by Johan Eykmans, Guido Pepermans, and Kris Voorspoels: &quot;Belgian Industry Not Keen on Kyoto Standard&quot;]
+10	0,0	string	meta_region	West Europe
+11	0,0	string	meta_subregion	Benelux Countries
+12	0,0	string	meta_country	Belgium
+13	0,0	string	meta_topic	DOMESTIC ECONOMIC
+14	0,0	string	meta_topic	ENERGY
+15	0,0	string	meta_topic	ENVIRONMENT

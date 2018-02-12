@@ -1,0 +1,23 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20020126000089n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Xinhua Cites Washington Times' Claim Powel Urged Detainees Be Listed as POWs
+5	0,0	string	meta_document_time	2002-01-26
+6	0,0	string	meta_create_time	2002-01-27T20:33:05
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Beijing Xinhua in English 2004 
+9	0,0	string	meta_reference	CPP20020126000089 Beijing Xinhua in English 2004 GMT 26 Jan 02
+10	0,0	string	meta_region	China
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_region	Near East/South Asia
+13	0,0	string	meta_subregion	China
+14	0,0	string	meta_subregion	North America
+15	0,0	string	meta_subregion	South Asia
+16	0,0	string	meta_country	China
+17	0,0	string	meta_country	United States
+18	0,0	string	meta_country	Afghanistan
+19	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+20	0,0	string	meta_topic	LEADER
+21	0,0	string	meta_topic	MILITARY

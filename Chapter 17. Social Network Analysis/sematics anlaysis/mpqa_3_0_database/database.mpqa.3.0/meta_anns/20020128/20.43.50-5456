@@ -1,0 +1,25 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20020128000125n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Paris Daily Comment on International Response to Conditions of Detention, Trial of Terrorist Suspects Held at Guantanamo Camp
+5	0,0	string	meta_document_time	2002-01-26
+6	0,0	string	meta_create_time	2002-01-28T20:43:49
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Paris Le Monde (Internet Version-WWW) 
+9	0,0	string	meta_reference	EUP20020128000125 Paris Le Monde (Internet Version-WWW) in French 26 Jan 02   [News commentary by Jan Krauze: &quot;One Image Too Many in the 'Antiterrorist' War&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	West Europe
+12	0,0	string	meta_region	The Americas
+13	0,0	string	meta_subregion	South Asia
+14	0,0	string	meta_subregion	West Europe
+15	0,0	string	meta_subregion	North America
+16	0,0	string	meta_country	Afghanistan
+17	0,0	string	meta_country	France
+18	0,0	string	meta_country	United Kingdom
+19	0,0	string	meta_country	United States
+20	0,0	string	meta_topic	HUMAN RIGHTS
+21	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+22	0,0	string	meta_topic	MEDIA
+23	0,0	string	meta_topic	TERRORISM.911WEB

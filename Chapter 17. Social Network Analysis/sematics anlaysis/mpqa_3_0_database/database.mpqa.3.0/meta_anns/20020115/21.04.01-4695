@@ -1,0 +1,23 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	gmp20020115000178n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Turkey: Gen Dostum To Arrive in Ankara To Visit Family in 'Coming Days'
+5	0,0	string	meta_document_time	2002-01-15
+6	0,0	string	meta_create_time	2002-01-15T21:08:16
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Ankara Anatolia in English 1356 
+9	0,0	string	meta_reference	GMP20020115000178 Ankara Anatolia in English 1356 GMT 15 Jan 02
+10	0,0	string	meta_region	West Europe
+11	0,0	string	meta_region	Near East/South Asia
+12	0,0	string	meta_region	Central Eurasia
+13	0,0	string	meta_subregion	West Europe
+14	0,0	string	meta_subregion	South Asia
+15	0,0	string	meta_subregion	Central Asia
+16	0,0	string	meta_country	Turkey
+17	0,0	string	meta_country	Afghanistan
+18	0,0	string	meta_country	Uzbekistan
+19	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+20	0,0	string	meta_topic	LEADER
+21	0,0	string	meta_topic	MILITARY

@@ -1,0 +1,19 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cep20020305000166n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Daily: Russian Antiterror Action Not Seen As 'Mitigating' by US Human Rights Report
+5	0,0	string	meta_document_time	2002-03-05
+6	0,0	string	meta_create_time	2002-03-11T21:42:56
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Moscow Izvestiya in Russian 05 
+9	0,0	string	meta_reference	CEP20020305000166 Moscow Izvestiya in Russian 05 Mar 02   [Report by Georgiy Stepanov: &quot;We Have Been 'Blacklisted'&quot; -- taken from HTML version of source provided by ISP]
+10	0,0	string	meta_region	Central Eurasia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	Russia
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_country	Russia
+15	0,0	string	meta_country	United States
+16	0,0	string	meta_topic	HUMAN RIGHTS
+17	0,0	string	meta_topic	INTERNATIONAL POLITICAL

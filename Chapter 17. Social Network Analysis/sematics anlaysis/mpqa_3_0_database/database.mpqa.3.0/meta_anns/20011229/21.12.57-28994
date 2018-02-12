@@ -1,0 +1,22 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cep20011229000090n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Ukraine: Poll shows 43 percent disapprove of US campaign in Afghanistan
+5	0,0	string	meta_document_time	2001-12-29
+6	0,0	string	meta_create_time	2001-12-29T21:16:55
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Moscow Interfax in English 1639 
+9	0,0	string	meta_reference	CEP20011229000090 Moscow Interfax in English 1639 GMT 29 Dec 01
+10	0,0	string	meta_region	Central Eurasia
+11	0,0	string	meta_region	Near East/South Asia
+12	0,0	string	meta_region	The Americas
+13	0,0	string	meta_subregion	Ukraine
+14	0,0	string	meta_subregion	South Asia
+15	0,0	string	meta_subregion	North America
+16	0,0	string	meta_country	Ukraine
+17	0,0	string	meta_country	Afghanistan
+18	0,0	string	meta_country	United States
+19	0,0	string	meta_topic	DOMESTIC POLITICAL
+20	0,0	string	meta_topic	INTERNATIONAL POLITICAL

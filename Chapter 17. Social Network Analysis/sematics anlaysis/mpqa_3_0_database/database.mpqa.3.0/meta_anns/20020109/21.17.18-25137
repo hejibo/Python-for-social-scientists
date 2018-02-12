@@ -1,0 +1,17 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20020109000187n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Belgium: Second Chamber Initiates Debate on Euthanasia, Palliative Care
+5	0,0	string	meta_document_time	2002-01-09
+6	0,0	string	meta_create_time	2002-01-9T21:21:26
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Groot Bijgaarden De Standaard (Internet 
+9	0,0	string	meta_reference	EUP20020109000187 Groot Bijgaarden De Standaard (Internet Version-WWW) in Dutch 09 Jan 02   [Report by &quot;AW&quot;: &quot;Chamber Initiates Debate on Euthanasia&quot;]
+10	0,0	string	meta_region	West Europe
+11	0,0	string	meta_subregion	Benelux Countries
+12	0,0	string	meta_country	Belgium
+13	0,0	string	meta_topic	DOMESTIC POLITICAL
+14	0,0	string	meta_topic	HEALTH
+15	0,0	string	meta_topic	HUMAN RIGHTS

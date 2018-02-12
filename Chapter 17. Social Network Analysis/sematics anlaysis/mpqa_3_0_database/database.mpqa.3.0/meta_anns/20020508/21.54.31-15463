@@ -1,0 +1,16 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	sap20020508000093n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	India: Five 'top' Lashkar ultras among 6 killed in various incidents in Kashmir
+5	0,0	string	meta_document_time	2002-05-08
+6	0,0	string	meta_create_time	2002-05-8T21:56:03
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Srinagar Greater Kashmir WWW-Text in 
+9	0,0	string	meta_reference	SAP20020508000093 Srinagar Greater Kashmir WWW-Text in English 08 May 02   [Report by Greater Kashmir News Service: &quot;16 killed in JK&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_subregion	South Asia
+12	0,0	string	meta_country	India
+13	0,0	string	meta_topic	MILITARY
+14	0,0	string	meta_topic	TERRORISM

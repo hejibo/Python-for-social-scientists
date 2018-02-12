@@ -1,0 +1,16 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20020106000066n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Nigeria: NDDC provides free medicare to Bayelsa State communities
+5	0,0	string	meta_document_time	2002-01-05
+6	0,0	string	meta_create_time	2002-01-6T20:41:33
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Lagos The Guardian on Saturday 
+9	0,0	string	meta_reference	AFP20020106000066 Lagos The Guardian on Saturday (Internet Version-WWW) in English 05 Jan 02   [Article by DAVID OWEI AND CHUKWUEMEKA OGU: &quot;NDDC Gives Free Medicare To Bayelsa  Communities&quot;]
+10	0,0	string	meta_region	Sub-Saharan Africa
+11	0,0	string	meta_subregion	West Africa
+12	0,0	string	meta_country	Nigeria
+13	0,0	string	meta_topic	DOMESTIC POLITICAL
+14	0,0	string	meta_topic	HEALTH

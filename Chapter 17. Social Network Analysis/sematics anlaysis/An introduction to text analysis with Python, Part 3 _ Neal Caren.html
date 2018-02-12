@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<!-- saved from url=(0081)http://nealcaren.web.unc.edu/an-introduction-to-text-analysis-with-python-part-3/ -->
+<html lang="en-US" class="gr__nealcaren_web_unc_edu"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>An introduction to text analysis with Python, Part 3 | Neal Caren</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="stylesheet" type="text/css" media="all" href="./An introduction to text analysis with Python, Part 3 _ Neal Caren_files/style.css">
+<link rel="pingback" href="http://nealcaren.web.unc.edu/xmlrpc.php">
+<link rel="dns-prefetch" href="http://its2.unc.edu/">
+<link rel="dns-prefetch" href="http://s.w.org/">
+<link rel="alternate" type="application/rss+xml" title="Neal Caren » Feed" href="http://nealcaren.web.unc.edu/feed/">
+<link rel="alternate" type="application/rss+xml" title="Neal Caren » Comments Feed" href="http://nealcaren.web.unc.edu/comments/feed/">
+		<script async="" src="./An introduction to text analysis with Python, Part 3 _ Neal Caren_files/analytics.js.下载"></script><script type="text/javascript" async="" src="./An introduction to text analysis with Python, Part 3 _ Neal Caren_files/ga.js.下载"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/nealcaren.web.unc.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.9"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="./An introduction to text analysis with Python, Part 3 _ Neal Caren_files/wp-emoji-release.min.js.下载" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="codecolorer-css" href="./An introduction to text analysis with Python, Part 3 _ Neal Caren_files/codecolorer.css" type="text/css" media="screen">
+<script type="text/javascript" src="./An introduction to text analysis with Python, Part 3 _ Neal Caren_files/alertFeed.js.php"></script>
+<script type="text/javascript" src="./An introduction to text analysis with Python, Part 3 _ Neal Caren_files/jquery.js.下载"></script>
+<script type="text/javascript" src="./An introduction to text analysis with Python, Part 3 _ Neal Caren_files/jquery-migrate.min.js.下载"></script>
+<link rel="https://api.w.org/" href="http://nealcaren.web.unc.edu/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://nealcaren.web.unc.edu/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://nealcaren.web.unc.edu/wp-includes/wlwmanifest.xml"> 
+<link rel="prev" title="An introduction to text analysis with Python, Part 2" href="http://nealcaren.web.unc.edu/an-introduction-to-text-analysis-with-python-part-2/">
+<link rel="next" title="Scraping Comments from the New York Times" href="http://nealcaren.web.unc.edu/scraping-comments-from-the-new-york-times/">
+<meta name="generator" content="WordPress 4.7.9">
+<link rel="canonical" href="http://nealcaren.web.unc.edu/an-introduction-to-text-analysis-with-python-part-3/">
+<link rel="shortlink" href="http://nealcaren.web.unc.edu/?p=118">
+<link rel="alternate" type="application/json+oembed" href="http://nealcaren.web.unc.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fnealcaren.web.unc.edu%2Fan-introduction-to-text-analysis-with-python-part-3%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://nealcaren.web.unc.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fnealcaren.web.unc.edu%2Fan-introduction-to-text-analysis-with-python-part-3%2F&amp;format=xml">
+			<script type="text/javascript">
+				var _gaq = _gaq || [];
+
+				
+                					_gaq.push(['b._setAccount', 'UA-31816609-1']);
+                                        					_gaq.push(['b._trackPageview']);
+				
+				(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                				    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
+			</script>
+
+        
+            <script>
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','//www.google-analytics.com/analytics.js','gaplusu');
+
+                                                            gaplusu('create', 'UA-5142490-28', 'auto');
+                    
+                                        
+                    gaplusu('send', 'pageview');
+                
+                            </script>
+
+			<style>
+	#wp-admin-bar-asu_support_enabled {
+		background-color: #E00000!important;
+	}
+	</style>
+<!-- Begin Custom CSS -->
+<style type="text/css">
+</style><!-- End Custom CSS -->
+</head>
+
+<body class="post-template-default single single-post postid-118 single-format-standard custom-background" data-gr-c-s-loaded="true">
+<div id="wrapper" class="hfeed">
+	<div id="header">
+		<div id="masthead">
+			<div id="branding" role="banner">
+								<div id="site-title">
+					<span>
+						<a href="http://nealcaren.web.unc.edu/" title="Neal Caren" rel="home">Neal Caren</a>
+					</span>
+				</div>
+				<div id="site-description"></div>
+
+										<img src="./An introduction to text analysis with Python, Part 3 _ Neal Caren_files/cropped-OTPOR_Sign_NoviSad_2001.jpg" width="940" height="198" alt="">
+								</div><!-- #branding -->
+
+			<div id="access" role="navigation">
+			  				<div class="skip-link screen-reader-text"><a href="http://nealcaren.web.unc.edu/an-introduction-to-text-analysis-with-python-part-3/#content" title="Skip to content">Skip to content</a></div>
+								<div class="menu-header"><ul id="menu-menu" class="menu"><li id="menu-item-1544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1544"><a href="http://nealcaren.web.unc.edu/">Home</a></li>
+<li id="menu-item-1543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1543"><a href="http://nealcaren.web.unc.edu/research/">Research</a></li>
+<li id="menu-item-1542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1542"><a href="http://nealcaren.web.unc.edu/teaching/">Teaching</a></li>
+<li id="menu-item-1545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1545"><a href="http://nealcaren.web.unc.edu/big-data/">Big Data</a></li>
+<li id="menu-item-1547" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1547"><a href="http://nealcaren.web.unc.edu/links/">Links</a></li>
+</ul></div>			</div><!-- #access -->
+		</div><!-- #masthead -->
+	</div><!-- #header -->
+
+	<div id="main">
+
+		<div id="container">
+			<div id="content" role="main">
+
+			
+
+				<div id="nav-above" class="navigation">
+					<div class="nav-previous"><a href="http://nealcaren.web.unc.edu/an-introduction-to-text-analysis-with-python-part-2/" rel="prev"><span class="meta-nav">←</span> An introduction to text analysis with Python, Part 2</a></div>
+					<div class="nav-next"><a href="http://nealcaren.web.unc.edu/scraping-comments-from-the-new-york-times/" rel="next">Scraping Comments from the New York Times <span class="meta-nav">→</span></a></div>
+				</div><!-- #nav-above -->
+
+				<div id="post-118" class="post-118 post type-post status-publish format-standard hentry category-uncategorized tag-python tag-sentiment tag-tutorial">
+					<h1 class="entry-title">An introduction to text analysis with Python, Part 3</h1>
+
+					<div class="entry-meta">
+						<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://nealcaren.web.unc.edu/an-introduction-to-text-analysis-with-python-part-3/" title="10:22 pm" rel="bookmark"><span class="entry-date">April 10, 2012</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://nealcaren.web.unc.edu/author/ncaren/" title="View all posts by Neal Caren">Neal Caren</a></span>					</div><!-- .entry-meta -->
+
+					<div class="entry-content">
+						<p>Two <a href="http://nealcaren.web.unc.edu/sentiment-classification-in-python-from-a-dictionary/">earlier</a> <a href="http://nealcaren.web.unc.edu/an-introduction-to-text-analysis-with-python-part-2/">tutorials</a> looked at the basics of using Python to analyze text data. This post explains how to expand the code written earlier so that you can use it to explore the positive and negative sentiment of any set of texts. Specifically, we’ll look at looping over more than one tweet, incorporating a more complete dictionary, and exporting the results. [If you just want the final python script, you can just&nbsp;<a href="http://www.unc.edu/~ncaren/haphazard/sentiment.py">download it</a>.]<br>
+<span id="more-118"></span><br>
+Earlier, we used a pretty nealcaren list of words to measure positive sentiment. While the study in Science used the commercial <a href="http://www.liwc.net/">LIWC</a> dictionary, an alternate sentiment dictionary is produced by Theresa Wilson, Janyce Wiebe, and Paul Hoffmann at the University of Pittsburgh and is freely <a href="http://www.cs.pitt.edu/mpqa/">available</a>. In both cases, the sentiment dictionaries are used in a fairly&nbsp;straightforward&nbsp;way: the more positive words in the text, the higher the text scores on the positive sentiment scale. While this has some drawbacks, the method is quite popular: the LIWC database has over 1,000 cites in Google Scholar, and the Wilson et al. database has more than 600.</p>
+<h3>Downloading</h3>
+<p>Since the Wislon et al. list combines negative and positive polarity words in one list, and includes both words and word stems, I will clean it up a little bit. You can download the <a href="http://www.unc.edu/~ncaren/haphazard/positive.txt">positive list</a> and the <a href="http://www.unc.edu/~ncaren/haphazard/negative.txt">negative list</a> using your browser, but you don’t have to. Python can do that.</p>
+<p>First, you need to import one of the modules that Python uses to communicate with the Internet:</p>
+<div class="codecolorer-container python mac-classic" style="overflow:auto;white-space:nowrap;"><div class="python codecolorer"><span class="sy0">&gt;&gt;&gt;</span> <span class="kw1">import</span> <span class="kw3">urllib</span></div></div>
+<p>Like many commands, Python won’t return anything unless something went wrong. In this case, it should just respond with <code class="codecolorer python mac-classic"><span class="python"><span class="sy0">&gt;&gt;&gt;</span></span></code>, which means that the module was successfully brought into memory. Next, store the web address that you want to access in a string. You don’t have to do this, but it’s the type of thing that makes your code easier to read and allows you to scale up quickly when you want to download thousands of urls.</p>
+<div class="codecolorer-container python mac-classic" style="overflow:auto;white-space:nowrap;"><div class="python codecolorer"><span class="sy0">&gt;&gt;&gt;</span> url<span class="sy0">=</span><span class="st0">'http://www.unc.edu/~ncaren/haphazard/negative.txt'</span></div></div>
+<p>You can also create a string with the name you want the file to have on you hard drive:</p>
+<div class="codecolorer-container python mac-classic" style="overflow:auto;white-space:nowrap;"><div class="python codecolorer"><span class="sy0">&gt;&gt;&gt;</span> file_name<span class="sy0">=</span><span class="st0">'negative.txt'</span></div></div>
+<p>To download and save the file:</p>
+<div class="codecolorer-container python mac-classic" style="overflow:auto;white-space:nowrap;"><div class="python codecolorer"><span class="sy0">&gt;&gt;&gt;</span> <span class="kw3">urllib</span>.<span class="me1">urlretrieve</span><span class="br0">(</span>url<span class="sy0">,</span>file_name<span class="br0">)</span></div></div>
+<p>This will download the file into your current directory. If you want it to go somewhere else, you can put the full path in the <code class="codecolorer text mac-classic"><span class="text">file_name</span></code> string. You didn’t have to enter the url and the file name in the prior lines. Something like the following would have worked exactly the same:</p>
+<div class="codecolorer-container python mac-classic" style="overflow:auto;white-space:nowrap;"><div class="python codecolorer"><span class="sy0">&gt;&gt;&gt;</span> <span class="kw3">urllib</span>.<span class="me1">urlretrieve</span><span class="br0">(</span><span class="st0">'http://www.unc.edu/~ncaren/haphazard/negative.txt'</span><span class="sy0">,</span><span class="st0">'negative.txt'</span><span class="br0">)</span></div></div>
+<p>Note that the location and filename are both surrounded by quotation marks because you want Python to use this information literally; they aren’t referring to a string object, like in our previous code. This line of code is actually quite readable, and in most circumstances this would be the most efficient thing to do. But there are actually three files that we want to get: the negative list, the positive list, and the list of tweets. And we can download the three using a pretty simple loop:</p>
+<div class="codecolorer-container python mac-classic" style="overflow:auto;white-space:nowrap;"><div class="python codecolorer"><span class="sy0">&gt;&gt;&gt;</span> files<span class="sy0">=</span><span class="br0">[</span><span class="st0">'negative.txt'</span><span class="sy0">,</span><span class="st0">'positive.txt'</span><span class="sy0">,</span><span class="st0">'obama_tweets.txt'</span><span class="br0">]</span><br>
+<span class="sy0">&gt;&gt;&gt;</span> path<span class="sy0">=</span><span class="st0">'http://www.unc.edu/~ncaren/haphazard/'</span><br>
+<span class="sy0">&gt;&gt;&gt;</span> <span class="kw1">for</span> file_name <span class="kw1">in</span> files:<br>
+... &nbsp; &nbsp; <span class="kw3">urllib</span>.<span class="me1">urlretrieve</span><span class="br0">(</span>path+file_name<span class="sy0">,</span>file_name<span class="br0">)</span><br>
+...</div></div>
+<p>The first line creates a new list with three items, the names of the three files to be downloaded. The second line creates a string object that stores the url path that they all share. The third line starts a loop over each of the items in the <code class="codecolorer python mac-classic"><span class="python">files</span></code> list using <code class="codecolorer python mac-classic"><span class="python">file_name</span></code> to reference each item in turn. The fourth line is indented, because it happens once for each item in the list as a result of the loop, and downloads the file. This is the same as the original download line, except the URL is now the combination of two strings, <code class="codecolorer python mac-classic"><span class="python">path</span></code> and <code class="codecolorer python mac-classic"><span class="python">file_name</span></code>. As noted previously, Python can combine strings with a plus sign, so the result from the first pass through the loop will be <code class="codecolorer python mac-classic"><span class="python">http://www.<span class="me1">unc</span>.<span class="me1">edu</span>/<span class="sy0">~</span>ncaren/haphazard/negative.<span class="me1">txt</span></span></code>, which is where the file can be found. Note that this takes advantage of the fact that we don’t mind reusing the original file name. If we wanted to change it, or if there were different paths to each of the files, things would get slightly trickier.</p>
+<h3>More fun with lists</h3>
+<p>Let’s take a look at the list of Tweets that we just downloaded. First, open the file:</p>
+<div class="codecolorer-container python mac-classic" style="overflow:auto;white-space:nowrap;"><div class="python codecolorer"><span class="sy0">&gt;&gt;&gt;</span> tweets <span class="sy0">=</span> <span class="kw2">open</span><span class="br0">(</span><span class="st0">"obama_tweets.txt"</span><span class="br0">)</span>.<span class="me1">read</span><span class="br0">(</span><span class="br0">)</span></div></div>
+<p>As you might have guessed, this line is actually doing double duty. It opens the file and reads it into memory before it is stored in <code class="codecolorer text mac-classic"><span class="text">tweets</span></code>. Since the file has one Tweet on each line, we can turn it into a list of tweets by splitting it at the end of line character. The file was originally created on a Mac, so the end of line character is an <code class="codecolorer text mac-classic"><span class="text">n</span></code> (think n for new line). On a Windows computer, the end of line character is an <code class="codecolorer text mac-classic"><span class="text">rn</span></code> (think r for return and n for new line). So if the file was created on a Windows computer, you might need to strip out the extra character with something like <code class="codecolorer text mac-classic"><span class="text">windows_file=windows_file.replace('r','')</span></code> before you split the lines, but you don’t need to worry about that here, no matter what operating system you are using. The end of line character comes from the computer that made the file, not the computer you are currently using. To split the tweets into a list:</p>
+<div class="codecolorer-container python mac-classic" style="overflow:auto;white-space:nowrap;"><div class="python codecolorer"><span class="sy0">&gt;&gt;&gt;</span> tweets_list <span class="sy0">=</span> tweets.<span class="me1">split</span><span class="br0">(</span><span class="st0">'<span class="es0">\n</span>'</span><span class="br0">)</span></div></div>
+<p>As always, you can check how many items are in the list:</p>
+<div class="codecolorer-container python mac-classic" style="overflow:auto;white-space:nowrap;"><div class="python codecolorer"><span class="sy0">&gt;&gt;&gt;</span> <span class="kw2">len</span><span class="br0">(</span>tweets_list<span class="br0">)</span><br>
+<span class="nu0">1365</span></div></div>
+<p>You can print the entire list by typing <code class="codecolorer text mac-classic"><span class="text">print tweets_list</span></code>, but it will scroll by very fast. A more useful way to look at it is to print just some of the items. Since it’s a list, we can loop through the first few item so they each print on the same line.</p>
+<div class="codecolorer-container python mac-classic" style="overflow:auto;white-space:nowrap;"><div class="python codecolorer"><span class="sy0">&gt;&gt;&gt;</span> <span class="kw1">for</span> tweet <span class="kw1">in</span> tweets_list<span class="br0">[</span><span class="nu0">0</span>:<span class="nu0">5</span><span class="br0">]</span>:<br>
+... &nbsp; &nbsp; <span class="kw1">print</span> tweet<br>
+...<br>
+<span class="me1">Obama</span> has called the GOP budget social Darwinism. <span class="me1">Nice</span> <span class="kw1">try</span><span class="sy0">,</span> but they believe <span class="kw1">in</span> social creationism.<br>
+<span class="me1">In</span> his teen years<span class="sy0">,</span> Obama has been known to use marijuana <span class="kw1">and</span> cocaine.<br>
+<span class="me1">IPA</span> Congratulates President Barack Obama <span class="kw1">for</span> Leadership Regarding JOBS Act: WASHINGTON<span class="sy0">,</span> Apr <span class="nu0">05</span><span class="sy0">,</span> <span class="nu0">2012</span> <span class="br0">(</span>BUSINESS W... <span class="me1">http</span>://t.<span class="me1">co</span>/8le3DC8E<br>
+RT <span class="sy0">@</span>Professor_Why: <span class="co1">#WhatsRomneyHiding - his connection to supporters of Critical Race Theory.... Oh wait, that was Obama, not Romney...</span><br>
+RT <span class="sy0">@</span>wardollarshome: Obama has approved more targeted assassinations than <span class="kw2">any</span> modern US prez<span class="sy0">;</span> READ &amp; RT: http://t.<span class="me1">co</span>/bfC4gbBW</div></div>
+<p>Note the new <code class="codecolorer text mac-classic"><span class="text">[0:5]</span></code> after the <code class="codecolorer text mac-classic"><span class="text">tweets_list</span></code> but before the <code class="codecolorer text mac-classic"><span class="text">:</span></code> that begins the loop. The first number tells Python where to make the first cut in the list. The potentially counterintuitive part is that this number doesn’t reference an actual item in the list, but rather a position between each item in the list–think about where the comma goes when lists are created or printed. Adding to the confusion, the position at the start of the list is <code class="codecolorer text mac-classic"><span class="text">0</span></code>. So, in this case, we are telling Python we want to slice our list starting at the beginning and continuing until the fifth comma, which is after the fifth item in the list.</p>
+<p>So, if you wanted to just print the second item in the list, you could type:</p>
+<div class="codecolorer-container text mac-classic" style="overflow:auto;white-space:nowrap;"><div class="text codecolorer">&gt;&gt;&gt; print tweets_list[1:2]<br>
+['Obama has called the GOP budget social Darwinism. Nice try, but they believe in social creationism.']</div></div>
+<p>This slices the list from the first comma to the second comma, so the result is the second item in the list. Unless you have a computer science background, this may be confusing as it’s not the common way to think of items in lists.</p>
+<p>As a shorthand, you can leave out the first number in the pair if you want to start at the very beginning or leave out the last number if you want to go until the end. So, if you want to print out the first five tweets, you could just type <code class="codecolorer text mac-classic"><span class="text">print tweet_list[:5]</span></code>. There are several other shortcuts along these lines that are available. We will cover some of them in other tutorials.</p>
+<p>Now that we have our Tweet list expanded, let’s load up the positive sentiment list and print out the first few entries:</p>
+<div class="codecolorer-container text mac-classic" style="overflow:auto;white-space:nowrap;"><div class="text codecolorer">&gt;&gt;&gt; pos_sent = open("positive.txt").read()<br>
+&gt;&gt;&gt; positive_words=pos_sent.split('\n')<br>
+&gt;&gt;&gt; print positive_words[:10]<br>
+['abidance', 'abidance', 'abilities', 'ability', 'able', 'above', 'above-average', 'abundant', 'abundance', 'acceptance']</div></div>
+<p>Like the tweet list, this file contained each entry on its own line, so it loads exactly the same way. If you typed <code class="codecolorer text mac-classic"><span class="text">len(positive_words)</span></code> you would find out that this list has 2,230 entries.</p>
+<h3>Preprocessing</h3>
+<p>In the earlier post, we explored how to preprocess the tweets: remove the punctuation, convert to lower case, and examine whether or not each word was in the positive sentiment list. We can use this exact same code here with our long list. The one alteration is that instead of having just one tweet, we now have a list of 1,365 tweets, so we have to loop over that list.</p>
+<div class="codecolorer-container text mac-classic" style="overflow:auto;white-space:nowrap;"><div class="text codecolorer">&gt;&gt;&gt; for tweet in tweets_list:<br>
+... &nbsp; &nbsp; positive_counter=0<br>
+... &nbsp; &nbsp; tweet_processed=tweet.lower()<br>
+... &nbsp; &nbsp; for p in list(punctuation):<br>
+... &nbsp; &nbsp; &nbsp; &nbsp; tweet_processed=tweet_processed.replace(p,'')<br>
+... &nbsp; &nbsp; &nbsp; &nbsp; words=tweet_processed.split(' ')<br>
+... &nbsp; &nbsp; for word in words:<br>
+... &nbsp; &nbsp; &nbsp; &nbsp; if word in positive_words:<br>
+... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; print word<br>
+... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; positive_counter=positive_counter+1<br>
+... &nbsp; &nbsp; &nbsp;print positive_counter/len(words)<br>
+...</div></div>
+<p>If you saw a string of numbers roll past you, it worked! To review, we start by looping over each item of the list. We set up a counter to hold the running total of the number of positive words found in the tweet. Then we make everything lower case and store it in <code class="codecolorer text mac-classic"><span class="text">tweet_processed</span></code>. To strip out the punctuation, we loop over every item of punctuation, swapping out the punctuation mark with nothing. If you haven’t already typed <code class="codecolorer text mac-classic"><span class="text">&nbsp;from string import punctuation</span></code> in your current python session, you might get an error with this line, so make sure to include that import. The cleaned tweet is then converted to a list of words, split at the white spaces. Finally, we loop through each word in the tweet, and if the word is in our new and expanded list of positive words, we increase the counter by one. After cycling through each of the tweet words, the proportion of positive words is computed and printed. If you just get zeros, you might need to type <code class="codecolorer text mac-classic"><span class="text">from __future__ import division</span></code> again, so that the result isn’t rounded down.</p>
+<p>The major problem with this script is that it is currently useless. It prints the positive sentiment results, but then doesn’t do anything with it. A more practical solution would be to store the results somehow. In a standard statistical package, we would generate a new variable that held our results. We can do something similar here by storing the results in a new list. Before we start the tweet loop, we add the line:</p>
+<div class="codecolorer-container text mac-classic" style="overflow:auto;white-space:nowrap;"><div class="text codecolorer">&gt;&gt;&gt; positive_counts=[]</div></div>
+<p>Then, instead of printing the proportion, we can append it to the list:</p>
+<div class="codecolorer-container text mac-classic" style="overflow:auto;white-space:nowrap;"><div class="text codecolorer">&gt;&gt;&gt; positive_counts.append(positive_counter/word_count)</div></div>
+<p>The next time we run through the loop, it won’t produce any output, but it will create a list of the proportions. This still isn’t that useful, although you can use Python to do most of your statistical analysis and plotting, but at this point you are probably ready to get your data out of Python and back into your statistical package.</p>
+<p>The most convenient way to store data for use in multiple packages is as a plain text file where each case is its own row and variables are separated by commas. This file type commonly has a “csv” extension, and Python can read and write these files quite easily.</p>
+<p>First, import the csv module:</p>
+<div class="codecolorer-container text mac-classic" style="overflow:auto;white-space:nowrap;"><div class="text codecolorer">&gt;&gt;&gt; import csv</div></div>
+<p>To write to csv file, you first “open” the file with the csv writer:</p>
+<div class="codecolorer-container text mac-classic" style="overflow:auto;white-space:nowrap;"><div class="text codecolorer">&gt;&gt;&gt; writer = csv.writer(open('tweet_sentiment.csv', 'wb'))</div></div>
+<p>In the <code class="codecolorer text mac-classic"><span class="text">'open'</span></code> part of the command, the first item is the name of the file you want to create, and the <code class="codecolorer text mac-classic"><span class="text">'wb'</span></code> tells python that this is a file you want to write. Be careful with your file name, because if there is already a file with this name, Python will write over it. If you wanted to read a csv file, you would just swap <code class="codecolorer text mac-classic"><span class="text">reader</span></code> for <code class="codecolorer text mac-classic"><span class="text">writer</span></code> and <code class="codecolorer text mac-classic"><span class="text">'rb'</span></code> for <code class="codecolorer text mac-classic"><span class="text">'wb'</span></code>, which creates a nice symmetry.</p>
+<p>Sending your list of positive sentiment values to the file requires just one more line:</p>
+<div class="codecolorer-container text mac-classic" style="overflow:auto;white-space:nowrap;"><div class="text codecolorer">&gt;&gt;&gt; writer.writerows(positive_counts)</div></div>
+<p>You can now import this file into your statistical software package or just take a peak at it in excel. Of course, having just one variable is not the most useful thing. Usually, you will have more than one that you want to export, but for now we just have the one. At a minimum, you might also want to export the text of the original tweets. To combine more than one list together, you can <code class="codecolorer text mac-classic"><span class="text">zip</span></code> them into one list. This is different from appending one list to the other, which would just make the one list twice as long.</p>
+<div class="codecolorer-container text mac-classic" style="overflow:auto;white-space:nowrap;"><div class="text codecolorer">&gt;&gt;&gt; output=zip(tweets_list,positive_counts)</div></div>
+<p>In this case, <code class="codecolorer text mac-classic"><span class="text">zip</span></code> creates a new list <code class="codecolorer text mac-classic"><span class="text">output</span></code> that is the same length as our <code class="codecolorer text mac-classic"><span class="text">tweets_list</span></code>, but each entry has two items: the tweet and the positive count. You can use <code class="codecolorer text mac-classic"><span class="text">zip</span></code> to combine as many lists as your like, although they all need to be the same length. Technically, each item in the list is a tuple, or an ordered element list, which is a data format quite similar to a list but generally less useful for textual analysis.</p>
+<p>To write our final version of the output, we need to repeat the line that created our <code class="codecolorer text mac-classic"><span class="text">writer</span></code> and then write the <code class="codecolorer text mac-classic"><span class="text">output</span></code> list:</p>
+<div class="codecolorer-container text mac-classic" style="overflow:auto;white-space:nowrap;"><div class="text codecolorer">&gt;&gt;&gt; writer = csv.writer(open('tweet_sentiment.csv', 'wb'))<br>
+&gt;&gt;&gt; writer.writerows(output)</div></div>
+<p>That’s it. If you searched everyday for tweets mentioning President Obama and ran this script, my guess is that your data would tell a pretty interesting story about trends over time. Or, if you had your own text data arranged such that each text was its own line, you could just update the file name, and compute the sentiment scores.</p>
+<p>In case you were wondering, the top two most negative tweets, were “Hatch Makes Startling Accusation Against Obama http://t.co/HVQfUzgr ..shocking headline…NOT” and “We need to tag Obama &amp; define him for Nov battle. #Obama #failedleader #incompetent #wasteful #divisive #desperate #flexible #arrogant #lazy”, which gives our little study some face validity.</p>
+<p>You have probably noticed that our code for this project has swelled to about 40 lines. Not horrible, but not that easy to copy and paste. And if you mess up in a loop, you have to start all over again. While typing in commands this way in Python is useful for playing around with new codes and commands, most of the time its not the most efficient way to do things. Just like Stata has .do files, you can similarly save a series of Python commands as a text file and then run them all together. These sort of Python files use a .py extension.</p>
+<p>I’ve compiled all the code for our sentiment analysis into one file, and you can download it <a href="http://www.unc.edu/~ncaren/haphazard/sentiment.py">sentiment.py</a> using your browser. At this point, you might want to make a directory for yourself where you can store all your python files.</p>
+<p>You can quit Python by typing the <code class="codecolorer text mac-classic"><span class="text">exit()</span></code>, which should bring you back to your operating system’s prompt. Now, assuming you are in the directory where you download sentiment.py, you can run the entire program by typing:</p>
+<div class="codecolorer-container text mac-classic" style="overflow:auto;white-space:nowrap;"><div class="text codecolorer">$ python sentiment.py</div></div>
+<p>Remember the <code class="codecolorer text mac-classic"><span class="text">$</span></code> sign means that we are out of Python. This command tells your computer that you want Python to run the program <code class="codecolorer text mac-classic"><span class="text">sentiment.py</span></code>. If all works according to plan, your computer should think for a couple of seconds, and then display the operating system prompt. Python displays fewer things when run this way: only things with a <code class="codecolorer text mac-classic"><span class="text">print</span></code> statement in front of them are displayed, so don’t expect your output to be as verbose as when you typed in each command. Actually, you probably would want to add some print statements along the way so that you knew everything was working.</p>
+<p>Assuming you didn’t get an error message, there should be new file called <code class="codecolorer text mac-classic"><span class="text">tweet_sentiment.csv</span></code> in your current directory. You can confirm this by typing <code class="codecolorer text mac-classic"><span class="text">ls -l</span></code> on a Mac or <code class="codecolorer text mac-classic"><span class="text">dir</span></code> in Windows. This should display the contents of the current directory and you should see <code class="codecolorer text mac-classic"><span class="text">tweet_sentiment.csv</span></code> listed along with the current time–which means that the file was just created. Perfect.</p>
+<p>There are easier ways to run your <code class="codecolorer text mac-classic"><span class="text">.py</span></code> files which I’ll discuss at a later point, and ways to improve the script, such as adding comments as notes to ourselves, speeding it up, and allowing different types of input files. But if you made it this far, you can proudly call yourself a “beginning Python programmer.” Congratulations.</p>
+											</div><!-- .entry-content -->
+
+					<div id="entry-author-info">
+						<div id="author-avatar">
+							<img alt="" src="./An introduction to text analysis with Python, Part 3 _ Neal Caren_files/686db456929a55ea6812dca75fad8d07" srcset="http://0.gravatar.com/avatar/686db456929a55ea6812dca75fad8d07?s=120&amp;d=mm&amp;r=g 2x" class="avatar avatar-60 photo" height="60" width="60">						</div><!-- #author-avatar -->
+						<div id="author-description">
+							<h2>About Neal Caren</h2>
+							Sociology							<div id="author-link">
+								<a href="http://nealcaren.web.unc.edu/author/ncaren/" rel="author">
+									View all posts by Neal Caren <span class="meta-nav">→</span>								</a>
+							</div><!-- #author-link	-->
+						</div><!-- #author-description -->
+					</div><!-- #entry-author-info -->
+
+					<div class="entry-utility">
+						This entry was posted in <a href="http://nealcaren.web.unc.edu/category/uncategorized/" rel="category tag">Uncategorized</a> and tagged <a href="http://nealcaren.web.unc.edu/tag/python/" rel="tag">python</a>, <a href="http://nealcaren.web.unc.edu/tag/sentiment/" rel="tag">sentiment</a>, <a href="http://nealcaren.web.unc.edu/tag/tutorial/" rel="tag">tutorial</a>. Bookmark the <a href="http://nealcaren.web.unc.edu/an-introduction-to-text-analysis-with-python-part-3/" title="Permalink to An introduction to text analysis with Python, Part 3" rel="bookmark">permalink</a>.											</div><!-- .entry-utility -->
+				</div><!-- #post-## -->
+
+				<div id="nav-below" class="navigation">
+					<div class="nav-previous"><a href="http://nealcaren.web.unc.edu/an-introduction-to-text-analysis-with-python-part-2/" rel="prev"><span class="meta-nav">←</span> An introduction to text analysis with Python, Part 2</a></div>
+					<div class="nav-next"><a href="http://nealcaren.web.unc.edu/scraping-comments-from-the-new-york-times/" rel="next">Scraping Comments from the New York Times <span class="meta-nav">→</span></a></div>
+				</div><!-- #nav-below -->
+
+				
+			<div id="comments">
+
+
+	<p class="nocomments">Comments are closed.</p>
+
+
+
+</div><!-- #comments -->
+
+
+			</div><!-- #content -->
+		</div><!-- #container -->
+
+
+		<div id="primary" class="widget-area" role="complementary">
+			<ul class="xoxo">
+
+<li id="search-3" class="widget-container widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://nealcaren.web.unc.edu/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s">
+					<input type="submit" id="searchsubmit" value="Search">
+				</div>
+			</form></li><li id="text-2" class="widget-container widget_text">			<div class="textwidget">Neal Caren in an assistant professor of Sociology at the University of North Carolina, Chapel Hill.  
+<br>
+<a href="mailto:neal.caren@unc.edu">Email</a>
+<br>
+<a href="http://twitter.com/HaphazardSoc" target="_blank">Twitter</a>
+</div>
+		</li>			</ul>
+		</div><!-- #primary .widget-area -->
+
+	</div><!-- #main -->
+
+	<div id="footer" role="contentinfo">
+		<div id="colophon">
+
+
+
+			<div id="footer-widget-area" role="complementary">
+
+
+				<div id="second" class="widget-area">
+					<ul class="xoxo">
+						<li id="text-3" class="widget-container widget_text">			<div class="textwidget">Note: Header images found via Google image search. I didn't take them.</div>
+		</li>					</ul>
+				</div><!-- #second .widget-area -->
+
+
+
+			</div><!-- #footer-widget-area -->
+
+			<div id="site-info">
+				<a href="http://nealcaren.web.unc.edu/" title="Neal Caren" rel="home">
+					Neal Caren				</a>
+			</div><!-- #site-info -->
+
+			<div id="site-generator">
+								<a href="http://wordpress.org/" title="Semantic Personal Publishing Platform" rel="generator">Proudly powered by WordPress.</a>
+			</div><!-- #site-generator -->
+
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+<script type="text/javascript" src="./An introduction to text analysis with Python, Part 3 _ Neal Caren_files/comment-reply.min.js.下载"></script>
+<script type="text/javascript" src="./An introduction to text analysis with Python, Part 3 _ Neal Caren_files/wp-embed.min.js.下载"></script>
+
+
+</body></html>

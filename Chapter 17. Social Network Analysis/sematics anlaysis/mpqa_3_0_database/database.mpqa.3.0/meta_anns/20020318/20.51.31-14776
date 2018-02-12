@@ -1,0 +1,21 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cep20020318000060n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Uzbek Servicemen to Receive Aid From Turkey
+5	0,0	string	meta_document_time	2002-03-18
+6	0,0	string	meta_create_time	2002-03-18T20:51:50
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Moscow Interfax in English 0825 
+9	0,0	string	meta_reference	CEP20020318000060 Moscow Interfax in English 0825 GMT 18 Mar 02
+10	0,0	string	meta_region	Central Eurasia
+11	0,0	string	meta_region	West Europe
+12	0,0	string	meta_subregion	Russia
+13	0,0	string	meta_subregion	Central Asia
+14	0,0	string	meta_subregion	West Europe
+15	0,0	string	meta_country	Russia
+16	0,0	string	meta_country	Uzbekistan
+17	0,0	string	meta_country	Turkey
+18	0,0	string	meta_topic	MILITARY
+19	0,0	string	meta_topic	INTERNATIONAL POLITICAL

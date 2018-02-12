@@ -1,0 +1,22 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	iap20020414000017n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Iran: Editorial says US effort to control oil prices behind Venezuelan coup
+5	0,0	string	meta_document_time	2002-04-14
+6	0,0	string	meta_create_time	2002-04-14T21:17:21
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Tehran Iran News (Internet Version-WWW) 
+9	0,0	string	meta_reference	IAP20020414000017 Tehran Iran News (Internet Version-WWW) in English 0001 GMT 14 Apr 02
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	South Asia
+13	0,0	string	meta_subregion	South America
+14	0,0	string	meta_subregion	North America
+15	0,0	string	meta_country	Iran
+16	0,0	string	meta_country	Venezuela
+17	0,0	string	meta_country	United States
+18	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+19	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+20	0,0	string	meta_topic	ENERGY

@@ -1,0 +1,25 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20011121000013n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	AFP: Daily Says HK Considered Favored Destination To Claim Asylum by South Asians
+5	0,0	string	meta_document_time	2001-11-21
+6	0,0	string	meta_create_time	2001-11-21T21:25:02
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Hong Kong AFP in English 
+9	0,0	string	meta_reference	CPP20011121000013 Hong Kong AFP in English 0301 GMT 21 Nov 01
+10	0,0	string	meta_region	China
+11	0,0	string	meta_region	Near East/South Asia
+12	0,0	string	meta_region	East Asia
+13	0,0	string	meta_subregion	Hong Kong &amp; Macao
+14	0,0	string	meta_subregion	South Asia
+15	0,0	string	meta_subregion	Southeast Asia
+16	0,0	string	meta_country	Hong Kong
+17	0,0	string	meta_country	Pakistan
+18	0,0	string	meta_country	Bangladesh
+19	0,0	string	meta_country	Sri Lanka
+20	0,0	string	meta_country	Indonesia
+21	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+22	0,0	string	meta_topic	DOMESTIC POLITICAL
+23	0,0	string	meta_topic	MIGRATION

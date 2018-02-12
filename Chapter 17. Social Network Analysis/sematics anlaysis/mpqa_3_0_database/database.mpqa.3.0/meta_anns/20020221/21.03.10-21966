@@ -1,0 +1,21 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20020221000223n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	CNA: Taiwan-u. S. Ties Unhurt By Bush's Mainland Visit: Presidential Aide
+5	0,0	string	meta_document_time	2002-02-21
+6	0,0	string	meta_create_time	2002-02-21T21:03:07
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Taipei Central News Agency WWW-Text 
+9	0,0	string	meta_reference	CPP20020221000223 Taipei Central News Agency WWW-Text in English 1151 GMT 21 Feb 2002   [By Flor Wang]
+10	0,0	string	meta_region	China
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	China
+13	0,0	string	meta_subregion	Taiwan
+14	0,0	string	meta_subregion	North America
+15	0,0	string	meta_country	China
+16	0,0	string	meta_country	Taiwan
+17	0,0	string	meta_country	United States
+18	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+19	0,0	string	meta_topic	DOMESTIC POLITICAL

@@ -1,0 +1,20 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20010914000386n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Interpol Releases Detailed Search Warrants for Bin-Ladin
+5	0,0	string	meta_document_time	2001-09-14
+6	0,0	string	meta_create_time	2001-09-14T22:26:17
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Paris AFP (North European Service) 
+9	0,0	string	meta_reference	EUP20010914000386 Paris AFP (North European Service) in English 1354 GMT 14 Sep 01
+10	0,0	string	meta_region	West Europe
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	West Europe
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_country	Spain
+15	0,0	string	meta_country	United States
+16	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+17	0,0	string	meta_topic	TERRORISM
+18	0,0	string	meta_topic	URGENT

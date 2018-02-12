@@ -1,0 +1,22 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20020225000137n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	US President's China Statements Get Good Reviews Among Taiwan Analysts
+5	0,0	string	meta_document_time	2002-02-23
+6	0,0	string	meta_create_time	2002-02-25T21:07:22
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Taipei Taipei Times (Internet Version-WWW) 
+9	0,0	string	meta_reference	CPP20020225000137 Taipei Taipei Times (Internet Version-WWW) in English 23 Feb 02   [Report by Monique Chu]
+10	0,0	string	meta_region	China
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	Taiwan
+13	0,0	string	meta_subregion	China
+14	0,0	string	meta_subregion	North America
+15	0,0	string	meta_country	Taiwan
+16	0,0	string	meta_country	China
+17	0,0	string	meta_country	United States
+18	0,0	string	meta_topic	DOMESTIC POLITICAL
+19	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+20	0,0	string	meta_topic	LEADER

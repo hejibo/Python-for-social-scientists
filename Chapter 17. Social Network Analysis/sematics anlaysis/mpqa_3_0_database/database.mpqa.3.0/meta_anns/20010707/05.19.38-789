@@ -1,0 +1,19 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20010706000040n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Rwandan, Ugandan presidents said begin talks over soured ties
+5	0,0	string	meta_document_time	2001-07-06
+6	0,0	string	meta_create_time	2001-07-7T05:20:21
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Paris AFP (World Service) in 
+9	0,0	string	meta_reference	AFP20010706000040 Paris AFP (World Service) in English 0842 GMT 06 Jul 01   Reference:   ugandan, rwandan leaders planned talks in spirit of good neighbourliness afp20010706000005 kampala radio uganda english 0400 gmt 6 jul 01
+10	0,0	string	meta_region	Sub-Saharan Africa
+11	0,0	string	meta_subregion	Central Africa
+12	0,0	string	meta_subregion	East Africa
+13	0,0	string	meta_country	Rwanda
+14	0,0	string	meta_country	Uganda
+15	0,0	string	meta_country	Congo-Kinshasa
+16	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+17	0,0	string	meta_topic	LEADER

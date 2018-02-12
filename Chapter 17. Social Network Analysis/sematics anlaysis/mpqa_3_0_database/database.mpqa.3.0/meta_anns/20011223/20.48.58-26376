@@ -1,0 +1,16 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	iap20011223000001n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Iran: President Khatami presents budget bill to Majles
+5	0,0	string	meta_document_time	2001-12-23
+6	0,0	string	meta_create_time	2001-12-23T20:52:49
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Tehran IRNA (Internet Version-WWW) in 
+9	0,0	string	meta_reference	IAP20011223000001 Tehran IRNA (Internet Version-WWW) in English 0752 GMT 23 Dec 01
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_subregion	South Asia
+12	0,0	string	meta_country	Iran
+13	0,0	string	meta_topic	DOMESTIC ECONOMIC
+14	0,0	string	meta_topic	LEADER

@@ -1,0 +1,17 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cep20020122000738n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Kazakhstan's main seaport does brisk business
+5	0,0	string	meta_document_time	2002-01-22
+6	0,0	string	meta_create_time	2002-01-22T20:38:14
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Almaty Interfax-Kazakhstan in Russian 1119 
+9	0,0	string	meta_reference	CEP20020122000738 Almaty Interfax-Kazakhstan in Russian 1119 GMT 22 Jan 02
+10	0,0	string	meta_region	Central Eurasia
+11	0,0	string	meta_subregion	Central Asia
+12	0,0	string	meta_country	Kazakhstan
+13	0,0	string	meta_topic	ENERGY
+14	0,0	string	meta_topic	DOMESTIC ECONOMIC
+15	0,0	string	meta_topic	INTERNATIONAL ECONOMIC

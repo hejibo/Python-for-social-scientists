@@ -1,0 +1,18 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20020112000068n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	AFP: India Says Four Pakistani Soldiers Killed in Cross-Border Shelling
+5	0,0	string	meta_document_time	2002-01-12
+6	0,0	string	meta_create_time	2002-01-12T21:08:02
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Hong Kong AFP in English 
+9	0,0	string	meta_reference	CPP20020112000068 Hong Kong AFP in English 1248 GMT 12 Jan 02
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_subregion	South Asia
+12	0,0	string	meta_country	India
+13	0,0	string	meta_country	Pakistan
+14	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+15	0,0	string	meta_topic	MILITARY
+16	0,0	string	meta_topic	URGENT

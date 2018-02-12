@@ -1,0 +1,22 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	sap20011214000098n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Musharraf to visit China from 20 to 24 Dec to discuss bilateral, regional issues
+5	0,0	string	meta_document_time	2001-12-14
+6	0,0	string	meta_create_time	2001-12-14T20:29:41
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Islamabad Radio Pakistan in English 
+9	0,0	string	meta_reference	SAP20011214000098 Islamabad Radio Pakistan in English 1300 GMT 14 Dec 01
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	China
+12	0,0	string	meta_subregion	South Asia
+13	0,0	string	meta_subregion	China
+14	0,0	string	meta_country	Pakistan
+15	0,0	string	meta_country	China
+16	0,0	string	meta_country	Afghanistan
+17	0,0	string	meta_country	India
+18	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+19	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+20	0,0	string	meta_topic	LEADER

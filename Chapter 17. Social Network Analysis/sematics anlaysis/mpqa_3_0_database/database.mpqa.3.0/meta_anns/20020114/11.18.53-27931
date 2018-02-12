@@ -1,0 +1,16 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	sep20020113000004n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Philippines: Misuari's Elite Force Official Bares Plot To Rescue Rebel Governor
+5	0,0	string	meta_document_time	2002-01-13
+6	0,0	string	meta_create_time	2002-01-13T20:52:49
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Manila Philippine Daily Inquirer (Internet 
+9	0,0	string	meta_reference	SEP20020113000004 Manila Philippine Daily Inquirer (Internet Version-WWW) in English 13 Jan 02   [Report by Charlie S. Señase and TJ Burgonio, Inquirer News Service with Anthony S. Allada, PDI Mindanao Bureau, and Andrea Trinidad-Echavez, contributor: &quot; Plot to rescue Misuari bared&quot;]
+10	0,0	string	meta_region	East Asia
+11	0,0	string	meta_subregion	Southeast Asia
+12	0,0	string	meta_country	Philippines
+13	0,0	string	meta_topic	DISSENT
+14	0,0	string	meta_topic	TERRORISM

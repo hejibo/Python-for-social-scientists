@@ -1,0 +1,16 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20011015000107n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Czech Republic: Suspicious consignment appears in Karlovy Vary
+5	0,0	string	meta_document_time	2001-10-15
+6	0,0	string	meta_create_time	2001-10-15T22:29:17
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Prague CTK in English 0943 
+9	0,0	string	meta_reference	EUP20011015000107 Prague CTK in English 0943 GMT 15 Oct 01
+10	0,0	string	meta_region	East Europe
+11	0,0	string	meta_subregion	East Europe
+12	0,0	string	meta_country	Czech Republic
+13	0,0	string	meta_topic	TERRORISM
+14	0,0	string	meta_topic	HEALTH

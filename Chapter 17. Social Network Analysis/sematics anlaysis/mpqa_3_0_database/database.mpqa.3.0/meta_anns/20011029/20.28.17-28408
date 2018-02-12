@@ -1,0 +1,22 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	sap20011029000084n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	AFP: Taliban say 'unspecified number' of Americans arrested in Afghanistan
+5	0,0	string	meta_document_time	2001-10-29
+6	0,0	string	meta_create_time	2001-10-29T20:31:05
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Hong Kong AFP in English 
+9	0,0	string	meta_reference	SAP20011029000084 Hong Kong AFP in English 1156 GMT 29 Oct 01   Reference:   taliban: death for captured us commandos if bombing on civilian areas continue sap20011029000013 karachi ummat urdu 26 oct 01      [As of filing time, Pakistani media monitored by FBIS have not been observed to report the following]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	South Asia
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_country	Afghanistan
+15	0,0	string	meta_country	United States
+16	0,0	string	meta_country	Pakistan
+17	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+18	0,0	string	meta_topic	MILITARY
+19	0,0	string	meta_topic	TERRORISM
+20	0,0	string	meta_topic	URGENT

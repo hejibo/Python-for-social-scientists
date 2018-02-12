@@ -1,0 +1,20 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	gmp20020216000023n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	US Reportedly Asks Lebanon To Prevent Possible Hizballah Attack on Israel
+5	0,0	string	meta_document_time	2002-02-16
+6	0,0	string	meta_create_time	2002-02-16T20:54:06
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Beirut The Daily Star (Internet 
+9	0,0	string	meta_reference	GMP20020216000023 Beirut The Daily Star (Internet Version-WWW) in English 16 Feb 02   [Report by Zeina Abu Rizk: &quot;US asks Beirut to check Hizbullah 'attack' on Israel&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	Near East
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_country	Israel
+15	0,0	string	meta_country	Lebanon
+16	0,0	string	meta_country	United States
+17	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+18	0,0	string	meta_topic	TERRORISM

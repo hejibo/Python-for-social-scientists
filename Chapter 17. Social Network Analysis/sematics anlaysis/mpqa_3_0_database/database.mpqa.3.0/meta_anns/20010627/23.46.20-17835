@@ -1,0 +1,16 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20010626000080n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Beijing Completes Tree Belt To Block Wind
+5	0,0	string	meta_document_time	2001-06-26
+6	0,0	string	meta_create_time	2001-06-27T23:46:49
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Beijing China Daily (Internet Version-WWW) 
+9	0,0	string	meta_reference	CPP20010626000080 Beijing China Daily (Internet Version-WWW) in English 26 Jun 01   [BY LIU LI]
+10	0,0	string	meta_region	China
+11	0,0	string	meta_subregion	China
+12	0,0	string	meta_country	China
+13	0,0	string	meta_topic	DOMESTIC POLITICAL
+14	0,0	string	meta_topic	ENVIRONMENT

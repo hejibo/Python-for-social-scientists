@@ -1,0 +1,19 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20020209000110n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Spanish daily blasts &quot;meaningless&quot; US announcement on Guantanamo detainees
+5	0,0	string	meta_document_time	2002-02-09
+6	0,0	string	meta_create_time	2002-02-9T20:34:00
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Madrid El Mundo (Internet Version-WWW) 
+9	0,0	string	meta_reference	EUP20020209000110 Madrid El Mundo (Internet Version-WWW) in Spanish 0000 GMT 9 Feb 02
+10	0,0	string	meta_region	West Europe
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	West Europe
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_country	Spain
+15	0,0	string	meta_country	United States
+16	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+17	0,0	string	meta_topic	HUMAN RIGHTS

@@ -1,0 +1,18 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20020315000026n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Zimbabwe Herald: Two observer groups critical of poll reportedly funded by EU
+5	0,0	string	meta_document_time	2002-03-15
+6	0,0	string	meta_create_time	2002-03-15T20:42:32
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Harare The Herald Online (Internet 
+9	0,0	string	meta_reference	AFP20020315000026 Harare The Herald Online (Internet Version-WWW) in English 15 Mar 02   [Report by Herald reporter: &quot;2 observer groups funded by EU&quot;]
+10	0,0	string	meta_region	Sub-Saharan Africa
+11	0,0	string	meta_region	West Europe
+12	0,0	string	meta_subregion	Southern Africa
+13	0,0	string	meta_subregion	Benelux Countries
+14	0,0	string	meta_country	Zimbabwe
+15	0,0	string	meta_country	Belgium
+16	0,0	string	meta_topic	INTERNATIONAL POLITICAL

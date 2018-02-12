@@ -1,0 +1,15 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	gmp20020302000046n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Turkey: 130 Illegal Immigrants Caught in Bolu, Izmir
+5	0,0	string	meta_document_time	2002-03-02
+6	0,0	string	meta_create_time	2002-03-2T20:58:30
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Ankara Anatolia in English 0825 
+9	0,0	string	meta_reference	GMP20020302000046 Ankara Anatolia in English 0825 GMT 02 Mar 02   [Correcting date in sourceline]
+10	0,0	string	meta_region	West Europe
+11	0,0	string	meta_subregion	West Europe
+12	0,0	string	meta_country	Turkey
+13	0,0	string	meta_topic	MIGRATION

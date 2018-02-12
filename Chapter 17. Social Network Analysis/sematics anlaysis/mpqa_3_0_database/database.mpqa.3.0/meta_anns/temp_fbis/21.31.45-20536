@@ -1,0 +1,20 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20020308000101n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Namibia: Government 'trashed' US human rights report, says US biggest violator
+5	0,0	string	meta_document_time	2002-03-08
+6	0,0	string	meta_create_time	2002-03-8T21:31:51
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Windhoek The Namibian (Internet Version-WWW) 
+9	0,0	string	meta_reference	AFP20020308000101 Windhoek The Namibian (Internet Version-WWW) in English 08 Mar 02   [Report by Max Hamata: &quot;Govt dismisses US rights report&quot;]
+10	0,0	string	meta_region	Sub-Saharan Africa
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	Southern Africa
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_country	Namibia
+15	0,0	string	meta_country	United States
+16	0,0	string	meta_country	Angola
+17	0,0	string	meta_topic	HUMAN RIGHTS
+18	0,0	string	meta_topic	INTERNATIONAL POLITICAL

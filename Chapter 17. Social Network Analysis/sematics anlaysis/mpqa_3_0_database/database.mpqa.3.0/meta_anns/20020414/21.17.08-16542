@@ -1,0 +1,23 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	gmp20020414000232n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Cairo Al-Ahram Urges World Community to Refer Israeli Officials to Tribunal of War Crimes
+5	0,0	string	meta_document_time	2002-04-13
+6	0,0	string	meta_create_time	2002-04-14T21:18:26
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Cairo Al-Ahram in Arabic 13 
+9	0,0	string	meta_reference	GMP20020414000232 Cairo Al-Ahram in Arabic 13 Apr 02 p 11   [Editorial: &quot;Israel's Crimes against Humanity&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	West Europe
+12	0,0	string	meta_region	The Americas
+13	0,0	string	meta_subregion	Near East
+14	0,0	string	meta_subregion	West Europe
+15	0,0	string	meta_subregion	North America
+16	0,0	string	meta_country	Israel
+17	0,0	string	meta_country	Italy
+18	0,0	string	meta_country	United States
+19	0,0	string	meta_country	West Bank &amp; Gaza Strip
+20	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+21	0,0	string	meta_topic	MILITARY

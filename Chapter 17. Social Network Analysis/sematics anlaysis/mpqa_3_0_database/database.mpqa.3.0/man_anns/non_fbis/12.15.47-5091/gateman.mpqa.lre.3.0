@@ -1,0 +1,144 @@
+# MPQA Annotation file
+# Created from gate_anns/non_fbis/12.15.47-5091/gateman.mpqa.3.0.xml
+# on Sun Dec 13 16:56:24 EST 2015
+# by Lingjia Deng
+1	3096,3100	split	
+2	2180,2181	split	
+3	2467,2468	split	
+4	2332,2336	split	
+5	3139,3141	split	
+6	1487,1488	split	
+7	0,0	agent	id="w" 
+8	1488,1492	split	
+9	185,189	split	
+10	157,159	split	
+11	2041,2045	split	
+12	0,0	agent	id="implicit" 
+13	48,157	sentence	nested-source="w" 
+14	621,768	sentence	nested-source="w" 
+15	2336,2468	sentence	nested-source="w" 
+16	357,361	split	
+17	189,357	sentence	nested-source="w" 
+18	2887,2891	split	
+19	1165,1272	sentence	nested-source="w" 
+20	2331,2332	split	
+21	2472,2586	sentence	nested-source="w" 
+22	1672,1732	agent	id="marc" nested-source="w,marc" 
+23	1312,1320	expressive-subjectivity	id="ese2" intensity="low" es-uncertain="very-uncertain" targetFrame-link="tfese2" polarity="neutral" nested-source="w,ben" 
+24	2588,2616	expressive-subjectivity	id="ese7" intensity="low" targetFrame-link="tfese7" polarity="neutral" nested-source="w,marc" 
+25	895,896	split	
+26	482,516	expressive-subjectivity	id="ese6" intensity="low" es-uncertain="somewhat-uncertain" targetFrame-link="tfese6" polarity="neutral" nested-source="w" 
+27	2587,2588	direct-subjective	intensity="medium" id="ds4" attitude-type="positive" is-implicit="yes" attitude-link="a40,a50" nested-source="w,marc" 
+28	617,621	split	
+29	610,616	expressive-subjectivity	id="ese5" intensity="low" targetFrame-link="tfese5" polarity="neutral" nested-source="w" 
+30	3095,3096	split	
+31	1771,1781	expressive-subjectivity	id="ese3" intensity="medium" targetFrame-link="tfese3" polarity="positive" nested-source="w,marc" 
+32	2708,2732	expressive-subjectivity	id="ese1" intensity="medium" targetFrame-link="tfese1" polarity="positive" nested-source="w,marc" 
+33	541,548	expressive-subjectivity	id="ese4" intensity="low" targetFrame-link="tfese4" polarity="neutral" nested-source="w" 
+34	522,608	attitude	id="a10" intensity="low" attitude-type="speculation" targetFrame-link="tfa10" 
+35	2598,2616	attitude	id="a40" intensity="medium" attitude-type="arguing-pos" targetFrame-link="tfa40" 
+36	2886,2887	split	
+37	1667,1668	split	
+38	767,768	split	
+39	1836,2041	sentence	nested-source="w" 
+40	2951,3096	sentence	nested-source="w" 
+41	1672,1832	sentence	nested-source="w" 
+42	1492,1668	sentence	nested-source="w" 
+43	1831,1832	split	
+44	769,896	sentence	nested-source="w" 
+45	361,617	sentence	nested-source="w" 
+46	1832,1836	split	
+47	2045,2181	sentence	nested-source="w" 
+48	900,1161	sentence	nested-source="w" 
+49	2891,2950	sentence	nested-source="w" 
+50	1161,1165	split	
+51	1276,1488	sentence	nested-source="w" 
+52	356,357	split	
+53	2472,2472	objective-speech-event	implicit="true" id="ose12" targetFrame-link="tfose12" nested-source="w" 
+54	616,617	split	
+55	2567,2571	objective-speech-event	objective-uncertain="very-uncertain" id="ose1" targetFrame-link="tfose1" nested-source="w,marc" 
+56	2040,2041	split	
+57	900,900	targetFrame	id="tfose2" sTarget-link="none" newETarget-link="none" 
+58	42,45	split	
+59	2567,2567	targetFrame	id="tfose1" sTarget-link="none" newETarget-link="none" 
+60	1428,1439	agent	id="ben" nested-source="w,ben" 
+61	2185,2185	objective-speech-event	implicit="true" id="ose3" targetFrame-link="tfose3" nested-source="w" 
+62	1672,1672	targetFrame	id="tfose4" sTarget-link="none" newETarget-link="none" 
+63	900,900	objective-speech-event	implicit="true" id="ose2" targetFrame-link="tfose2" nested-source="w" 
+64	2185,2185	targetFrame	id="tfose3" sTarget-link="none" newETarget-link="none" 
+65	189,189	objective-speech-event	implicit="true" id="ose8" targetFrame-link="tfose8" nested-source="w" 
+66	2472,2472	targetFrame	id="tfose12" sTarget-link="none" newETarget-link="none" 
+67	1170,1174	objective-speech-event	id="ose11" targetFrame-link="tfose11" nested-source="w,nasa" 
+68	1170,1170	targetFrame	id="tfose11" sTarget-link="none" newETarget-link="none" 
+69	896,900	split	
+70	2951,2951	objective-speech-event	implicit="true" id="ose10" targetFrame-link="tfose10" nested-source="w" 
+71	48,48	targetFrame	id="tfose14" sTarget-link="none" newETarget-link="none" 
+72	2468,2472	split	
+73	1165,1165	objective-speech-event	implicit="true" id="ose13" targetFrame-link="tfose13" nested-source="w" 
+74	1165,1165	targetFrame	id="tfose13" sTarget-link="none" newETarget-link="none" 
+75	2587,2744	sentence	nested-source="w" 
+76	2682,2702	sTarget	id="t50" eTarget-link="e9029" 
+77	1271,1272	split	
+78	2703,2732	attitude	id="a50" intensity="medium-high" attitude-type="sentiment-pos" targetFrame-link="tfa50" 
+79	4,42	sentence	nested-source="w" 
+80	2949,2950	split	
+81	2185,2332	sentence	nested-source="w" 
+82	2748,2887	sentence	nested-source="w" 
+83	2181,2185	split	
+84	1312,1370	attitude	id="a20" intensity="low" attitude-type="speculation" targetFrame-link="tfa20" 
+85	1750,1831	attitude	id="a30" intensity="medium-high" attitude-type="sentiment-pos" targetFrame-link="tfa30" 
+86	2585,2586	split	
+87	2587,2587	targetFrame	id="tfose6" sTarget-link="none" newETarget-link="none" 
+88	4,4	objective-speech-event	implicit="true" id="ose5" targetFrame-link="tfose5" nested-source="w" 
+89	1165,1169	agent	id="nasa" nested-source="w,nasa" 
+90	4,4	targetFrame	id="tfose5" sTarget-link="none" newETarget-link="none" 
+91	1672,1672	objective-speech-event	implicit="true" id="ose4" targetFrame-link="tfose4" nested-source="w" 
+92	1307,1309	sTarget	id="t20" eTarget-link="none" 
+93	361,373	sTarget	id="t10" eTarget-link="none" 
+94	1668,1672	split	
+95	2588,2596	sTarget	id="t40" eTarget-link="none" 
+96	1740,1749	sTarget	id="t30" eTarget-link="e9019" 
+97	2744,2748	split	
+98	2336,2336	targetFrame	id="tfose15" sTarget-link="none" newETarget-link="none" 
+99	2336,2336	objective-speech-event	implicit="true" id="ose15" targetFrame-link="tfose15" nested-source="w" 
+100	1735,1739	direct-subjective	expression-intensity="neutral" intensity="medium" id="ds2" attitude-type="positive" attitude-link="a30" nested-source="w,marc" 
+101	1160,1161	split	
+102	48,48	objective-speech-event	implicit="true" id="ose14" targetFrame-link="tfose14" nested-source="w" 
+103	2572,2585	agent	nested-source="w,marc" 
+104	621,621	targetFrame	id="tfose17" sTarget-link="none" newETarget-link="none" 
+105	1272,1276	split	
+106	621,621	objective-speech-event	implicit="true" id="ose17" targetFrame-link="tfose17" nested-source="w" 
+107	1492,1492	targetFrame	id="tfose16" sTarget-link="none" newETarget-link="none" 
+108	45,48	split	
+109	1492,1492	objective-speech-event	implicit="true" id="ose16" targetFrame-link="tfose16" nested-source="w" 
+110	2692,2702	eTarget	id="e9029" isNegated="no" type="event" isReferredInSpan="no" 
+111	2708,2708	targetFrame	id="tfese1" sTarget-link="none" newETarget-link="e9029" 
+112	1771,1771	targetFrame	id="tfese3" sTarget-link="none" newETarget-link="e9019" 
+113	2703,2703	targetFrame	id="tfa50" sTarget-link="t50" newETarget-link="none" 
+114	522,522	targetFrame	id="tfa10" sTarget-link="t10" newETarget-link="none" 
+115	361,361	direct-subjective	implicit="true" intensity="low" id="ds3" attitude-link="a10" subjective-uncertain="very-uncertain" nested-source="w" 
+116	1312,1312	targetFrame	id="tfese2" sTarget-link="none" newETarget-link="none" 
+117	1423,1427	direct-subjective	expression-intensity="neutral" intensity="low" id="ds1" attitude-link="a20" subjective-uncertain="very-uncertain" nested-source="w,ben" 
+118	2891,2891	targetFrame	id="tfose7" sTarget-link="none" newETarget-link="none" 
+119	2891,2891	objective-speech-event	implicit="true" id="ose7" targetFrame-link="tfose7" nested-source="w" 
+120	189,189	targetFrame	id="tfose8" sTarget-link="none" newETarget-link="none" 
+121	482,482	targetFrame	id="tfese6" sTarget-link="none" newETarget-link="none" 
+122	1276,1276	targetFrame	id="tfose9" sTarget-link="none" newETarget-link="none" 
+123	1276,1276	objective-speech-event	implicit="true" id="ose9" targetFrame-link="tfose9" nested-source="w" 
+124	2951,2951	targetFrame	id="tfose10" sTarget-link="none" newETarget-link="none" 
+125	2587,2587	objective-speech-event	implicit="true" id="ose6" targetFrame-link="tfose6" nested-source="w" 
+126	1836,1836	objective-speech-event	implicit="true" id="ose19" targetFrame-link="tfose19" nested-source="w" 
+127	1836,1836	targetFrame	id="tfose19" sTarget-link="none" newETarget-link="none" 
+128	2045,2045	objective-speech-event	implicit="true" id="ose18" targetFrame-link="tfose18" nested-source="w" 
+129	2045,2045	targetFrame	id="tfose18" sTarget-link="none" newETarget-link="none" 
+130	2748,2748	objective-speech-event	implicit="true" id="ose21" targetFrame-link="tfose21" nested-source="w" 
+131	2748,2748	targetFrame	id="tfose21" sTarget-link="none" newETarget-link="none" 
+132	769,769	objective-speech-event	implicit="true" id="ose20" targetFrame-link="tfose20" nested-source="w" 
+133	769,769	targetFrame	id="tfose20" sTarget-link="none" newETarget-link="none" 
+134	541,541	targetFrame	id="tfese4" sTarget-link="none" newETarget-link="none" 
+135	2598,2598	targetFrame	id="tfa40" sTarget-link="t40" newETarget-link="none" 
+136	1750,1750	targetFrame	id="tfa30" sTarget-link="t30" newETarget-link="none" 
+137	610,610	targetFrame	id="tfese5" sTarget-link="none" newETarget-link="none" 
+138	2588,2588	targetFrame	id="tfese7" sTarget-link="none" newETarget-link="none" 
+139	1312,1312	targetFrame	id="tfa20" sTarget-link="t20" newETarget-link="none" 
+140	1740,1749	eTarget	id="e9019" isNegated="no" type="entity" isReferredInSpan="no" 

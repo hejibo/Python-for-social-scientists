@@ -1,0 +1,18 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	sap20020125000063n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Afghan Commission Named To Organize 'Loya Jirga'
+5	0,0	string	meta_document_time	2002-01-25
+6	0,0	string	meta_create_time	2002-01-25T20:20:38
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Hong Kong AFP in English 
+9	0,0	string	meta_reference	SAP20020125000063 Hong Kong AFP in English 1115 GMT 25 Jan 02   Reference:   afghanistan: special commission to set up loya jirga to be named 25 jan sap20020124000038 hong kong afp english 0900 gmt 24 jan 02
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_subregion	South Asia
+12	0,0	string	meta_country	Afghanistan
+13	0,0	string	meta_topic	DOMESTIC POLITICAL
+14	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+15	0,0	string	meta_topic	LEADER
+16	0,0	string	meta_topic	URGENT

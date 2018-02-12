@@ -1,0 +1,18 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	jpp20011124000044n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	AFP: Philippines Thanks Malaysia for Arrest of Muslim Insurgent Leader
+5	0,0	string	meta_document_time	2001-11-24
+6	0,0	string	meta_create_time	2001-11-24T20:53:16
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Hong Kong AFP in English 
+9	0,0	string	meta_reference	JPP20011124000044 Hong Kong AFP in English 1137 GMT 24 Nov 01
+10	0,0	string	meta_region	East Asia
+11	0,0	string	meta_subregion	Southeast Asia
+12	0,0	string	meta_country	Malaysia
+13	0,0	string	meta_country	Philippines
+14	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+15	0,0	string	meta_topic	LEADER
+16	0,0	string	meta_topic	TERRORISM

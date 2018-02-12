@@ -1,0 +1,17 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20020319000168n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	RSA: Methodist cleric says Zim poll 'did not conform to international standards'
+5	0,0	string	meta_document_time	2002-03-19
+6	0,0	string	meta_create_time	2002-03-20T12:04:38
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Johannesburg SAPA (Internet Version-WWW) in 
+9	0,0	string	meta_reference	AFP20020319000168 Johannesburg SAPA (Internet Version-WWW) in English 1114 GMT 19 Mar 02   Reference:   idasa says zimbabwe poll 'not free, fair', faults rsa observer mission afp20020316000168 johannesburg sapa (internet version-www) english 1357 gmt 16 mar 02
+10	0,0	string	meta_region	Sub-Saharan Africa
+11	0,0	string	meta_subregion	Southern Africa
+12	0,0	string	meta_country	South Africa
+13	0,0	string	meta_country	Zimbabwe
+14	0,0	string	meta_topic	DOMESTIC POLITICAL
+15	0,0	string	meta_topic	INTERNATIONAL POLITICAL

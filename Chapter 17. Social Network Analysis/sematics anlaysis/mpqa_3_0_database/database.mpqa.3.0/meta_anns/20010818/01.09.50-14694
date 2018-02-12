@@ -1,0 +1,20 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20010817000045n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Zimbabwe: Herald cites MDC leader's RSA address on sanctions, militants, Mugabe
+5	0,0	string	meta_document_time	2001-08-17
+6	0,0	string	meta_create_time	2001-08-18T01:11:01
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Harare The Herald Online (Internet 
+9	0,0	string	meta_reference	AFP20010817000045 Harare The Herald Online (Internet Version-WWW) in English 17 Aug 01   Reference:   zimbabwe's mdc leader visits cape town; calls for international support afp20010816000194 cape town e.tv english 1700 gmt 16 aug 01      [Report by Herald reporter: &quot;MDC leader Tsvangirai at it again in South Africa&quot;]
+10	0,0	string	meta_region	Sub-Saharan Africa
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	Southern Africa
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_country	Zimbabwe
+15	0,0	string	meta_country	South Africa
+16	0,0	string	meta_country	United States
+17	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+18	0,0	string	meta_topic	LEADER

@@ -1,0 +1,25 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20020319000134n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Zimbabwe: UK's Blair, C'wealth mission actions 'raise questions' on 19 Mar talks
+5	0,0	string	meta_document_time	2002-03-19
+6	0,0	string	meta_create_time	2002-03-20T12:04:46
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Harare The Herald Online (Internet 
+9	0,0	string	meta_reference	AFP20020319000134 Harare The Herald Online (Internet Version-WWW) in English 19 Mar 02   [Report by special correspondent: &quot;C'wealth mission conduct questionable&quot;]
+10	0,0	string	meta_region	Sub-Saharan Africa
+11	0,0	string	meta_region	West Europe
+12	0,0	string	meta_region	East Asia
+13	0,0	string	meta_subregion	Southern Africa
+14	0,0	string	meta_subregion	West Europe
+15	0,0	string	meta_subregion	Australasia
+16	0,0	string	meta_subregion	Benelux Countries
+17	0,0	string	meta_country	Zimbabwe
+18	0,0	string	meta_country	United Kingdom
+19	0,0	string	meta_country	Australia
+20	0,0	string	meta_country	Belgium
+21	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+22	0,0	string	meta_topic	LEADER
+23	0,0	string	meta_topic	MEDIA

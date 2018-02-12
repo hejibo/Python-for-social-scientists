@@ -1,0 +1,19 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cep20010705000137n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Tajikistan: drug-busting hampered by obsolete equipment
+5	0,0	string	meta_document_time	2001-07-05
+6	0,0	string	meta_create_time	2001-07-6T02:02:06
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Moscow Interfax in English 1211 
+9	0,0	string	meta_reference	CEP20010705000137 Moscow Interfax in English 1211 GMT 5 Jul 01
+10	0,0	string	meta_region	Central Eurasia
+11	0,0	string	meta_subregion	Russia
+12	0,0	string	meta_subregion	Central Asia
+13	0,0	string	meta_country	Russia
+14	0,0	string	meta_country	Tajikistan
+15	0,0	string	meta_topic	DOMESTIC POLITICAL
+16	0,0	string	meta_topic	HEALTH
+17	0,0	string	meta_topic	NARCOTICS

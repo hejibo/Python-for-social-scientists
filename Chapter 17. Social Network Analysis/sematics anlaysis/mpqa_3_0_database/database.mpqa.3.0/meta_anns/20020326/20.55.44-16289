@@ -1,0 +1,15 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	gmp20020326000260n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Jordanian Officials Release Suspect in Bank Fraud Case on JD1 Million Bail
+5	0,0	string	meta_document_time	2002-03-26
+6	0,0	string	meta_create_time	2002-03-26T20:55:43
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Amman Jordan Times (Internet Version-WWW) 
+9	0,0	string	meta_reference	GMP20020326000260 Amman Jordan Times (Internet Version-WWW) in English 26 Mar 02   Reference:   al-ra'y publishes names of 55 persons, companies involved in bank scandal gmp20020218000052 amman al-ra'y arabic 18 feb 02      [Report by Saad G. Hattar: &quot;Suspect in Bank Loans Case Released on Bail&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_subregion	Near East
+12	0,0	string	meta_country	Jordan
+13	0,0	string	meta_topic	CRIME

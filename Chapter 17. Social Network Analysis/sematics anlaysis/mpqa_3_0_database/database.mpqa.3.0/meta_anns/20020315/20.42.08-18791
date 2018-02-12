@@ -1,0 +1,25 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20020315000036n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Zimbabwe Herald: 'Sharp divisions' between West, Africa over poll outcome
+5	0,0	string	meta_document_time	2002-03-15
+6	0,0	string	meta_create_time	2002-03-15T20:42:23
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Harare The Herald Online (Internet 
+9	0,0	string	meta_reference	AFP20020315000036 Harare The Herald Online (Internet Version-WWW) in English 15 Mar 02   [Report by Herald reporters: &quot;Sharp divisions between Western countries, Africa emerge&quot;]
+10	0,0	string	meta_region	Sub-Saharan Africa
+11	0,0	string	meta_region	West Europe
+12	0,0	string	meta_region	The Americas
+13	0,0	string	meta_region	China
+14	0,0	string	meta_subregion	Southern Africa
+15	0,0	string	meta_subregion	West Europe
+16	0,0	string	meta_subregion	North America
+17	0,0	string	meta_subregion	China
+18	0,0	string	meta_country	Zimbabwe
+19	0,0	string	meta_country	United Kingdom
+20	0,0	string	meta_country	United States
+21	0,0	string	meta_country	China
+22	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+23	0,0	string	meta_topic	LEADER

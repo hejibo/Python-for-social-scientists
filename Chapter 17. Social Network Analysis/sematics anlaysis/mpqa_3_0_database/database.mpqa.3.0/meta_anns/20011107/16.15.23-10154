@@ -1,0 +1,21 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20011106000060n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	CAR: Bangui tense as shooting heard on fifth day of Army revolt
+5	0,0	string	meta_document_time	2001-11-06
+6	0,0	string	meta_create_time	2001-11-7T16:18:23
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Paris AFP (World Service) in 
+9	0,0	string	meta_reference	AFP20011106000060 Paris AFP (World Service) in English 1109 GMT 06 Nov 01
+10	0,0	string	meta_region	Sub-Saharan Africa
+11	0,0	string	meta_region	Near East/South Asia
+12	0,0	string	meta_subregion	Central Africa
+13	0,0	string	meta_subregion	Arab Africa
+14	0,0	string	meta_country	Central African Republic
+15	0,0	string	meta_country	Libya
+16	0,0	string	meta_topic	DISSENT
+17	0,0	string	meta_topic	DOMESTIC POLITICAL
+18	0,0	string	meta_topic	LEADER
+19	0,0	string	meta_topic	MILITARY

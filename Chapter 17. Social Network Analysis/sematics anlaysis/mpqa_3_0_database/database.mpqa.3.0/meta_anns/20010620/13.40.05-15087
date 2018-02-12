@@ -1,0 +1,15 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	afp20010619000048n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	RSA: Authorities still awaiting final tests on suspected Congo Fever patient
+5	0,0	string	meta_document_time	2001-06-18
+6	0,0	string	meta_create_time	2001-06-20T00:44:37
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Johannesburg SAPA (Internet Version-WWW) in 
+9	0,0	string	meta_reference	AFP20010619000048 Johannesburg SAPA (Internet Version-WWW) in English 1847 GMT 18 Jun 01
+10	0,0	string	meta_region	Sub-Saharan Africa
+11	0,0	string	meta_subregion	Southern Africa
+12	0,0	string	meta_country	South Africa
+13	0,0	string	meta_topic	HEALTH

@@ -1,0 +1,21 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	gmp20020208000053n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Cairo Editor: Besieging Arafat Marks Bankruptcy of Israel's Policies
+5	0,0	string	meta_document_time	2002-02-08
+6	0,0	string	meta_create_time	2002-02-8T20:37:22
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Cairo Al-Akhbar in Arabic 08 
+9	0,0	string	meta_reference	GMP20020208000053 Cairo Al-Akhbar in Arabic 08 Feb 02 p 1   [Article by Jalal Duwaydar: &quot;The Arab Mandela&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	Arab Africa
+13	0,0	string	meta_subregion	Near East
+14	0,0	string	meta_subregion	North America
+15	0,0	string	meta_country	Egypt
+16	0,0	string	meta_country	Israel
+17	0,0	string	meta_country	United States
+18	0,0	string	meta_country	West Bank &amp; Gaza Strip
+19	0,0	string	meta_topic	INTERNATIONAL POLITICAL

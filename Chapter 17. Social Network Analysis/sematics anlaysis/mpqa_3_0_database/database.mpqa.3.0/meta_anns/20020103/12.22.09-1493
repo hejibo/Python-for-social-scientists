@@ -1,0 +1,15 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	iap20020102000080n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Uzbekistan to raise annual cotton target to 3.75 million tonnes
+5	0,0	string	meta_document_time	2002-01-01
+6	0,0	string	meta_create_time	2002-01-3T12:26:09
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Mashhad Voice of the Islamic 
+9	0,0	string	meta_reference	IAP20020102000080 Mashhad Voice of the Islamic Republic of Iran in Uzbek 1500 GMT 1 Jan 02
+10	0,0	string	meta_region	Central Eurasia
+11	0,0	string	meta_subregion	Central Asia
+12	0,0	string	meta_country	Uzbekistan
+13	0,0	string	meta_topic	DOMESTIC ECONOMIC

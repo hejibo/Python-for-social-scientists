@@ -1,0 +1,19 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	sep20010826000036n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Indonesia alerted to presence of boat believed to be carrying illegal immigrants
+5	0,0	string	meta_document_time	2001-08-26
+6	0,0	string	meta_create_time	2001-08-28T01:00:38
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Melbourne Radio Australia in English 
+9	0,0	string	meta_reference	SEP20010826000036 Melbourne Radio Australia in English 1400 GMT 26 Aug 01
+10	0,0	string	meta_region	East Asia
+11	0,0	string	meta_subregion	Australasia
+12	0,0	string	meta_subregion	Southeast Asia
+13	0,0	string	meta_country	Australia
+14	0,0	string	meta_country	Indonesia
+15	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+16	0,0	string	meta_topic	MIGRATION
+17	0,0	string	meta_topic	LEADER

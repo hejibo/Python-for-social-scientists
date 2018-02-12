@@ -1,0 +1,23 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	sap20020330000054n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Indian paper calls for pressurizing Israel to stop dangerous course of action
+5	0,0	string	meta_document_time	2002-03-30
+6	0,0	string	meta_create_time	2002-03-30T21:00:39
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Bangalore Deccan Herald (Internet Version-WWW) 
+9	0,0	string	meta_reference	SAP20020330000054 Bangalore Deccan Herald (Internet Version-WWW) in English 30 Mar 02   Reference:   india expresses shock over israel's treatment of arafat; calls for dialogue sap20020330000030 new delhi all india radio home news service english 0830 gmt 30 mar 02      [Editorial: &quot;Step back&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_subregion	South Asia
+12	0,0	string	meta_subregion	Near East
+13	0,0	string	meta_subregion	Arabian Peninsula
+14	0,0	string	meta_country	India
+15	0,0	string	meta_country	Israel
+16	0,0	string	meta_country	Saudi Arabia
+17	0,0	string	meta_country	West Bank &amp; Gaza Strip
+18	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+19	0,0	string	meta_topic	LEADER
+20	0,0	string	meta_topic	MILITARY
+21	0,0	string	meta_topic	TERRORISM

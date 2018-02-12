@@ -1,0 +1,19 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	sep20011225000002n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Economics minister: Indonesia to continue debt repayments unlike Argentina
+5	0,0	string	meta_document_time	2001-12-25
+6	0,0	string	meta_create_time	2001-12-25T20:47:42
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Jakarta The Jakarta Post (Internet 
+9	0,0	string	meta_reference	SEP20011225000002 Jakarta The Jakarta Post (Internet Version-WWW) in English 25 Dec 01   [Unattributed report]
+10	0,0	string	meta_region	The Americas
+11	0,0	string	meta_region	East Asia
+12	0,0	string	meta_subregion	South America
+13	0,0	string	meta_subregion	Southeast Asia
+14	0,0	string	meta_country	Argentina
+15	0,0	string	meta_country	Indonesia
+16	0,0	string	meta_topic	DOMESTIC ECONOMIC
+17	0,0	string	meta_topic	INTERNATIONAL ECONOMIC

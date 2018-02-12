@@ -1,0 +1,7 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_type	text
+2	0,0	string	meta_title	   Officials bristle at US human rights report
+3	0,0	string	meta_create_time	2002-03-6
+4	0,0	string	meta_document_time	(EST)--06/03/02
+5	0,0	string	meta_description	Lebanon Daily Star

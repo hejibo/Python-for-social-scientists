@@ -1,0 +1,21 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20011108000301n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Czech Republic Completes Ratification of Kyoto Protocol
+5	0,0	string	meta_document_time	2001-11-08
+6	0,0	string	meta_create_time	2001-11-8T21:47:42
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Prague Lidove Noviny in Czech 
+9	0,0	string	meta_reference	EUP20011108000301 Prague Lidove Noviny in Czech 08 Nov 01 p 2   [CTK report: &quot;Czech Republic Ratified Kyoto Protocol&quot;]
+10	0,0	string	meta_region	East Europe
+11	0,0	string	meta_region	Near East/South Asia
+12	0,0	string	meta_subregion	East Europe
+13	0,0	string	meta_subregion	Arab Africa
+14	0,0	string	meta_country	Czech Republic
+15	0,0	string	meta_country	Morocco
+16	0,0	string	meta_topic	DOMESTIC POLITICAL
+17	0,0	string	meta_topic	ENVIRONMENT
+18	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+19	0,0	string	meta_topic	LEADER

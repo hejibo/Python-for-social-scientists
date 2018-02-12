@@ -1,0 +1,15 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	gmp20020424000241n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Israel's Industrial Output Unchanged in Feb, Falls 10% Since Sep 2000
+5	0,0	string	meta_document_time	2002-04-24
+6	0,0	string	meta_create_time	2002-04-24T21:47:20
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Rishon Leziyyon Globes (Internet Version-WWW) 
+9	0,0	string	meta_reference	GMP20020424000241 Rishon Leziyyon Globes (Internet Version-WWW) in English 24 Apr 02   [Report by Ze'ev Klein: &quot;No Recovery: Industrial Output Unchanged in February&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_subregion	Near East
+12	0,0	string	meta_country	Israel
+13	0,0	string	meta_topic	DOMESTIC ECONOMIC

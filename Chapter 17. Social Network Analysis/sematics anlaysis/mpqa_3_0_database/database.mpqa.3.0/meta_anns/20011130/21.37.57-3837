@@ -1,0 +1,17 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cep20011130000228n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Kazakhstan's external trade exceeds $11.3 billion in Jan-Sep
+5	0,0	string	meta_document_time	2001-11-30
+6	0,0	string	meta_create_time	2001-11-30T21:41:20
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Almaty Kazakhstan Today (Internet Version-WWW) 
+9	0,0	string	meta_reference	CEP20011130000228 Almaty Kazakhstan Today (Internet Version-WWW) in Russian 0815 GMT 30 Nov 01
+10	0,0	string	meta_region	Central Eurasia
+11	0,0	string	meta_subregion	Central Asia
+12	0,0	string	meta_country	Kazakhstan
+13	0,0	string	meta_topic	DOMESTIC POLITICAL
+14	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+15	0,0	string	meta_topic	DOMESTIC ECONOMIC

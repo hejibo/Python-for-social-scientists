@@ -1,0 +1,20 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20020311000055n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	China Daily 'Opinion' Page: US Human Rights Report Defies Truth
+5	0,0	string	meta_document_time	2002-03-11
+6	0,0	string	meta_create_time	2002-03-11T21:37:56
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Beijing China Daily (Internet Version-WWW) 
+9	0,0	string	meta_reference	CPP20020311000055 Beijing China Daily (Internet Version-WWW) in English 11 Mar 02   [Article by Xiao Xin from the &quot;Opinion&quot; page: &quot;US human rights report defies truth&quot;]
+10	0,0	string	meta_region	China
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	China
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_country	China
+15	0,0	string	meta_country	United States
+16	0,0	string	meta_topic	HUMAN RIGHTS
+17	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+18	0,0	string	meta_topic	URGENT

@@ -1,0 +1,22 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20020228000286n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Russian Offers To Export Nuclear Plant Technology to Romania
+5	0,0	string	meta_document_time	2002-02-28
+6	0,0	string	meta_create_time	2002-02-28T21:12:00
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Bucharest Rompres in English 1401 
+9	0,0	string	meta_reference	EUP20020228000286 Bucharest Rompres in English 1401 GMT 28 Feb 02
+10	0,0	string	meta_region	East Europe
+11	0,0	string	meta_region	Central Eurasia
+12	0,0	string	meta_subregion	Balkan States
+13	0,0	string	meta_subregion	Russia
+14	0,0	string	meta_country	Romania
+15	0,0	string	meta_country	Russia
+16	0,0	string	meta_topic	DOMESTIC ECONOMIC
+17	0,0	string	meta_topic	ENERGY
+18	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+19	0,0	string	meta_topic	PROLIFERATION
+20	0,0	string	meta_topic	TECHNOLOGY

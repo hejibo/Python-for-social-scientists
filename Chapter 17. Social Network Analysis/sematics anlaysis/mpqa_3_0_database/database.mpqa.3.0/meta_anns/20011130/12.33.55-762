@@ -1,0 +1,31 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20011129000172n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	CNA: International Political Observers To Attend Symposium In Taipei
+5	0,0	string	meta_document_time	2001-11-29
+6	0,0	string	meta_create_time	2001-11-30T12:37:19
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Taipei Central News Agency WWW-Text 
+9	0,0	string	meta_reference	CPP20011129000172 Taipei Central News Agency WWW-Text in English 1407 GMT 29 Nov 2001   [By Fang Wen-hung]
+10	0,0	string	meta_region	The Americas
+11	0,0	string	meta_region	China
+12	0,0	string	meta_region	West Europe
+13	0,0	string	meta_region	East Asia
+14	0,0	string	meta_subregion	North America
+15	0,0	string	meta_subregion	China
+16	0,0	string	meta_subregion	West Europe
+17	0,0	string	meta_subregion	Northeast Asia
+18	0,0	string	meta_subregion	Taiwan
+19	0,0	string	meta_country	Canada
+20	0,0	string	meta_country	China
+21	0,0	string	meta_country	France
+22	0,0	string	meta_country	Germany
+23	0,0	string	meta_country	Japan
+24	0,0	string	meta_country	Taiwan
+25	0,0	string	meta_country	United States
+26	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+27	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+28	0,0	string	meta_topic	DOMESTIC ECONOMIC
+29	0,0	string	meta_topic	DOMESTIC POLITICAL

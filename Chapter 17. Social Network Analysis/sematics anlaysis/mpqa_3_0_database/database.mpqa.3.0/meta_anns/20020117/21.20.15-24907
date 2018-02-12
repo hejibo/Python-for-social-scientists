@@ -1,0 +1,20 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cep20020117000244n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Russia adopts new mechanism to monitor exports to Iraq
+5	0,0	string	meta_document_time	2002-01-17
+6	0,0	string	meta_create_time	2002-01-17T21:24:32
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Moscow Interfax in English 1503 
+9	0,0	string	meta_reference	CEP20020117000244 Moscow Interfax in English 1503 GMT 17 Jan 02
+10	0,0	string	meta_region	Central Eurasia
+11	0,0	string	meta_region	Near East/South Asia
+12	0,0	string	meta_subregion	Russia
+13	0,0	string	meta_subregion	Near East
+14	0,0	string	meta_country	Russia
+15	0,0	string	meta_country	Iraq
+16	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+17	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+18	0,0	string	meta_topic	PROLIFERATION

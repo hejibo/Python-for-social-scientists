@@ -1,0 +1,22 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20020406000048n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Austria: SPOe Floor Leader Sees Sharon Risking Relations With Arab States
+5	0,0	string	meta_document_time	2002-04-06
+6	0,0	string	meta_create_time	2002-04-6T21:14:56
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Vienna Die Presse in German 
+9	0,0	string	meta_reference	EUP20020406000048 Vienna Die Presse in German 06 Apr 02 p 10   [Commentary by Josef Cap: &quot;Sharon Is Damaging Israel&quot;]
+10	0,0	string	meta_region	West Europe
+11	0,0	string	meta_region	Near East/South Asia
+12	0,0	string	meta_subregion	West Europe
+13	0,0	string	meta_subregion	Near East
+14	0,0	string	meta_country	Austria
+15	0,0	string	meta_country	Israel
+16	0,0	string	meta_country	West Bank &amp; Gaza Strip
+17	0,0	string	meta_topic	HUMAN RIGHTS
+18	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+19	0,0	string	meta_topic	LEADER
+20	0,0	string	meta_topic	MILITARY

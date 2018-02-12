@@ -1,0 +1,17 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cep20020121000350n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Russian president briefed on rockets in Krunichev space center
+5	0,0	string	meta_document_time	2002-01-21
+6	0,0	string	meta_create_time	2002-01-21T21:35:32
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Moscow Interfax in English 1616 
+9	0,0	string	meta_reference	CEP20020121000350 Moscow Interfax in English 1616 GMT 21 Jan 02
+10	0,0	string	meta_region	Central Eurasia
+11	0,0	string	meta_subregion	Russia
+12	0,0	string	meta_country	Russia
+13	0,0	string	meta_topic	LEADER
+14	0,0	string	meta_topic	DOMESTIC POLITICAL
+15	0,0	string	meta_topic	TECHNOLOGY

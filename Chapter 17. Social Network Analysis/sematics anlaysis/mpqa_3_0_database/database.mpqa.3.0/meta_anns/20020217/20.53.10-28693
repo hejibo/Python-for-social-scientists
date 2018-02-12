@@ -1,0 +1,22 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20020217000005n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	AFP: Taiwan FM Spokeswoman Says Group To Monitor Bush's China Visit Despite Assurances
+5	0,0	string	meta_document_time	2002-02-17
+6	0,0	string	meta_create_time	2002-02-17T20:53:09
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Hong Kong AFP in English 
+9	0,0	string	meta_reference	CPP20020217000005 Hong Kong AFP in English 0202 GMT 17 Feb 02   [By Benjamin Yeh: &quot;Taiwan Frets Over Bush's China Visit&quot;]
+10	0,0	string	meta_region	The Americas
+11	0,0	string	meta_region	China
+12	0,0	string	meta_subregion	North America
+13	0,0	string	meta_subregion	China
+14	0,0	string	meta_subregion	Taiwan
+15	0,0	string	meta_country	United States
+16	0,0	string	meta_country	China
+17	0,0	string	meta_country	Taiwan
+18	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+19	0,0	string	meta_topic	LEADER
+20	0,0	string	meta_topic	URGENT

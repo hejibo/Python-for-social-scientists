@@ -1,0 +1,15 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	gmp20020411000185n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Israel's Ha'aretz: 'Unilateral' EU Move To Prejudice Europe's Status in Region
+5	0,0	string	meta_document_time	2002-04-11
+6	0,0	string	meta_create_time	2002-04-11T22:24:18
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Tel Aviv Ha'aretz (Internet Version-WWW) 
+9	0,0	string	meta_reference	GMP20020411000185 Tel Aviv Ha'aretz (Internet Version-WWW) in English 11 Apr 02   [Editorial: &quot;EU Sanctions Won't Work&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_subregion	Near East
+12	0,0	string	meta_country	Israel
+13	0,0	string	meta_topic	INTERNATIONAL POLITICAL

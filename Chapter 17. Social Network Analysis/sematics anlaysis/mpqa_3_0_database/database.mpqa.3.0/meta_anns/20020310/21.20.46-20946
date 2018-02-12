@@ -1,0 +1,21 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20020310000024n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Spain believes Camp X-Ray prisoners treated humanely
+5	0,0	string	meta_document_time	2002-03-10
+6	0,0	string	meta_create_time	2002-03-10T21:20:55
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Madrid EFE in Spanish 1015 
+9	0,0	string	meta_reference	EUP20020310000024 Madrid EFE in Spanish 1015 GMT 10 Mar 02
+10	0,0	string	meta_region	West Europe
+11	0,0	string	meta_region	Near East/South Asia
+12	0,0	string	meta_region	The Americas
+13	0,0	string	meta_subregion	West Europe
+14	0,0	string	meta_subregion	South Asia
+15	0,0	string	meta_subregion	North America
+16	0,0	string	meta_country	Spain
+17	0,0	string	meta_country	Afghanistan
+18	0,0	string	meta_country	United States
+19	0,0	string	meta_topic	INTERNATIONAL POLITICAL

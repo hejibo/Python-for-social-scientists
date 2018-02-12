@@ -1,0 +1,18 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20010927000089n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	AFP: Taiwan's Chief WTO Negotiator Says WTO Entry in Mar 2002 Expected
+5	0,0	string	meta_document_time	2001-09-27
+6	0,0	string	meta_create_time	2001-09-27T23:56:16
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Hong Kong AFP in English 
+9	0,0	string	meta_reference	CPP20010927000089 Hong Kong AFP in English 0728 GMT 27 Sep 01
+10	0,0	string	meta_region	China
+11	0,0	string	meta_subregion	Taiwan
+12	0,0	string	meta_country	Taiwan
+13	0,0	string	meta_topic	INTERNATIONAL ECONOMIC
+14	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+15	0,0	string	meta_topic	LEADER
+16	0,0	string	meta_topic	URGENT

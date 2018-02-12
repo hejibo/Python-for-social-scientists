@@ -1,0 +1,19 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	iap20020420000014n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Iran: Khatami congratulates Venezuelan Government on Chavez' return
+5	0,0	string	meta_document_time	2002-04-20
+6	0,0	string	meta_create_time	2002-04-20T21:33:18
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Tehran IRNA in English 0937 
+9	0,0	string	meta_reference	IAP20020420000014 Tehran IRNA in English 0937 GMT 20 Apr 02
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	South Asia
+13	0,0	string	meta_subregion	South America
+14	0,0	string	meta_country	Iran
+15	0,0	string	meta_country	Venezuela
+16	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+17	0,0	string	meta_topic	LEADER

@@ -1,0 +1,24 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20011014000186n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Belgian premier says EU leaders will discuss American strikes at summit
+5	0,0	string	meta_document_time	2001-10-14
+6	0,0	string	meta_create_time	2001-10-14T22:02:55
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Brussels RTBF La Premiere Radio 
+9	0,0	string	meta_reference	EUP20011014000186 Brussels RTBF La Premiere Radio in French 1700 GMT 14 Oct 01
+10	0,0	string	meta_region	West Europe
+11	0,0	string	meta_region	Near East/South Asia
+12	0,0	string	meta_region	The Americas
+13	0,0	string	meta_subregion	Benelux Countries
+14	0,0	string	meta_subregion	South Asia
+15	0,0	string	meta_subregion	North America
+16	0,0	string	meta_country	Belgium
+17	0,0	string	meta_country	Afghanistan
+18	0,0	string	meta_country	United States
+19	0,0	string	meta_topic	TERRORISM
+20	0,0	string	meta_topic	MILITARY
+21	0,0	string	meta_topic	LEADER
+22	0,0	string	meta_topic	INTERNATIONAL POLITICAL

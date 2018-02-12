@@ -1,0 +1,21 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	eup20011127000114n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Belgian Lawyers Claim Israeli Prime Minister Directly Involved in 1982 Massacres
+5	0,0	string	meta_document_time	2001-11-27
+6	0,0	string	meta_create_time	2001-11-27T21:26:15
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Groot Bijgaarden De Standaard (Internet 
+9	0,0	string	meta_reference	EUP20011127000114 Groot Bijgaarden De Standaard (Internet Version-WWW) in Dutch 27 Nov 01   [Report by Manu Tassier: &quot;Israel Directly Involved in Massacres&quot;]
+10	0,0	string	meta_region	West Europe
+11	0,0	string	meta_region	Near East/South Asia
+12	0,0	string	meta_subregion	Benelux Countries
+13	0,0	string	meta_subregion	Near East
+14	0,0	string	meta_country	Belgium
+15	0,0	string	meta_country	Israel
+16	0,0	string	meta_country	Lebanon
+17	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+18	0,0	string	meta_topic	LEADER
+19	0,0	string	meta_topic	URGENT

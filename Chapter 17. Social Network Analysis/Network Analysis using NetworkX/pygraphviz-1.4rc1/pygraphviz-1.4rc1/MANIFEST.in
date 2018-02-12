@@ -1,0 +1,20 @@
+include MANIFEST.in
+include INSTALL.txt
+include README.rst
+include LICENSE
+
+include *.py
+include *.swg
+include Makefile
+include tox.ini
+
+recursive-include doc *.png
+recursive-include pygraphviz *.i
+recursive-include examples *.py *.gz 
+recursive-include doc *.py *.rst Makefile *.html *.txt *.css 
+
+global-exclude *~
+global-exclude *.pyc
+global-exclude .svn
+
+prune doc/build

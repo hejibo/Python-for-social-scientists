@@ -1,0 +1,15 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20010817000120n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Taiwan Government To Push Chinese Language Education for Overseas Chinese
+5	0,0	string	meta_document_time	2001-08-17
+6	0,0	string	meta_create_time	2001-08-17T23:26:40
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Taipei Central News Agency WWW-Text 
+9	0,0	string	meta_reference	CPP20010817000120 Taipei Central News Agency WWW-Text in English 1225 GMT 17 Aug 01   [By Elisa Kao]
+10	0,0	string	meta_region	China
+11	0,0	string	meta_subregion	Taiwan
+12	0,0	string	meta_country	Taiwan
+13	0,0	string	meta_topic	INTERNATIONAL POLITICAL

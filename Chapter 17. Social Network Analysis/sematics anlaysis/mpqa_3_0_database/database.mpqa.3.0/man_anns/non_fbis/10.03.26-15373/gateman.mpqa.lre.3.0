@@ -1,0 +1,150 @@
+# MPQA Annotation file
+# Created from gate_anns/non_fbis/10.03.26-15373/gateman.mpqa.3.0.xml
+# on Sun Dec 13 16:56:24 EST 2015
+# by Lingjia Deng
+1	2604,2608	split	
+2	2497,2498	split	
+3	2009,2024	agent	id="hansato" nested-source="w,hansato" 
+4	479,483	split	
+5	54,57	split	
+6	1510,1512	agent	nested-source="w,hansen" 
+7	676,677	split	
+8	2240,2247	agent	nested-source="w,hansato" 
+9	1896,1897	split	
+10	2620,2624	split	
+11	1278,1290	agent	id="hansen" nested-source="w,hansen" 
+12	1718,1719	split	
+13	1374,1375	split	
+14	828,832	split	
+15	137,151	agent	id="study" nested-source="w,study" 
+16	993,1004	attitude	id="a14" intensity="low" attitude-type="other-attitude" targetFrame-link="tfa14" 
+17	2704,2705	split	
+18	4,54	attitude	id="a10" intensity="low" attitude-type="other-attitude" targetFrame-link="tfa10" 
+19	4,54	sentence	nested-source="w" 
+20	1526,1719	sentence	nested-source="w" 
+21	483,677	sentence	nested-source="w" 
+22	1721,1897	sentence	nested-source="w" 
+23	1428,1508	attitude	id="a17" intensity="low" attitude-type="speculation" targetFrame-link="tfa17" 
+24	2025,2238	attitude	id="a19" intensity="medium" attitude-type="arguing-pos" targetFrame-link="tfa19" 
+25	2682,2683	split	
+26	478,479	split	
+27	2603,2604	split	
+28	678,719	attitude	id="a13" intensity="low" attitude-type="other-attitude" targetFrame-link="tfa13" 
+29	152,255	attitude	id="a11" intensity="low" attitude-type="arguing-pos" targetFrame-link="tfa11" 
+30	2705,2707	split	
+31	260,317	agent	id="res" nested-source="w,res" 
+32	57,63	split	
+33	256,260	split	
+34	2000,2004	split	
+35	579,588	agent	id="countries" nested-source="w,countries" 
+36	255,256	split	
+37	1117,1118	split	
+38	1999,2000	split	
+39	0,0	agent	id="implicit" 
+40	2238,2239	split	
+41	827,828	split	
+42	1118,1122	split	
+43	2633,2636	split	
+44	1092,1107	agent	nested-source="w,res" 
+45	0,0	agent	id="w" 
+46	1522,1526	split	
+47	1521,1522	split	
+48	1721,1721	targetFrame	id="tfose1" sTarget-link="none" newETarget-link="none" 
+49	1526,1526	objective-speech-event	implicit="true" id="ose2" targetFrame-link="tfose2" nested-source="w" 
+50	1721,1721	objective-speech-event	implicit="true" id="ose1" targetFrame-link="tfose1" nested-source="w" 
+51	1226,1226	targetFrame	id="tfa160" sTarget-link="t16" newETarget-link="none" 
+52	1061,1061	targetFrame	id="tfa15" sTarget-link="t15" newETarget-link="e9056,e9058" 
+53	1083,1090	eTarget	id="e9058" type="event" isNegated="no" 
+54	1065,1073	eTarget	id="e9056" type="event" isNegated="no" 
+55	1028,1042	eTarget	id="e9054" type="entity" isNegated="no" 
+56	1122,1122	targetFrame	id="tfose12" sTarget-link="none" newETarget-link="none" 
+57	1122,1122	objective-speech-event	implicit="true" id="ose12" targetFrame-link="tfose12" nested-source="w" 
+58	260,260	targetFrame	id="tfose11" sTarget-link="none" newETarget-link="none" 
+59	9,9	targetFrame	id="tfese4" sTarget-link="none" newETarget-link="none" 
+60	678,678	targetFrame	id="tfa13" sTarget-link="t13" newETarget-link="none" 
+61	1428,1428	targetFrame	id="tfese1" sTarget-link="none" newETarget-link="none" 
+62	993,993	targetFrame	id="tfa14" sTarget-link="t14" newETarget-link="none" 
+63	4,4	targetFrame	id="tfa10" sTarget-link="none" newETarget-link="none" 
+64	1226,1226	targetFrame	id="tfese5" sTarget-link="none" newETarget-link="none" 
+65	224,224	targetFrame	id="tfese6" sTarget-link="none" newETarget-link="none" 
+66	1254,1254	targetFrame	id="tfa16" sTarget-link="t16" newETarget-link="none" 
+67	2240,2240	objective-speech-event	implicit="true" id="ose7" targetFrame-link="tfose7" nested-source="w" 
+68	1899,1899	targetFrame	id="tfose6" sTarget-link="none" newETarget-link="none" 
+69	338,344	objective-speech-event	id="ose8" targetFrame-link="tfose8" nested-source="w,res" 
+70	2240,2240	targetFrame	id="tfose7" sTarget-link="none" newETarget-link="none" 
+71	152,152	targetFrame	id="tfa11" sTarget-link="t11" newETarget-link="none" 
+72	338,338	targetFrame	id="tfose8" sTarget-link="none" newETarget-link="none" 
+73	176,176	targetFrame	id="tfese2" sTarget-link="none" newETarget-link="none" 
+74	2053,2053	targetFrame	id="tfese3" sTarget-link="none" newETarget-link="none" 
+75	678,678	objective-speech-event	implicit="true" id="ose3" targetFrame-link="tfose3" nested-source="w" 
+76	1526,1526	targetFrame	id="tfose2" sTarget-link="none" newETarget-link="none" 
+77	2004,2005	objective-speech-event	implicit="true" id="ose4" targetFrame-link="tfose4" nested-source="w" 
+78	678,678	targetFrame	id="tfose3" sTarget-link="none" newETarget-link="none" 
+79	2499,2504	objective-speech-event	implicit="true" id="ose5" targetFrame-link="tfose5" nested-source="w" 
+80	2004,2004	targetFrame	id="tfose4" sTarget-link="none" newETarget-link="none" 
+81	1899,1899	objective-speech-event	implicit="true" id="ose6" targetFrame-link="tfose6" nested-source="w" 
+82	2499,2499	targetFrame	id="tfose5" sTarget-link="none" newETarget-link="none" 
+83	43,45	eTarget	id="e9005" isNegated="no" type="entity" isReferredInSpan="no" 
+84	34,34	targetFrame	id="tfese9" sTarget-link="none" newETarget-link="e9005" 
+85	2053,2078	expressive-subjectivity	id="ese3" intensity="medium" targetFrame-link="tfese3" polarity="neutral" nested-source="w,hansato" 
+86	1808,1808	targetFrame	id="tfa18" sTarget-link="t18" newETarget-link="none" 
+87	1428,1433	expressive-subjectivity	id="ese1" intensity="low" targetFrame-link="tfese1" polarity="neutral" nested-source="w,hansen" 
+88	1808,1896	attitude	id="a18" intensity="low-medium" attitude-type="arguing-pos" targetFrame-link="tfa18" 
+89	589,598	attitude	id="a12" intensity="medium" attitude-type="agree-pos" targetFrame-link="tfa12" 
+90	176,183	expressive-subjectivity	id="ese2" intensity="low" targetFrame-link="tfese2" polarity="neutral" nested-source="w,study" 
+91	1061,1090	attitude	id="a15" intensity="low-medium" attitude-type="sentiment-neg" attitude-uncertain="very-uncertain" targetFrame-link="tfa15" 
+92	1254,1269	attitude	id="a16" intensity="low" attitude-type="arguing-pos" targetFrame-link="tfa16" 
+93	9,28	expressive-subjectivity	id="ese4" intensity="high" targetFrame-link="tfese4" polarity="neutral" nested-source="w" 
+94	1226,1249	attitude	id="a160" intensity="low" attitude-type="arguing-neg" targetFrame-link="tfa160" 
+95	589,595	direct-subjective	expression-intensity="low" intensity="low" id="ds9" attitude-link="a12" polarity="neutral" nested-source="w,countries" 
+96	1254,1269	expressive-subjectivity	id="ese7" intensity="low" targetFrame-link="tfese7" polarity="neutral" nested-source="w,hansen" 
+97	1982,1989	expressive-subjectivity	id="ese8" intensity="medium" es-uncertain="somewhat-uncertain" targetFrame-link="tfese8" polarity="neutral" nested-source="w" 
+98	1808,1829	direct-subjective	expression-intensity="medium" id="ds10" annotation-uncertain="somewhat-uncertain" attitude-link="a18" polarity="neutral" intensity="medium" nested-source="w,implicit" 
+99	1226,1249	expressive-subjectivity	id="ese5" intensity="low" targetFrame-link="tfese5" polarity="neutral" nested-source="w,hansen" 
+100	34,42	expressive-subjectivity	id="ese9" intensity="medium" targetFrame-link="tfese9" polarity="positive" nested-source="w" 
+101	224,255	expressive-subjectivity	id="ese6" intensity="medium" targetFrame-link="tfese6" polarity="neutral" nested-source="w,study" 
+102	1376,1376	objective-speech-event	implicit="true" id="ose13" targetFrame-link="tfose13" nested-source="w" 
+103	1376,1376	targetFrame	id="tfose13" sTarget-link="none" newETarget-link="none" 
+104	483,483	objective-speech-event	implicit="true" id="ose14" targetFrame-link="tfose14" nested-source="w" 
+105	483,483	targetFrame	id="tfose14" sTarget-link="none" newETarget-link="none" 
+106	1108,1117	objective-speech-event	id="ose15" targetFrame-link="tfose15" nested-source="w,res" 
+107	1108,1108	targetFrame	id="tfose15" sTarget-link="none" newETarget-link="none" 
+108	832,832	objective-speech-event	implicit="true" id="ose16" targetFrame-link="tfose16" nested-source="w" 
+109	832,832	targetFrame	id="tfose16" sTarget-link="none" newETarget-link="none" 
+110	63,63	objective-speech-event	implicit="true" id="ose9" targetFrame-link="tfose9" nested-source="w" 
+111	63,63	targetFrame	id="tfose9" sTarget-link="none" newETarget-link="none" 
+112	2249,2259	objective-speech-event	id="ose10" annotation-uncertain="somewhat-uncertain" targetFrame-link="tfose10" nested-source="w,hansato" 
+113	2249,2249	targetFrame	id="tfose10" sTarget-link="none" newETarget-link="none" 
+114	260,260	objective-speech-event	implicit="true" id="ose11" targetFrame-link="tfose11" nested-source="w" 
+115	260,479	sentence	nested-source="w" 
+116	832,1118	sentence	nested-source="w" 
+117	1376,1522	sentence	nested-source="w" 
+118	678,828	sentence	nested-source="w" 
+119	1789,1807	sTarget	id="t18" eTarget-link="none" 
+120	2036,2048	sTarget	id="t19" eTarget-link="none" 
+121	1122,1375	sentence	nested-source="w" 
+122	2004,2239	sentence	nested-source="w" 
+123	2240,2498	sentence	nested-source="w" 
+124	1899,2000	sentence	nested-source="w" 
+125	721,732	sTarget	id="t13" eTarget-link="none" 
+126	166,175	sTarget	id="t11" eTarget-link="none" 
+127	1376,1426	sTarget	id="t17" eTarget-link="none" 
+128	1213,1220	sTarget	id="t16" eTarget-link="none" 
+129	2499,2604	sentence	nested-source="w" 
+130	63,256	sentence	nested-source="w" 
+131	966,978	sTarget	id="t14" eTarget-link="none" 
+132	1272,1277	direct-subjective	expression-intensity="neutral" intensity="low" id="ds4" attitude-link="a16,a160" nested-source="w,hansen" 
+133	599,676	sTarget	id="t12" eTarget-link="none" 
+134	1023,1042	sTarget	id="t15" eTarget-link="e9054" 
+135	678,683	direct-subjective	expression-intensity="low" intensity="low" id="ds1" attitude-link="a13" polarity="neutral" nested-source="w,implicit" 
+136	993,1004	direct-subjective	expression-intensity="low" id="ds8" attitude-link="a14" polarity="neutral" subjective-uncertain="somewhat-uncertain" intensity="low" nested-source="w,res,implicit" 
+137	2025,2030	direct-subjective	expression-intensity="medium" intensity="medium" id="ds3" attitude-link="a19" polarity="neutral" nested-source="w,hansato" 
+138	1061,1073	direct-subjective	expression-intensity="low" id="ds2" attitude-link="a15" polarity="neutral" subjective-uncertain="somewhat-uncertain" intensity="low" nested-source="w,implicit" 
+139	152,160	direct-subjective	expression-intensity="low" intensity="medium" id="ds5" attitude-link="a11" polarity="neutral" nested-source="w,study" 
+140	1982,1982	targetFrame	id="tfese8" sTarget-link="none" newETarget-link="none" 
+141	4,4	direct-subjective	intensity="medium" id="ds7" is-implicit="yes" attitude-link="a10" nested-source="w" 
+142	1513,1521	direct-subjective	expression-intensity="low" intensity="low" id="ds6" attitude-link="a17" polarity="neutral" nested-source="w,hansen" 
+143	2025,2025	targetFrame	id="tfa19" sTarget-link="t19" newETarget-link="none" 
+144	1428,1428	targetFrame	id="tfa17" sTarget-link="t17" newETarget-link="none" 
+145	1254,1254	targetFrame	id="tfese7" sTarget-link="none" newETarget-link="none" 
+146	589,589	targetFrame	id="tfa12" sTarget-link="t12" newETarget-link="none" 

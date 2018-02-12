@@ -1,0 +1,26 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	gmp20020219000114n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Jordanian Columnist: ' Axis of Evil' 'Not a Successful' Choice of Words
+5	0,0	string	meta_document_time	2002-02-19
+6	0,0	string	meta_create_time	2002-02-19T20:52:47
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Amman Al-Ra'y in Arabic 19 
+9	0,0	string	meta_reference	GMP20020219000114 Amman Al-Ra'y in Arabic 19 Feb 02 p 24   [&quot;Highlights&quot; Column by Fahd al-Fanik: &quot;A Theory About the Axis of Evil&quot;]
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	East Asia
+12	0,0	string	meta_region	The Americas
+13	0,0	string	meta_subregion	South Asia
+14	0,0	string	meta_subregion	Near East
+15	0,0	string	meta_subregion	Northeast Asia
+16	0,0	string	meta_subregion	North America
+17	0,0	string	meta_country	Iran
+18	0,0	string	meta_country	Iraq
+19	0,0	string	meta_country	Jordan
+20	0,0	string	meta_country	North Korea
+21	0,0	string	meta_country	United States
+22	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+23	0,0	string	meta_topic	LEADER
+24	0,0	string	meta_topic	TERRORISM.911USA

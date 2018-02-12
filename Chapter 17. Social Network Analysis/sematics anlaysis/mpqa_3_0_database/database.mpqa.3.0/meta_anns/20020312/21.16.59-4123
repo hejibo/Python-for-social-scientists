@@ -1,0 +1,19 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	sep20020312000075n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Minister: Indonesia, Singapore agree to settle differences quietly
+5	0,0	string	meta_document_time	2002-03-12
+6	0,0	string	meta_create_time	2002-03-12T21:17:10
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Jakarta The Jakarta Post (Internet 
+9	0,0	string	meta_reference	SEP20020312000075 Jakarta The Jakarta Post (Internet Version-WWW) in English 12 Mar 02   [Attrributed to AFP]
+10	0,0	string	meta_region	East Asia
+11	0,0	string	meta_subregion	Southeast Asia
+12	0,0	string	meta_country	Indonesia
+13	0,0	string	meta_country	Singapore
+14	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+15	0,0	string	meta_topic	LEADER
+16	0,0	string	meta_topic	TERRORISM
+17	0,0	string	meta_topic	URGENT

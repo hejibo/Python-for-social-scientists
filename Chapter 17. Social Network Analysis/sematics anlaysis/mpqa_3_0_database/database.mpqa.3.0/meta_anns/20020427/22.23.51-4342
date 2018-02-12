@@ -1,0 +1,18 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cep20020427000011n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Senior Palestinian negotiator to arrive in Moscow 29 April
+5	0,0	string	meta_document_time	2002-04-27
+6	0,0	string	meta_create_time	2002-04-27T21:52:46
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Moscow Interfax in English 0737 
+9	0,0	string	meta_reference	CEP20020427000011 Moscow Interfax in English 0737 GMT 27 Apr 02
+10	0,0	string	meta_region	Central Eurasia
+11	0,0	string	meta_region	Near East/South Asia
+12	0,0	string	meta_subregion	Russia
+13	0,0	string	meta_subregion	Near East
+14	0,0	string	meta_country	Russia
+15	0,0	string	meta_country	West Bank &amp; Gaza Strip
+16	0,0	string	meta_topic	INTERNATIONAL POLITICAL

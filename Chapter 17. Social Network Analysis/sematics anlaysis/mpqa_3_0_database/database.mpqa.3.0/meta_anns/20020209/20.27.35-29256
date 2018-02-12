@@ -1,0 +1,19 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	iap20020209000028n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Iran: Daily comments on 'shameful' treatment of Taliban, al-Qa'ida prisoners
+5	0,0	string	meta_document_time	2002-02-09
+6	0,0	string	meta_create_time	2002-02-9T20:27:33
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Tehran Keyhan International in English 
+9	0,0	string	meta_reference	IAP20020209000028 Tehran Keyhan International in English 0001 GMT 9 Feb 02
+10	0,0	string	meta_region	Near East/South Asia
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	South Asia
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_country	Iran
+15	0,0	string	meta_country	United States
+16	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+17	0,0	string	meta_topic	HUMAN RIGHTS

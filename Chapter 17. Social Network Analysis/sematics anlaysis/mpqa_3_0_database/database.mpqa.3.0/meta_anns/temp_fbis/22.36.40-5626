@@ -1,0 +1,23 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cpp20020409000158n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	PRC FM Spokesman Refutes US Military Official's Remarks on Protecting Taiwan
+5	0,0	string	meta_document_time	2002-04-09
+6	0,0	string	meta_create_time	2002-04-9T22:37:54
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Beijing Xinhua in English 1139 
+9	0,0	string	meta_reference	CPP20020409000158 Beijing Xinhua in English 1139 GMT 09 Apr 02
+10	0,0	string	meta_region	China
+11	0,0	string	meta_region	The Americas
+12	0,0	string	meta_subregion	China
+13	0,0	string	meta_subregion	North America
+14	0,0	string	meta_subregion	Taiwan
+15	0,0	string	meta_country	China
+16	0,0	string	meta_country	United States
+17	0,0	string	meta_country	Taiwan
+18	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+19	0,0	string	meta_topic	LEADER
+20	0,0	string	meta_topic	URGENT
+21	0,0	string	meta_topic	MILITARY

@@ -1,0 +1,21 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_file	cep20020114000265n.html
+2	0,0	string	meta_media_type	text
+3	0,0	string	meta_scribe	Rough'n'Ready v1.1
+4	0,0	string	meta_title	Russia urges quickest possible probe into Palestinian weapons smuggling
+5	0,0	string	meta_document_time	2002-01-14
+6	0,0	string	meta_create_time	2002-01-14T21:20:08
+7	0,0	string	meta_source	Worldwide Open-source News
+8	0,0	string	meta_description	Moscow Interfax in English 1517 
+9	0,0	string	meta_reference	CEP20020114000265 Moscow Interfax in English 1517 GMT 14 Jan 02
+10	0,0	string	meta_region	Central Eurasia
+11	0,0	string	meta_region	Near East/South Asia
+12	0,0	string	meta_subregion	Russia
+13	0,0	string	meta_subregion	Near East
+14	0,0	string	meta_country	Russia
+15	0,0	string	meta_country	Israel
+16	0,0	string	meta_country	West Bank &amp; Gaza Strip
+17	0,0	string	meta_topic	INTERNATIONAL POLITICAL
+18	0,0	string	meta_topic	MILITARY
+19	0,0	string	meta_topic	TERRORISM

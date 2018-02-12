@@ -1,0 +1,6 @@
+# Meta annotations automatically created by
+# preformat_raw/prepare_meta_ann.gawk
+1	0,0	string	meta_media_type	text
+2	0,0	string	meta_title	Finance Minister of Argentina Resigns Post
+3	0,0	string	meta_create_time	2001-12-15
+4	0,0	string	meta_description	New York Times
